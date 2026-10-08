@@ -1,0 +1,265 @@
+{
+ "scale_factor": 1.0,
+ "recorded_at": "2026-09-30T19:35:34",
+ "kit": {
+  "url": "https://github.com/gregrahn/tpcds-kit.git",
+  "commit": "5a3a81796992b725c2a8b216767e142609966752",
+  "version": "dsdgen Population Generator (Version 2.10.0)"
+ },
+ "seconds": {
+  "dsdgen": 43.7,
+  "load": 80.5,
+  "copy": 38.3,
+  "foreign_keys": 17.2,
+  "indexes": 14.7,
+  "vacuum_freeze_analyze": 10.1,
+  "total": 124.2
+ },
+ "copy_seconds_by_table": {
+  "dbgen_version": 0.0,
+  "customer_address": 0.1,
+  "customer_demographics": 2.1,
+  "date_dim": 0.2,
+  "warehouse": 0.0,
+  "ship_mode": 0.0,
+  "time_dim": 0.1,
+  "reason": 0.0,
+  "income_band": 0.0,
+  "item": 0.1,
+  "store": 0.0,
+  "call_center": 0.0,
+  "customer": 0.2,
+  "web_site": 0.0,
+  "store_returns": 0.8,
+  "household_demographics": 0.0,
+  "web_page": 0.0,
+  "promotion": 0.0,
+  "catalog_page": 0.0,
+  "inventory": 13.4,
+  "catalog_returns": 0.5,
+  "web_returns": 0.2,
+  "web_sales": 3.0,
+  "catalog_sales": 6.5,
+  "store_sales": 10.8
+ },
+ "lines_reencoded_to_utf8": {},
+ "database": "tpcds",
+ "database_bytes": 3142981311,
+ "primary_keys": 24,
+ "foreign_keys": 102,
+ "indexes": 120,
+ "rows": 19557336,
+ "flat_file_bytes": 1253241614,
+ "tables": {
+  "call_center": {
+   "rows": 6,
+   "table_bytes": 49152,
+   "index_bytes": 49152,
+   "indexes": 3,
+   "flat_file_bytes": 1891
+  },
+  "catalog_page": {
+   "rows": 11718,
+   "table_bytes": 2015232,
+   "index_bytes": 475136,
+   "indexes": 3,
+   "flat_file_bytes": 1631792
+  },
+  "catalog_returns": {
+   "rows": 144067,
+   "table_bytes": 23756800,
+   "index_bytes": 30875648,
+   "indexes": 16,
+   "flat_file_bytes": 21378371
+  },
+  "catalog_sales": {
+   "rows": 1441548,
+   "table_bytes": 306888704,
+   "index_bytes": 221503488,
+   "indexes": 17,
+   "flat_file_bytes": 295910384
+  },
+  "customer": {
+   "rows": 100000,
+   "table_bytes": 22732800,
+   "index_bytes": 8577024,
+   "indexes": 6,
+   "flat_file_bytes": 13210282
+  },
+  "customer_address": {
+   "rows": 50000,
+   "table_bytes": 8945664,
+   "index_bytes": 1138688,
+   "indexes": 1,
+   "flat_file_bytes": 5502165
+  },
+  "customer_demographics": {
+   "rows": 1920800,
+   "table_bytes": 178888704,
+   "index_bytes": 43155456,
+   "indexes": 1,
+   "flat_file_bytes": 80660096
+  },
+  "date_dim": {
+   "rows": 73049,
+   "table_bytes": 11542528,
+   "index_bytes": 3309568,
+   "indexes": 2,
+   "flat_file_bytes": 10317438
+  },
+  "dbgen_version": {
+   "rows": 1,
+   "table_bytes": 40960,
+   "index_bytes": 0,
+   "indexes": 0,
+   "flat_file_bytes": 100
+  },
+  "household_demographics": {
+   "rows": 7200,
+   "table_bytes": 466944,
+   "index_bytes": 253952,
+   "indexes": 2,
+   "flat_file_bytes": 151653
+  },
+  "income_band": {
+   "rows": 20,
+   "table_bytes": 40960,
+   "index_bytes": 16384,
+   "indexes": 1,
+   "flat_file_bytes": 328
+  },
+  "inventory": {
+   "rows": 11745000,
+   "table_bytes": 520519680,
+   "index_bytes": 678699008,
+   "indexes": 3,
+   "flat_file_bytes": 236420139
+  },
+  "item": {
+   "rows": 18000,
+   "table_bytes": 10182656,
+   "index_bytes": 425984,
+   "indexes": 1,
+   "flat_file_bytes": 5051899
+  },
+  "promotion": {
+   "rows": 300,
+   "table_bytes": 98304,
+   "index_bytes": 65536,
+   "indexes": 4,
+   "flat_file_bytes": 37233
+  },
+  "reason": {
+   "rows": 35,
+   "table_bytes": 40960,
+   "index_bytes": 16384,
+   "indexes": 1,
+   "flat_file_bytes": 1339
+  },
+  "ship_mode": {
+   "rows": 20,
+   "table_bytes": 40960,
+   "index_bytes": 16384,
+   "indexes": 1,
+   "flat_file_bytes": 1113
+  },
+  "store": {
+   "rows": 12,
+   "table_bytes": 49152,
+   "index_bytes": 32768,
+   "indexes": 2,
+   "flat_file_bytes": 3155
+  },
+  "store_returns": {
+   "rows": 287514,
+   "table_bytes": 39321600,
+   "index_bytes": 33374208,
+   "indexes": 9,
+   "flat_file_bytes": 32710005
+  },
+  "store_sales": {
+   "rows": 2880404,
+   "table_bytes": 424419328,
+   "index_bytes": 259309568,
+   "indexes": 9,
+   "flat_file_bytes": 388445409
+  },
+  "time_dim": {
+   "rows": 86400,
+   "table_bytes": 11476992,
+   "index_bytes": 1949696,
+   "indexes": 1,
+   "flat_file_bytes": 5107780
+  },
+  "warehouse": {
+   "rows": 5,
+   "table_bytes": 40960,
+   "index_bytes": 16384,
+   "indexes": 1,
+   "flat_file_bytes": 585
+  },
+  "web_page": {
+   "rows": 60,
+   "table_bytes": 49152,
+   "index_bytes": 49152,
+   "indexes": 3,
+   "flat_file_bytes": 5776
+  },
+  "web_returns": {
+   "rows": 71763,
+   "table_bytes": 11173888,
+   "index_bytes": 15360000,
+   "indexes": 13,
+   "flat_file_bytes": 9806236
+  },
+  "web_sales": {
+   "rows": 719384,
+   "table_bytes": 154271744,
+   "index_bytes": 108314624,
+   "indexes": 17,
+   "flat_file_bytes": 146877674
+  },
+  "web_site": {
+   "rows": 30,
+   "table_bytes": 57344,
+   "index_bytes": 49152,
+   "indexes": 3,
+   "flat_file_bytes": 8771
+  }
+ },
+ "server": {
+  "version": "PostgreSQL 18.6 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit",
+  "jit_available": false,
+  "settings": {
+   "application_name": "psql",
+   "autovacuum_worker_slots": "16",
+   "cpu_tuple_cost": "0.01",
+   "DateStyle": "ISO, MDY",
+   "default_statistics_target": "100",
+   "default_text_search_config": "pg_catalog.english",
+   "dynamic_shared_memory_type": "posix",
+   "effective_cache_size": "1048576",
+   "jit": "on",
+   "lc_messages": "C",
+   "lc_monetary": "C",
+   "lc_numeric": "C",
+   "lc_time": "C",
+   "listen_addresses": "localhost",
+   "log_timezone": "America/Toronto",
+   "maintenance_work_mem": "1048576",
+   "max_connections": "100",
+   "max_parallel_workers_per_gather": "2",
+   "max_wal_size": "1024",
+   "min_wal_size": "80",
+   "port": "5433",
+   "random_page_cost": "4",
+   "seq_page_cost": "1",
+   "shared_buffers": "262144",
+   "statement_timeout": "600000",
+   "TimeZone": "America/Toronto",
+   "unix_socket_directories": "/tmp",
+   "work_mem": "65536"
+  },
+  "database_size": "2997 MB"
+ }
+}

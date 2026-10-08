@@ -1,0 +1,86 @@
+{
+ "E1 (leave one query out)": {
+  "min": 5.623413251903491e-06,
+  "median": 1.778279410038923e-05,
+  "max": 5.623413251903491e-05,
+  "n": 5,
+  "at_grid_end": 0
+ },
+ "E2 (leave one template out)": {
+  "min": 31.622776601683793,
+  "median": 100.0,
+  "max": 177.82794100389228,
+  "n": 22,
+  "at_grid_end": 0
+ },
+ "E3 (leave one query out)": {
+  "min": 1e-06,
+  "median": 3.1622776601683795e-05,
+  "max": 0.001,
+  "n": 25,
+  "at_grid_end": 3
+ },
+ "E4 k=1 (leave one query out)": {
+  "min": 1e-06,
+  "median": 100.0,
+  "max": 100000.0,
+  "n": 22,
+  "at_grid_end": 13
+ },
+ "E4 k=2 (leave one template out)": {
+  "min": 1e-06,
+  "median": 439.28454560359353,
+  "max": 100000.0,
+  "n": 20,
+  "at_grid_end": 10
+ },
+ "E4 k=3 (leave one template out)": {
+  "min": 5.623413251903491e-05,
+  "median": 1389.1397050194614,
+  "max": 100000.0,
+  "n": 20,
+  "at_grid_end": 9
+ },
+ "E4 k=4 (leave one template out)": {
+  "min": 0.00031622776601683794,
+  "median": 1000.0,
+  "max": 100000.0,
+  "n": 20,
+  "at_grid_end": 5
+ },
+ "E4 k=6 (leave one template out)": {
+  "min": 5.623413251903491e-05,
+  "median": 56.23413251903491,
+  "max": 100000.0,
+  "n": 20,
+  "at_grid_end": 3
+ },
+ "E4 k=8 (leave one template out)": {
+  "min": 0.005623413251903491,
+  "median": 100.0,
+  "max": 100000.0,
+  "n": 20,
+  "at_grid_end": 2
+ },
+ "E4 k=12 (leave one template out)": {
+  "min": 0.01,
+  "median": 56.23413251903491,
+  "max": 562.341325190349,
+  "n": 20,
+  "at_grid_end": 0
+ },
+ "E4 k=16 (leave one template out)": {
+  "min": 3.1622776601683795,
+  "median": 100.0,
+  "max": 316.22776601683796,
+  "n": 20,
+  "at_grid_end": 0
+ },
+ "E4 k=21 (leave one template out)": {
+  "min": 31.622776601683793,
+  "median": 100.0,
+  "max": 177.82794100389228,
+  "n": 22,
+  "at_grid_end": 0
+ }
+}

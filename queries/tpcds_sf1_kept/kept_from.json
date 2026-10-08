@@ -1,0 +1,6 @@
+{
+ "screen": "results/tpcds_sf1/screen.json",
+ "source": "queries/tpcds_sf1",
+ "queries": 482,
+ "note": "the queries of the template parts kept by scripts/tpcds_screen.py, copied unchanged"
+}

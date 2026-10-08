@@ -1,0 +1,156 @@
+{
+ "machine": "M1_tpcds",
+ "query_dir": "queries/tpcds_sf1_kept",
+ "passes_planned": 3,
+ "updated_at": "2026-10-01T06:24:21-04:00",
+ "host": {
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "cpu_count": 22,
+  "mem_total": "16117920 kB",
+  "cpu_model": "Intel(R) Core(TM) Ultra 7 155H",
+  "kernel": "6.18.33.2-microsoft-standard-WSL2",
+  "hostname": "laptop",
+  "cpus_usable": 22,
+  "virtual_machine": true
+ },
+ "passes": [
+  {
+   "dir": "pass1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-01T04:56:12",
+   "finished_at": "2026-10-01T05:29:48",
+   "rows": 482,
+   "status_counts": {
+    "ok": 482
+   },
+   "load1": {
+    "median": 2.16,
+    "max": 4.43
+   },
+   "power": [
+    {
+     "ended_at": "2026-10-01T05:29:48-04:00",
+     "lines": 65,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 87,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 39,
+      "max": 100
+     }
+    }
+   ],
+   "check": null,
+   "rejected": null
+  },
+  {
+   "dir": "pass2",
+   "pass": 2,
+   "seed": 1,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-01T05:29:49",
+   "finished_at": "2026-10-01T05:55:55",
+   "rows": 482,
+   "status_counts": {
+    "ok": 482
+   },
+   "load1": {
+    "median": 2.09,
+    "max": 4.67
+   },
+   "power": [
+    {
+     "ended_at": "2026-10-01T05:55:56-04:00",
+     "lines": 51,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 88,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 15,
+      "max": 85
+     }
+    }
+   ],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass2",
+    "n_compared": 482,
+    "same_plan": 482,
+    "median_q": 1.1184689437979465,
+    "p90_q": 1.7009825070619893,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.013821577230401338,
+     "reference": 0.07533915283822024
+    },
+    "identity": {
+     "reference": "2026-10-01T04:56:12/2026-10-01T05:29:48",
+     "pass": "2026-10-01T05:29:49/2026-10-01T05:55:55"
+    }
+   },
+   "rejected": null
+  },
+  {
+   "dir": "pass3",
+   "pass": 3,
+   "seed": 2,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-01T05:56:02",
+   "finished_at": "2026-10-01T06:24:16",
+   "rows": 482,
+   "status_counts": {
+    "ok": 482
+   },
+   "load1": {
+    "median": 1.9,
+    "max": 3.29
+   },
+   "power": [
+    {
+     "ended_at": "2026-10-01T06:24:17-04:00",
+     "lines": 55,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 89,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 18,
+      "max": 96
+     }
+    }
+   ],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass3",
+    "n_compared": 482,
+    "same_plan": 482,
+    "median_q": 1.1143247252090775,
+    "p90_q": 1.7247782936059979,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.007792738538452859,
+     "reference": 0.07400622992524097
+    },
+    "identity": {
+     "reference": "2026-10-01T04:56:12/2026-10-01T05:29:48",
+     "pass": "2026-10-01T05:56:02/2026-10-01T06:24:16"
+    }
+   },
+   "rejected": null
+  }
+ ],
+ "rejected": []
+}

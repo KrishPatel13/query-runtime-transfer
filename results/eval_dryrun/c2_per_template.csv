@@ -1,0 +1,1601 @@
+pair,method,k,template,log_q,q
+M1->M2,No adaptation,5,1,0.643594,1.90331
+M1->M2,No adaptation,5,2,0.579229,1.78466
+M1->M2,No adaptation,5,3,0.517226,1.67737
+M1->M2,No adaptation,5,4,0.488434,1.62976
+M1->M2,No adaptation,5,5,0.718246,2.05083
+M1->M2,No adaptation,5,6,0.773158,2.1666
+M1->M2,No adaptation,5,7,0.660672,1.93609
+M1->M2,No adaptation,5,8,0.746464,2.10953
+M1->M2,No adaptation,5,9,0.559426,1.74967
+M1->M2,No adaptation,5,10,0.694992,2.00369
+M1->M2,No adaptation,5,11,0.14389,1.15476
+M1->M2,No adaptation,5,12,0.431005,1.5388
+M1->M2,No adaptation,5,13,0.313108,1.36767
+M1->M2,No adaptation,5,14,0.519087,1.68049
+M1->M2,No adaptation,5,15,0.167893,1.18281
+M1->M2,No adaptation,5,16,0.554737,1.74148
+M1->M2,No adaptation,5,17,0.682876,1.97956
+M1->M2,No adaptation,5,18,0.818117,2.26623
+M1->M2,No adaptation,5,19,0.567448,1.76376
+M1->M2,No adaptation,5,20,0.107532,1.11353
+M1->M2,No adaptation,5,21,0.565393,1.76014
+M1->M2,No adaptation,5,22,1.05362,2.868
+M1->M2,No adaptation,10,1,0.643594,1.90331
+M1->M2,No adaptation,10,2,0.579229,1.78466
+M1->M2,No adaptation,10,3,0.517226,1.67737
+M1->M2,No adaptation,10,4,0.488434,1.62976
+M1->M2,No adaptation,10,5,0.718246,2.05083
+M1->M2,No adaptation,10,6,0.773158,2.1666
+M1->M2,No adaptation,10,7,0.660672,1.93609
+M1->M2,No adaptation,10,8,0.746464,2.10953
+M1->M2,No adaptation,10,9,0.559426,1.74967
+M1->M2,No adaptation,10,10,0.694992,2.00369
+M1->M2,No adaptation,10,11,0.14389,1.15476
+M1->M2,No adaptation,10,12,0.431005,1.5388
+M1->M2,No adaptation,10,13,0.313108,1.36767
+M1->M2,No adaptation,10,14,0.519087,1.68049
+M1->M2,No adaptation,10,15,0.167893,1.18281
+M1->M2,No adaptation,10,16,0.554737,1.74148
+M1->M2,No adaptation,10,17,0.682876,1.97956
+M1->M2,No adaptation,10,18,0.818117,2.26623
+M1->M2,No adaptation,10,19,0.567448,1.76376
+M1->M2,No adaptation,10,20,0.107532,1.11353
+M1->M2,No adaptation,10,21,0.565393,1.76014
+M1->M2,No adaptation,10,22,1.05362,2.868
+M1->M2,No adaptation,25,1,0.643594,1.90331
+M1->M2,No adaptation,25,2,0.579229,1.78466
+M1->M2,No adaptation,25,3,0.517226,1.67737
+M1->M2,No adaptation,25,4,0.488434,1.62976
+M1->M2,No adaptation,25,5,0.718246,2.05083
+M1->M2,No adaptation,25,6,0.773158,2.1666
+M1->M2,No adaptation,25,7,0.660672,1.93609
+M1->M2,No adaptation,25,8,0.746464,2.10953
+M1->M2,No adaptation,25,9,0.559426,1.74967
+M1->M2,No adaptation,25,10,0.694992,2.00369
+M1->M2,No adaptation,25,11,0.14389,1.15476
+M1->M2,No adaptation,25,12,0.431005,1.5388
+M1->M2,No adaptation,25,13,0.313108,1.36767
+M1->M2,No adaptation,25,14,0.519087,1.68049
+M1->M2,No adaptation,25,15,0.167893,1.18281
+M1->M2,No adaptation,25,16,0.554737,1.74148
+M1->M2,No adaptation,25,17,0.682876,1.97956
+M1->M2,No adaptation,25,18,0.818117,2.26623
+M1->M2,No adaptation,25,19,0.567448,1.76376
+M1->M2,No adaptation,25,20,0.107532,1.11353
+M1->M2,No adaptation,25,21,0.565393,1.76014
+M1->M2,No adaptation,25,22,1.05362,2.868
+M1->M2,No adaptation,50,1,0.643594,1.90331
+M1->M2,No adaptation,50,2,0.579229,1.78466
+M1->M2,No adaptation,50,3,0.517226,1.67737
+M1->M2,No adaptation,50,4,0.488434,1.62976
+M1->M2,No adaptation,50,5,0.718246,2.05083
+M1->M2,No adaptation,50,6,0.773158,2.1666
+M1->M2,No adaptation,50,7,0.660672,1.93609
+M1->M2,No adaptation,50,8,0.746464,2.10953
+M1->M2,No adaptation,50,9,0.559426,1.74967
+M1->M2,No adaptation,50,10,0.694992,2.00369
+M1->M2,No adaptation,50,11,0.14389,1.15476
+M1->M2,No adaptation,50,12,0.431005,1.5388
+M1->M2,No adaptation,50,13,0.313108,1.36767
+M1->M2,No adaptation,50,14,0.519087,1.68049
+M1->M2,No adaptation,50,15,0.167893,1.18281
+M1->M2,No adaptation,50,16,0.554737,1.74148
+M1->M2,No adaptation,50,17,0.682876,1.97956
+M1->M2,No adaptation,50,18,0.818117,2.26623
+M1->M2,No adaptation,50,19,0.567448,1.76376
+M1->M2,No adaptation,50,20,0.107532,1.11353
+M1->M2,No adaptation,50,21,0.565393,1.76014
+M1->M2,No adaptation,50,22,1.05362,2.868
+M1->M2,No adaptation,100,1,0.643594,1.90331
+M1->M2,No adaptation,100,2,0.579229,1.78466
+M1->M2,No adaptation,100,3,0.517226,1.67737
+M1->M2,No adaptation,100,4,0.488434,1.62976
+M1->M2,No adaptation,100,5,0.718246,2.05083
+M1->M2,No adaptation,100,6,0.773158,2.1666
+M1->M2,No adaptation,100,7,0.660672,1.93609
+M1->M2,No adaptation,100,8,0.746464,2.10953
+M1->M2,No adaptation,100,9,0.559426,1.74967
+M1->M2,No adaptation,100,10,0.694992,2.00369
+M1->M2,No adaptation,100,11,0.14389,1.15476
+M1->M2,No adaptation,100,12,0.431005,1.5388
+M1->M2,No adaptation,100,13,0.313108,1.36767
+M1->M2,No adaptation,100,14,0.519087,1.68049
+M1->M2,No adaptation,100,15,0.167893,1.18281
+M1->M2,No adaptation,100,16,0.554737,1.74148
+M1->M2,No adaptation,100,17,0.682876,1.97956
+M1->M2,No adaptation,100,18,0.818117,2.26623
+M1->M2,No adaptation,100,19,0.567448,1.76376
+M1->M2,No adaptation,100,20,0.107532,1.11353
+M1->M2,No adaptation,100,21,0.565393,1.76014
+M1->M2,No adaptation,100,22,1.05362,2.868
+M1->M2,Speed factor,5,1,0.143441,1.15424
+M1->M2,Speed factor,5,2,0.115674,1.12263
+M1->M2,Speed factor,5,3,0.105051,1.11077
+M1->M2,Speed factor,5,4,0.111741,1.11822
+M1->M2,Speed factor,5,5,0.203412,1.22558
+M1->M2,Speed factor,5,6,0.255892,1.29161
+M1->M2,Speed factor,5,7,0.159085,1.17244
+M1->M2,Speed factor,5,8,0.229198,1.25759
+M1->M2,Speed factor,5,9,0.109506,1.11573
+M1->M2,Speed factor,5,10,0.184327,1.20241
+M1->M2,Speed factor,5,11,0.374586,1.45439
+M1->M2,Speed factor,5,12,0.136847,1.14665
+M1->M2,Speed factor,5,13,0.217553,1.24303
+M1->M2,Speed factor,5,14,0.112969,1.1196
+M1->M2,Speed factor,5,15,0.349793,1.41877
+M1->M2,Speed factor,5,16,0.110038,1.11632
+M1->M2,Speed factor,5,17,0.178412,1.19532
+M1->M2,Speed factor,5,18,0.300851,1.35101
+M1->M2,Speed factor,5,19,0.118502,1.12581
+M1->M2,Speed factor,5,20,0.409744,1.50643
+M1->M2,Speed factor,5,21,0.114585,1.12141
+M1->M2,Speed factor,5,22,0.536351,1.70976
+M1->M2,Speed factor,10,1,0.134519,1.14399
+M1->M2,Speed factor,10,2,0.0962971,1.10109
+M1->M2,Speed factor,10,3,0.0814427,1.08485
+M1->M2,Speed factor,10,4,0.0911075,1.09539
+M1->M2,Speed factor,10,5,0.202277,1.22419
+M1->M2,Speed factor,10,6,0.256634,1.29257
+M1->M2,Speed factor,10,7,0.15181,1.16394
+M1->M2,Speed factor,10,8,0.229941,1.25853
+M1->M2,Speed factor,10,9,0.0850261,1.08875
+M1->M2,Speed factor,10,10,0.181423,1.19892
+M1->M2,Speed factor,10,11,0.372994,1.45208
+M1->M2,Speed factor,10,12,0.118928,1.12629
+M1->M2,Speed factor,10,13,0.207673,1.23081
+M1->M2,Speed factor,10,14,0.0940298,1.09859
+M1->M2,Speed factor,10,15,0.34864,1.41714
+M1->M2,Speed factor,10,16,0.0886614,1.09271
+M1->M2,Speed factor,10,17,0.172366,1.18811
+M1->M2,Speed factor,10,18,0.301594,1.35201
+M1->M2,Speed factor,10,19,0.100489,1.10571
+M1->M2,Speed factor,10,20,0.409001,1.50531
+M1->M2,Speed factor,10,21,0.0969357,1.10179
+M1->M2,Speed factor,10,22,0.537093,1.71103
+M1->M2,Speed factor,25,1,0.103847,1.10943
+M1->M2,Speed factor,25,2,0.0626545,1.06466
+M1->M2,Speed factor,25,3,0.0504055,1.0517
+M1->M2,Speed factor,25,4,0.0706895,1.07325
+M1->M2,Speed factor,25,5,0.175628,1.19199
+M1->M2,Speed factor,25,6,0.230281,1.25895
+M1->M2,Speed factor,25,7,0.121131,1.12877
+M1->M2,Speed factor,25,8,0.203588,1.22579
+M1->M2,Speed factor,25,9,0.0490886,1.05031
+M1->M2,Speed factor,25,10,0.153696,1.16614
+M1->M2,Speed factor,25,11,0.399347,1.49085
+M1->M2,Speed factor,25,12,0.117122,1.12426
+M1->M2,Speed factor,25,13,0.229769,1.25831
+M1->M2,Speed factor,25,14,0.069981,1.07249
+M1->M2,Speed factor,25,15,0.374993,1.45498
+M1->M2,Speed factor,25,16,0.0533277,1.05478
+M1->M2,Speed factor,25,17,0.142693,1.15338
+M1->M2,Speed factor,25,18,0.275241,1.31685
+M1->M2,Speed factor,25,19,0.0681522,1.07053
+M1->M2,Speed factor,25,20,0.435354,1.54551
+M1->M2,Speed factor,25,21,0.063008,1.06504
+M1->M2,Speed factor,25,22,0.51074,1.66652
+M1->M2,Speed factor,50,1,0.0864133,1.09026
+M1->M2,Speed factor,50,2,0.0465166,1.04762
+M1->M2,Speed factor,50,3,0.048237,1.04942
+M1->M2,Speed factor,50,4,0.0725234,1.07522
+M1->M2,Speed factor,50,5,0.16032,1.17389
+M1->M2,Speed factor,50,6,0.215232,1.24015
+M1->M2,Speed factor,50,7,0.103713,1.10928
+M1->M2,Speed factor,50,8,0.188539,1.20748
+M1->M2,Speed factor,50,9,0.0347718,1.03538
+M1->M2,Speed factor,50,10,0.137067,1.1469
+M1->M2,Speed factor,50,11,0.414396,1.51346
+M1->M2,Speed factor,50,12,0.126928,1.13534
+M1->M2,Speed factor,50,13,0.244818,1.27739
+M1->M2,Speed factor,50,14,0.0693588,1.07182
+M1->M2,Speed factor,50,15,0.390043,1.47704
+M1->M2,Speed factor,50,16,0.0426932,1.04362
+M1->M2,Speed factor,50,17,0.125187,1.13336
+M1->M2,Speed factor,50,18,0.260191,1.29718
+M1->M2,Speed factor,50,19,0.0584115,1.06015
+M1->M2,Speed factor,50,20,0.450404,1.56895
+M1->M2,Speed factor,50,21,0.0508335,1.05215
+M1->M2,Speed factor,50,22,0.495691,1.64163
+M1->M2,Speed factor,100,1,0.0871154,1.09102
+M1->M2,Speed factor,100,2,0.0488181,1.05003
+M1->M2,Speed factor,100,3,0.0461122,1.04719
+M1->M2,Speed factor,100,4,0.0707894,1.07336
+M1->M2,Speed factor,100,5,0.161768,1.17559
+M1->M2,Speed factor,100,6,0.216679,1.24195
+M1->M2,Speed factor,100,7,0.104193,1.10981
+M1->M2,Speed factor,100,8,0.189986,1.20923
+M1->M2,Speed factor,100,9,0.0322221,1.03275
+M1->M2,Speed factor,100,10,0.138514,1.14857
+M1->M2,Speed factor,100,11,0.412949,1.51127
+M1->M2,Speed factor,100,12,0.125557,1.13378
+M1->M2,Speed factor,100,13,0.243371,1.27554
+M1->M2,Speed factor,100,14,0.0692282,1.07168
+M1->M2,Speed factor,100,15,0.388596,1.47491
+M1->M2,Speed factor,100,16,0.0415019,1.04238
+M1->M2,Speed factor,100,17,0.126398,1.13473
+M1->M2,Speed factor,100,18,0.261638,1.29906
+M1->M2,Speed factor,100,19,0.058388,1.06013
+M1->M2,Speed factor,100,20,0.448956,1.56668
+M1->M2,Speed factor,100,21,0.0495079,1.05075
+M1->M2,Speed factor,100,22,0.497138,1.64401
+M1->M2,Ridge correction,5,1,0.185176,1.20343
+M1->M2,Ridge correction,5,2,0.142156,1.15276
+M1->M2,Ridge correction,5,3,0.0994824,1.1046
+M1->M2,Ridge correction,5,4,0.101564,1.1069
+M1->M2,Ridge correction,5,5,0.187,1.20563
+M1->M2,Ridge correction,5,6,0.324048,1.38271
+M1->M2,Ridge correction,5,7,0.182821,1.2006
+M1->M2,Ridge correction,5,8,0.240262,1.27158
+M1->M2,Ridge correction,5,9,0.155756,1.16854
+M1->M2,Ridge correction,5,10,0.204539,1.22696
+M1->M2,Ridge correction,5,11,0.356299,1.42803
+M1->M2,Ridge correction,5,12,0.114009,1.12076
+M1->M2,Ridge correction,5,13,0.15325,1.16562
+M1->M2,Ridge correction,5,14,0.116233,1.12326
+M1->M2,Ridge correction,5,15,0.275609,1.31733
+M1->M2,Ridge correction,5,16,0.10916,1.11534
+M1->M2,Ridge correction,5,17,0.248372,1.28194
+M1->M2,Ridge correction,5,18,0.364357,1.43959
+M1->M2,Ridge correction,5,19,0.185109,1.20335
+M1->M2,Ridge correction,5,20,0.342789,1.40887
+M1->M2,Ridge correction,5,21,0.104787,1.11047
+M1->M2,Ridge correction,5,22,0.463656,1.58988
+M1->M2,Ridge correction,10,1,0.14955,1.16131
+M1->M2,Ridge correction,10,2,0.110375,1.1167
+M1->M2,Ridge correction,10,3,0.0674197,1.06974
+M1->M2,Ridge correction,10,4,0.0857383,1.08952
+M1->M2,Ridge correction,10,5,0.097978,1.10294
+M1->M2,Ridge correction,10,6,0.247608,1.28096
+M1->M2,Ridge correction,10,7,0.123565,1.13152
+M1->M2,Ridge correction,10,8,0.222252,1.24889
+M1->M2,Ridge correction,10,9,0.140535,1.15089
+M1->M2,Ridge correction,10,10,0.105517,1.11129
+M1->M2,Ridge correction,10,11,0.164233,1.17849
+M1->M2,Ridge correction,10,12,0.126781,1.13517
+M1->M2,Ridge correction,10,13,0.127311,1.13577
+M1->M2,Ridge correction,10,14,0.101467,1.10679
+M1->M2,Ridge correction,10,15,0.179811,1.19699
+M1->M2,Ridge correction,10,16,0.125376,1.13358
+M1->M2,Ridge correction,10,17,0.178745,1.19572
+M1->M2,Ridge correction,10,18,0.176324,1.19282
+M1->M2,Ridge correction,10,19,0.133612,1.14295
+M1->M2,Ridge correction,10,20,0.190075,1.20934
+M1->M2,Ridge correction,10,21,0.0856383,1.08941
+M1->M2,Ridge correction,10,22,0.3124,1.3667
+M1->M2,Ridge correction,25,1,0.0952295,1.09991
+M1->M2,Ridge correction,25,2,0.0844228,1.08809
+M1->M2,Ridge correction,25,3,0.0430925,1.04403
+M1->M2,Ridge correction,25,4,0.0741525,1.07697
+M1->M2,Ridge correction,25,5,0.0846623,1.08835
+M1->M2,Ridge correction,25,6,0.169086,1.18422
+M1->M2,Ridge correction,25,7,0.0854863,1.08925
+M1->M2,Ridge correction,25,8,0.151611,1.16371
+M1->M2,Ridge correction,25,9,0.147269,1.15867
+M1->M2,Ridge correction,25,10,0.108492,1.1146
+M1->M2,Ridge correction,25,11,0.132386,1.14155
+M1->M2,Ridge correction,25,12,0.145931,1.15712
+M1->M2,Ridge correction,25,13,0.120477,1.12804
+M1->M2,Ridge correction,25,14,0.105778,1.11158
+M1->M2,Ridge correction,25,15,0.0843804,1.08804
+M1->M2,Ridge correction,25,16,0.0928464,1.09729
+M1->M2,Ridge correction,25,17,0.132014,1.14112
+M1->M2,Ridge correction,25,18,0.206403,1.22925
+M1->M2,Ridge correction,25,19,0.0862876,1.09012
+M1->M2,Ridge correction,25,20,0.0723121,1.07499
+M1->M2,Ridge correction,25,21,0.0770072,1.08005
+M1->M2,Ridge correction,25,22,0.126661,1.13503
+M1->M2,Ridge correction,50,1,0.132984,1.14223
+M1->M2,Ridge correction,50,2,0.0608306,1.06272
+M1->M2,Ridge correction,50,3,0.0391746,1.03995
+M1->M2,Ridge correction,50,4,0.0603406,1.0622
+M1->M2,Ridge correction,50,5,0.0684185,1.07081
+M1->M2,Ridge correction,50,6,0.143949,1.15483
+M1->M2,Ridge correction,50,7,0.0626058,1.06461
+M1->M2,Ridge correction,50,8,0.139522,1.14972
+M1->M2,Ridge correction,50,9,0.165829,1.18037
+M1->M2,Ridge correction,50,10,0.0828278,1.08635
+M1->M2,Ridge correction,50,11,0.10197,1.10735
+M1->M2,Ridge correction,50,12,0.163313,1.17741
+M1->M2,Ridge correction,50,13,0.11628,1.12331
+M1->M2,Ridge correction,50,14,0.093933,1.09849
+M1->M2,Ridge correction,50,15,0.0543679,1.05587
+M1->M2,Ridge correction,50,16,0.0481196,1.0493
+M1->M2,Ridge correction,50,17,0.0839961,1.08762
+M1->M2,Ridge correction,50,18,0.188437,1.20736
+M1->M2,Ridge correction,50,19,0.0667802,1.06906
+M1->M2,Ridge correction,50,20,0.0437678,1.04474
+M1->M2,Ridge correction,50,21,0.0780162,1.08114
+M1->M2,Ridge correction,50,22,0.0529442,1.05437
+M1->M2,Ridge correction,100,1,0.0652242,1.0674
+M1->M2,Ridge correction,100,2,0.0687401,1.07116
+M1->M2,Ridge correction,100,3,0.0364285,1.0371
+M1->M2,Ridge correction,100,4,0.0536094,1.05507
+M1->M2,Ridge correction,100,5,0.0627479,1.06476
+M1->M2,Ridge correction,100,6,0.0855844,1.08935
+M1->M2,Ridge correction,100,7,0.0611177,1.06302
+M1->M2,Ridge correction,100,8,0.1006,1.10583
+M1->M2,Ridge correction,100,9,0.16265,1.17663
+M1->M2,Ridge correction,100,10,0.0445749,1.04558
+M1->M2,Ridge correction,100,11,0.0712175,1.07381
+M1->M2,Ridge correction,100,12,0.124942,1.13308
+M1->M2,Ridge correction,100,13,0.114581,1.1214
+M1->M2,Ridge correction,100,14,0.0971066,1.10198
+M1->M2,Ridge correction,100,15,0.0337477,1.03432
+M1->M2,Ridge correction,100,16,0.0437668,1.04474
+M1->M2,Ridge correction,100,17,0.0621423,1.06411
+M1->M2,Ridge correction,100,18,0.206079,1.22885
+M1->M2,Ridge correction,100,19,0.0619816,1.06394
+M1->M2,Ridge correction,100,20,0.0343941,1.03499
+M1->M2,Ridge correction,100,21,0.0638245,1.06591
+M1->M2,Ridge correction,100,22,0.0361695,1.03683
+M1->M2,Target only,5,1,1.32742,3.77132
+M1->M2,Target only,5,2,0.401957,1.49475
+M1->M2,Target only,5,3,0.674091,1.96225
+M1->M2,Target only,5,4,0.564445,1.75847
+M1->M2,Target only,5,5,0.362349,1.4367
+M1->M2,Target only,5,6,0.317943,1.3743
+M1->M2,Target only,5,7,1.55289,4.72511
+M1->M2,Target only,5,8,0.252459,1.28719
+M1->M2,Target only,5,9,0.731979,2.07919
+M1->M2,Target only,5,10,0.441609,1.55521
+M1->M2,Target only,5,11,0.949288,2.58387
+M1->M2,Target only,5,12,0.490468,1.63308
+M1->M2,Target only,5,13,1.61747,5.04031
+M1->M2,Target only,5,14,0.882925,2.41796
+M1->M2,Target only,5,15,0.5987,1.81975
+M1->M2,Target only,5,16,0.507166,1.66058
+M1->M2,Target only,5,17,0.864086,2.37284
+M1->M2,Target only,5,18,1.83019,6.23509
+M1->M2,Target only,5,19,1.08781,2.96776
+M1->M2,Target only,5,20,0.643648,1.90341
+M1->M2,Target only,5,21,1.06382,2.89741
+M1->M2,Target only,5,22,0.851937,2.34418
+M1->M2,Target only,10,1,1.22915,3.41833
+M1->M2,Target only,10,2,0.239504,1.27062
+M1->M2,Target only,10,3,0.534948,1.70736
+M1->M2,Target only,10,4,0.441224,1.55461
+M1->M2,Target only,10,5,0.197049,1.2178
+M1->M2,Target only,10,6,0.293401,1.34098
+M1->M2,Target only,10,7,1.34465,3.83684
+M1->M2,Target only,10,8,0.357863,1.43027
+M1->M2,Target only,10,9,0.457893,1.58074
+M1->M2,Target only,10,10,0.281412,1.325
+M1->M2,Target only,10,11,0.445122,1.56068
+M1->M2,Target only,10,12,0.383677,1.46767
+M1->M2,Target only,10,13,1.49766,4.47122
+M1->M2,Target only,10,14,0.736954,2.08956
+M1->M2,Target only,10,15,0.467876,1.5966
+M1->M2,Target only,10,16,0.321939,1.3798
+M1->M2,Target only,10,17,0.770012,2.15979
+M1->M2,Target only,10,18,1.55463,4.73333
+M1->M2,Target only,10,19,0.883596,2.41959
+M1->M2,Target only,10,20,0.526625,1.69321
+M1->M2,Target only,10,21,0.849466,2.3384
+M1->M2,Target only,10,22,0.486167,1.62607
+M1->M2,Target only,25,1,0.803931,2.23431
+M1->M2,Target only,25,2,0.129066,1.13776
+M1->M2,Target only,25,3,0.489908,1.63217
+M1->M2,Target only,25,4,0.26163,1.29905
+M1->M2,Target only,25,5,0.102275,1.10769
+M1->M2,Target only,25,6,0.167787,1.18268
+M1->M2,Target only,25,7,0.825113,2.28214
+M1->M2,Target only,25,8,0.317049,1.37307
+M1->M2,Target only,25,9,0.189609,1.20878
+M1->M2,Target only,25,10,0.277605,1.31996
+M1->M2,Target only,25,11,0.197466,1.21831
+M1->M2,Target only,25,12,0.248964,1.2827
+M1->M2,Target only,25,13,1.05111,2.86082
+M1->M2,Target only,25,14,0.532321,1.70288
+M1->M2,Target only,25,15,0.378131,1.45955
+M1->M2,Target only,25,16,0.129689,1.13847
+M1->M2,Target only,25,17,0.503727,1.65488
+M1->M2,Target only,25,18,1.28956,3.63117
+M1->M2,Target only,25,19,0.818153,2.26631
+M1->M2,Target only,25,20,0.281782,1.32549
+M1->M2,Target only,25,21,0.514766,1.67325
+M1->M2,Target only,25,22,0.315838,1.37141
+M1->M2,Target only,50,1,0.467792,1.59647
+M1->M2,Target only,50,2,0.0939378,1.09849
+M1->M2,Target only,50,3,0.293542,1.34117
+M1->M2,Target only,50,4,0.0792323,1.08246
+M1->M2,Target only,50,5,0.0542921,1.05579
+M1->M2,Target only,50,6,0.106788,1.1127
+M1->M2,Target only,50,7,0.448831,1.56648
+M1->M2,Target only,50,8,0.134317,1.14376
+M1->M2,Target only,50,9,0.116401,1.12345
+M1->M2,Target only,50,10,0.206425,1.22928
+M1->M2,Target only,50,11,0.125758,1.13401
+M1->M2,Target only,50,12,0.149227,1.16094
+M1->M2,Target only,50,13,0.68613,1.98601
+M1->M2,Target only,50,14,0.256644,1.29258
+M1->M2,Target only,50,15,0.226663,1.25441
+M1->M2,Target only,50,16,0.061504,1.06343
+M1->M2,Target only,50,17,0.209358,1.23289
+M1->M2,Target only,50,18,1.01228,2.75188
+M1->M2,Target only,50,19,0.458673,1.58197
+M1->M2,Target only,50,20,0.0979919,1.10295
+M1->M2,Target only,50,21,0.302627,1.35341
+M1->M2,Target only,50,22,0.137624,1.14754
+M1->M2,Target only,100,1,0.132965,1.14221
+M1->M2,Target only,100,2,0.0510768,1.0524
+M1->M2,Target only,100,3,0.0984494,1.10346
+M1->M2,Target only,100,4,0.0434749,1.04443
+M1->M2,Target only,100,5,0.0338002,1.03438
+M1->M2,Target only,100,6,0.0431953,1.04414
+M1->M2,Target only,100,7,0.134957,1.14449
+M1->M2,Target only,100,8,0.0483925,1.04958
+M1->M2,Target only,100,9,0.0661357,1.06837
+M1->M2,Target only,100,10,0.108063,1.11412
+M1->M2,Target only,100,11,0.0765067,1.07951
+M1->M2,Target only,100,12,0.101465,1.10679
+M1->M2,Target only,100,13,0.324616,1.3835
+M1->M2,Target only,100,14,0.0936531,1.09818
+M1->M2,Target only,100,15,0.0584264,1.06017
+M1->M2,Target only,100,16,0.0396399,1.04044
+M1->M2,Target only,100,17,0.0460139,1.04709
+M1->M2,Target only,100,18,0.762328,2.14326
+M1->M2,Target only,100,19,0.165302,1.17975
+M1->M2,Target only,100,20,0.0388503,1.03961
+M1->M2,Target only,100,21,0.0945829,1.0992
+M1->M2,Target only,100,22,0.0610489,1.06295
+M1->M2,Oracle,5,1,0.0209994,1.02122
+M1->M2,Oracle,5,2,0.0341374,1.03473
+M1->M2,Oracle,5,3,0.0318287,1.03234
+M1->M2,Oracle,5,4,0.0520203,1.0534
+M1->M2,Oracle,5,5,0.0408537,1.0417
+M1->M2,Oracle,5,6,0.0307435,1.03122
+M1->M2,Oracle,5,7,0.0569046,1.05855
+M1->M2,Oracle,5,8,0.0622645,1.06424
+M1->M2,Oracle,5,9,0.0751078,1.078
+M1->M2,Oracle,5,10,0.069321,1.07178
+M1->M2,Oracle,5,11,0.0887484,1.09281
+M1->M2,Oracle,5,12,0.0875582,1.09151
+M1->M2,Oracle,5,13,0.143594,1.15442
+M1->M2,Oracle,5,14,0.0473801,1.04852
+M1->M2,Oracle,5,15,0.0305144,1.03098
+M1->M2,Oracle,5,16,0.042943,1.04388
+M1->M2,Oracle,5,17,0.0495631,1.05081
+M1->M2,Oracle,5,18,0.163762,1.17793
+M1->M2,Oracle,5,19,0.0534487,1.0549
+M1->M2,Oracle,5,20,0.0118361,1.01191
+M1->M2,Oracle,5,21,0.0676491,1.06999
+M1->M2,Oracle,5,22,0.0240616,1.02435
+M1->M2,Oracle,10,1,0.0209994,1.02122
+M1->M2,Oracle,10,2,0.0341374,1.03473
+M1->M2,Oracle,10,3,0.0318287,1.03234
+M1->M2,Oracle,10,4,0.0520203,1.0534
+M1->M2,Oracle,10,5,0.0408537,1.0417
+M1->M2,Oracle,10,6,0.0307435,1.03122
+M1->M2,Oracle,10,7,0.0569046,1.05855
+M1->M2,Oracle,10,8,0.0622645,1.06424
+M1->M2,Oracle,10,9,0.0751078,1.078
+M1->M2,Oracle,10,10,0.069321,1.07178
+M1->M2,Oracle,10,11,0.0887484,1.09281
+M1->M2,Oracle,10,12,0.0875582,1.09151
+M1->M2,Oracle,10,13,0.143594,1.15442
+M1->M2,Oracle,10,14,0.0473801,1.04852
+M1->M2,Oracle,10,15,0.0305144,1.03098
+M1->M2,Oracle,10,16,0.042943,1.04388
+M1->M2,Oracle,10,17,0.0495631,1.05081
+M1->M2,Oracle,10,18,0.163762,1.17793
+M1->M2,Oracle,10,19,0.0534487,1.0549
+M1->M2,Oracle,10,20,0.0118361,1.01191
+M1->M2,Oracle,10,21,0.0676491,1.06999
+M1->M2,Oracle,10,22,0.0240616,1.02435
+M1->M2,Oracle,25,1,0.0209994,1.02122
+M1->M2,Oracle,25,2,0.0341374,1.03473
+M1->M2,Oracle,25,3,0.0318287,1.03234
+M1->M2,Oracle,25,4,0.0520203,1.0534
+M1->M2,Oracle,25,5,0.0408537,1.0417
+M1->M2,Oracle,25,6,0.0307435,1.03122
+M1->M2,Oracle,25,7,0.0569046,1.05855
+M1->M2,Oracle,25,8,0.0622645,1.06424
+M1->M2,Oracle,25,9,0.0751078,1.078
+M1->M2,Oracle,25,10,0.069321,1.07178
+M1->M2,Oracle,25,11,0.0887484,1.09281
+M1->M2,Oracle,25,12,0.0875582,1.09151
+M1->M2,Oracle,25,13,0.143594,1.15442
+M1->M2,Oracle,25,14,0.0473801,1.04852
+M1->M2,Oracle,25,15,0.0305144,1.03098
+M1->M2,Oracle,25,16,0.042943,1.04388
+M1->M2,Oracle,25,17,0.0495631,1.05081
+M1->M2,Oracle,25,18,0.163762,1.17793
+M1->M2,Oracle,25,19,0.0534487,1.0549
+M1->M2,Oracle,25,20,0.0118361,1.01191
+M1->M2,Oracle,25,21,0.0676491,1.06999
+M1->M2,Oracle,25,22,0.0240616,1.02435
+M1->M2,Oracle,50,1,0.0209994,1.02122
+M1->M2,Oracle,50,2,0.0341374,1.03473
+M1->M2,Oracle,50,3,0.0318287,1.03234
+M1->M2,Oracle,50,4,0.0520203,1.0534
+M1->M2,Oracle,50,5,0.0408537,1.0417
+M1->M2,Oracle,50,6,0.0307435,1.03122
+M1->M2,Oracle,50,7,0.0569046,1.05855
+M1->M2,Oracle,50,8,0.0622645,1.06424
+M1->M2,Oracle,50,9,0.0751078,1.078
+M1->M2,Oracle,50,10,0.069321,1.07178
+M1->M2,Oracle,50,11,0.0887484,1.09281
+M1->M2,Oracle,50,12,0.0875582,1.09151
+M1->M2,Oracle,50,13,0.143594,1.15442
+M1->M2,Oracle,50,14,0.0473801,1.04852
+M1->M2,Oracle,50,15,0.0305144,1.03098
+M1->M2,Oracle,50,16,0.042943,1.04388
+M1->M2,Oracle,50,17,0.0495631,1.05081
+M1->M2,Oracle,50,18,0.163762,1.17793
+M1->M2,Oracle,50,19,0.0534487,1.0549
+M1->M2,Oracle,50,20,0.0118361,1.01191
+M1->M2,Oracle,50,21,0.0676491,1.06999
+M1->M2,Oracle,50,22,0.0240616,1.02435
+M1->M2,Oracle,100,1,0.0209994,1.02122
+M1->M2,Oracle,100,2,0.0341374,1.03473
+M1->M2,Oracle,100,3,0.0318287,1.03234
+M1->M2,Oracle,100,4,0.0520203,1.0534
+M1->M2,Oracle,100,5,0.0408537,1.0417
+M1->M2,Oracle,100,6,0.0307435,1.03122
+M1->M2,Oracle,100,7,0.0569046,1.05855
+M1->M2,Oracle,100,8,0.0622645,1.06424
+M1->M2,Oracle,100,9,0.0751078,1.078
+M1->M2,Oracle,100,10,0.069321,1.07178
+M1->M2,Oracle,100,11,0.0887484,1.09281
+M1->M2,Oracle,100,12,0.0875582,1.09151
+M1->M2,Oracle,100,13,0.143594,1.15442
+M1->M2,Oracle,100,14,0.0473801,1.04852
+M1->M2,Oracle,100,15,0.0305144,1.03098
+M1->M2,Oracle,100,16,0.042943,1.04388
+M1->M2,Oracle,100,17,0.0495631,1.05081
+M1->M2,Oracle,100,18,0.163762,1.17793
+M1->M2,Oracle,100,19,0.0534487,1.0549
+M1->M2,Oracle,100,20,0.0118361,1.01191
+M1->M2,Oracle,100,21,0.0676491,1.06999
+M1->M2,Oracle,100,22,0.0240616,1.02435
+M1->M3,No adaptation,5,1,0.47211,1.60337
+M1->M3,No adaptation,5,2,0.287083,1.33254
+M1->M3,No adaptation,5,3,0.416614,1.51682
+M1->M3,No adaptation,5,4,0.382489,1.46593
+M1->M3,No adaptation,5,5,0.650555,1.9166
+M1->M3,No adaptation,5,6,0.336892,1.40059
+M1->M3,No adaptation,5,7,0.18281,1.20059
+M1->M3,No adaptation,5,8,0.622857,1.86425
+M1->M3,No adaptation,5,9,0.634936,1.8869
+M1->M3,No adaptation,5,10,0.0914351,1.09575
+M1->M3,No adaptation,5,11,0.223375,1.25029
+M1->M3,No adaptation,5,12,0.439531,1.55198
+M1->M3,No adaptation,5,13,0.791606,2.20694
+M1->M3,No adaptation,5,14,0.487791,1.62871
+M1->M3,No adaptation,5,15,0.291606,1.33858
+M1->M3,No adaptation,5,16,0.145134,1.15619
+M1->M3,No adaptation,5,17,0.333794,1.39626
+M1->M3,No adaptation,5,19,0.233406,1.26289
+M1->M3,No adaptation,5,20,0.249391,1.28324
+M1->M3,No adaptation,5,21,0.468004,1.5968
+M1->M3,No adaptation,5,22,0.0969745,1.10183
+M1->M3,No adaptation,10,1,0.47211,1.60337
+M1->M3,No adaptation,10,2,0.287083,1.33254
+M1->M3,No adaptation,10,3,0.416614,1.51682
+M1->M3,No adaptation,10,4,0.382489,1.46593
+M1->M3,No adaptation,10,5,0.650555,1.9166
+M1->M3,No adaptation,10,6,0.336892,1.40059
+M1->M3,No adaptation,10,7,0.18281,1.20059
+M1->M3,No adaptation,10,8,0.622857,1.86425
+M1->M3,No adaptation,10,9,0.634936,1.8869
+M1->M3,No adaptation,10,10,0.0914351,1.09575
+M1->M3,No adaptation,10,11,0.223375,1.25029
+M1->M3,No adaptation,10,12,0.439531,1.55198
+M1->M3,No adaptation,10,13,0.791606,2.20694
+M1->M3,No adaptation,10,14,0.487791,1.62871
+M1->M3,No adaptation,10,15,0.291606,1.33858
+M1->M3,No adaptation,10,16,0.145134,1.15619
+M1->M3,No adaptation,10,17,0.333794,1.39626
+M1->M3,No adaptation,10,19,0.233406,1.26289
+M1->M3,No adaptation,10,20,0.249391,1.28324
+M1->M3,No adaptation,10,21,0.468004,1.5968
+M1->M3,No adaptation,10,22,0.0969745,1.10183
+M1->M3,No adaptation,25,1,0.47211,1.60337
+M1->M3,No adaptation,25,2,0.287083,1.33254
+M1->M3,No adaptation,25,3,0.416614,1.51682
+M1->M3,No adaptation,25,4,0.382489,1.46593
+M1->M3,No adaptation,25,5,0.650555,1.9166
+M1->M3,No adaptation,25,6,0.336892,1.40059
+M1->M3,No adaptation,25,7,0.18281,1.20059
+M1->M3,No adaptation,25,8,0.622857,1.86425
+M1->M3,No adaptation,25,9,0.634936,1.8869
+M1->M3,No adaptation,25,10,0.0914351,1.09575
+M1->M3,No adaptation,25,11,0.223375,1.25029
+M1->M3,No adaptation,25,12,0.439531,1.55198
+M1->M3,No adaptation,25,13,0.791606,2.20694
+M1->M3,No adaptation,25,14,0.487791,1.62871
+M1->M3,No adaptation,25,15,0.291606,1.33858
+M1->M3,No adaptation,25,16,0.145134,1.15619
+M1->M3,No adaptation,25,17,0.333794,1.39626
+M1->M3,No adaptation,25,19,0.233406,1.26289
+M1->M3,No adaptation,25,20,0.249391,1.28324
+M1->M3,No adaptation,25,21,0.468004,1.5968
+M1->M3,No adaptation,25,22,0.0969745,1.10183
+M1->M3,No adaptation,50,1,0.47211,1.60337
+M1->M3,No adaptation,50,2,0.287083,1.33254
+M1->M3,No adaptation,50,3,0.416614,1.51682
+M1->M3,No adaptation,50,4,0.382489,1.46593
+M1->M3,No adaptation,50,5,0.650555,1.9166
+M1->M3,No adaptation,50,6,0.336892,1.40059
+M1->M3,No adaptation,50,7,0.18281,1.20059
+M1->M3,No adaptation,50,8,0.622857,1.86425
+M1->M3,No adaptation,50,9,0.634936,1.8869
+M1->M3,No adaptation,50,10,0.0914351,1.09575
+M1->M3,No adaptation,50,11,0.223375,1.25029
+M1->M3,No adaptation,50,12,0.439531,1.55198
+M1->M3,No adaptation,50,13,0.791606,2.20694
+M1->M3,No adaptation,50,14,0.487791,1.62871
+M1->M3,No adaptation,50,15,0.291606,1.33858
+M1->M3,No adaptation,50,16,0.145134,1.15619
+M1->M3,No adaptation,50,17,0.333794,1.39626
+M1->M3,No adaptation,50,19,0.233406,1.26289
+M1->M3,No adaptation,50,20,0.249391,1.28324
+M1->M3,No adaptation,50,21,0.468004,1.5968
+M1->M3,No adaptation,50,22,0.0969745,1.10183
+M1->M3,No adaptation,100,1,0.47211,1.60337
+M1->M3,No adaptation,100,2,0.287083,1.33254
+M1->M3,No adaptation,100,3,0.416614,1.51682
+M1->M3,No adaptation,100,4,0.382489,1.46593
+M1->M3,No adaptation,100,5,0.650555,1.9166
+M1->M3,No adaptation,100,6,0.336892,1.40059
+M1->M3,No adaptation,100,7,0.18281,1.20059
+M1->M3,No adaptation,100,8,0.622857,1.86425
+M1->M3,No adaptation,100,9,0.634936,1.8869
+M1->M3,No adaptation,100,10,0.0914351,1.09575
+M1->M3,No adaptation,100,11,0.223375,1.25029
+M1->M3,No adaptation,100,12,0.439531,1.55198
+M1->M3,No adaptation,100,13,0.791606,2.20694
+M1->M3,No adaptation,100,14,0.487791,1.62871
+M1->M3,No adaptation,100,15,0.291606,1.33858
+M1->M3,No adaptation,100,16,0.145134,1.15619
+M1->M3,No adaptation,100,17,0.333794,1.39626
+M1->M3,No adaptation,100,19,0.233406,1.26289
+M1->M3,No adaptation,100,20,0.249391,1.28324
+M1->M3,No adaptation,100,21,0.468004,1.5968
+M1->M3,No adaptation,100,22,0.0969745,1.10183
+M1->M3,Speed factor,5,1,0.141627,1.15215
+M1->M3,Speed factor,5,2,0.074295,1.07712
+M1->M3,Speed factor,5,3,0.0900771,1.09426
+M1->M3,Speed factor,5,4,0.0683434,1.07073
+M1->M3,Speed factor,5,5,0.316897,1.37286
+M1->M3,Speed factor,5,6,0.0526887,1.0541
+M1->M3,Speed factor,5,7,0.151041,1.16304
+M1->M3,Speed factor,5,8,0.289199,1.33536
+M1->M3,Speed factor,5,9,0.301278,1.35159
+M1->M3,Speed factor,5,10,0.242317,1.2742
+M1->M3,Speed factor,5,11,0.112759,1.11936
+M1->M3,Speed factor,5,12,0.110894,1.11728
+M1->M3,Speed factor,5,13,0.457948,1.58083
+M1->M3,Speed factor,5,14,0.16375,1.17792
+M1->M3,Speed factor,5,15,0.0702195,1.07274
+M1->M3,Speed factor,5,16,0.188992,1.20803
+M1->M3,Speed factor,5,17,0.0605735,1.06245
+M1->M3,Speed factor,5,19,0.131894,1.14099
+M1->M3,Speed factor,5,20,0.0863266,1.09016
+M1->M3,Speed factor,5,21,0.135079,1.14463
+M1->M3,Speed factor,5,22,0.236943,1.26737
+M1->M3,Speed factor,10,1,0.131738,1.14081
+M1->M3,Speed factor,10,2,0.0783509,1.0815
+M1->M3,Speed factor,10,3,0.0778329,1.08094
+M1->M3,Speed factor,10,4,0.0554701,1.05704
+M1->M3,Speed factor,10,5,0.309515,1.36276
+M1->M3,Speed factor,10,6,0.0463836,1.04748
+M1->M3,Speed factor,10,7,0.158423,1.17166
+M1->M3,Speed factor,10,8,0.281817,1.32554
+M1->M3,Speed factor,10,9,0.293896,1.34164
+M1->M3,Speed factor,10,10,0.249699,1.28364
+M1->M3,Speed factor,10,11,0.119306,1.12671
+M1->M3,Speed factor,10,12,0.100736,1.10598
+M1->M3,Speed factor,10,13,0.450566,1.5692
+M1->M3,Speed factor,10,14,0.154403,1.16696
+M1->M3,Speed factor,10,15,0.0680328,1.0704
+M1->M3,Speed factor,10,16,0.196374,1.21698
+M1->M3,Speed factor,10,17,0.0525099,1.05391
+M1->M3,Speed factor,10,19,0.130489,1.13938
+M1->M3,Speed factor,10,20,0.0931534,1.09763
+M1->M3,Speed factor,10,21,0.126965,1.13538
+M1->M3,Speed factor,10,22,0.244325,1.27676
+M1->M3,Speed factor,25,1,0.107048,1.11299
+M1->M3,Speed factor,25,2,0.0905909,1.09482
+M1->M3,Speed factor,25,3,0.0517513,1.05311
+M1->M3,Speed factor,25,4,0.0304784,1.03095
+M1->M3,Speed factor,25,5,0.285493,1.33042
+M1->M3,Speed factor,25,6,0.0388934,1.03966
+M1->M3,Speed factor,25,7,0.182445,1.20015
+M1->M3,Speed factor,25,8,0.257795,1.29407
+M1->M3,Speed factor,25,9,0.269874,1.3098
+M1->M3,Speed factor,25,10,0.273721,1.31485
+M1->M3,Speed factor,25,11,0.141767,1.15231
+M1->M3,Speed factor,25,12,0.0751479,1.07804
+M1->M3,Speed factor,25,13,0.426544,1.53195
+M1->M3,Speed factor,25,14,0.133211,1.14249
+M1->M3,Speed factor,25,15,0.0746105,1.07746
+M1->M3,Speed factor,25,16,0.220396,1.24657
+M1->M3,Speed factor,25,17,0.0461199,1.0472
+M1->M3,Speed factor,25,19,0.140948,1.15136
+M1->M3,Speed factor,25,20,0.11576,1.12273
+M1->M3,Speed factor,25,21,0.102942,1.10843
+M1->M3,Speed factor,25,22,0.268347,1.3078
+M1->M3,Speed factor,50,1,0.107207,1.11316
+M1->M3,Speed factor,50,2,0.0914009,1.09571
+M1->M3,Speed factor,50,3,0.0524043,1.0538
+M1->M3,Speed factor,50,4,0.0320309,1.03255
+M1->M3,Speed factor,50,5,0.285635,1.33061
+M1->M3,Speed factor,50,6,0.0390712,1.03984
+M1->M3,Speed factor,50,7,0.182303,1.19998
+M1->M3,Speed factor,50,8,0.257937,1.29426
+M1->M3,Speed factor,50,9,0.270016,1.30999
+M1->M3,Speed factor,50,10,0.273579,1.31466
+M1->M3,Speed factor,50,11,0.141625,1.15214
+M1->M3,Speed factor,50,12,0.0760377,1.079
+M1->M3,Speed factor,50,13,0.426686,1.53217
+M1->M3,Speed factor,50,14,0.133648,1.14299
+M1->M3,Speed factor,50,15,0.0752602,1.07816
+M1->M3,Speed factor,50,16,0.220255,1.24639
+M1->M3,Speed factor,50,17,0.046246,1.04733
+M1->M3,Speed factor,50,19,0.141931,1.1525
+M1->M3,Speed factor,50,20,0.115618,1.12257
+M1->M3,Speed factor,50,21,0.103084,1.10858
+M1->M3,Speed factor,50,22,0.268205,1.30762
+M1->M3,Speed factor,100,1,0.102215,1.10762
+M1->M3,Speed factor,100,2,0.0902954,1.0945
+M1->M3,Speed factor,100,3,0.046718,1.04783
+M1->M3,Speed factor,100,4,0.0235773,1.02386
+M1->M3,Speed factor,100,5,0.280659,1.324
+M1->M3,Speed factor,100,6,0.0415891,1.04247
+M1->M3,Speed factor,100,7,0.187279,1.20596
+M1->M3,Speed factor,100,8,0.252961,1.28783
+M1->M3,Speed factor,100,9,0.26504,1.30348
+M1->M3,Speed factor,100,10,0.278554,1.32122
+M1->M3,Speed factor,100,11,0.146601,1.15789
+M1->M3,Speed factor,100,12,0.0696352,1.07212
+M1->M3,Speed factor,100,13,0.42171,1.52457
+M1->M3,Speed factor,100,14,0.128035,1.13659
+M1->M3,Speed factor,100,15,0.0787021,1.08188
+M1->M3,Speed factor,100,16,0.22523,1.25261
+M1->M3,Speed factor,100,17,0.0495422,1.05079
+M1->M3,Speed factor,100,19,0.140778,1.15117
+M1->M3,Speed factor,100,20,0.120594,1.12817
+M1->M3,Speed factor,100,21,0.0981089,1.10308
+M1->M3,Speed factor,100,22,0.273181,1.31414
+M1->M3,Ridge correction,5,1,0.151484,1.16356
+M1->M3,Ridge correction,5,2,0.153478,1.16588
+M1->M3,Ridge correction,5,3,0.0850439,1.08876
+M1->M3,Ridge correction,5,4,0.0782426,1.08138
+M1->M3,Ridge correction,5,5,0.259191,1.29588
+M1->M3,Ridge correction,5,6,0.0878126,1.09178
+M1->M3,Ridge correction,5,7,0.187078,1.20572
+M1->M3,Ridge correction,5,8,0.260653,1.29778
+M1->M3,Ridge correction,5,9,0.198385,1.21943
+M1->M3,Ridge correction,5,10,0.342759,1.40883
+M1->M3,Ridge correction,5,11,0.119803,1.12728
+M1->M3,Ridge correction,5,12,0.0986237,1.10365
+M1->M3,Ridge correction,5,13,0.415228,1.51472
+M1->M3,Ridge correction,5,14,0.148773,1.16041
+M1->M3,Ridge correction,5,15,0.0795673,1.08282
+M1->M3,Ridge correction,5,16,0.199238,1.22047
+M1->M3,Ridge correction,5,17,0.0688364,1.07126
+M1->M3,Ridge correction,5,19,0.113768,1.12049
+M1->M3,Ridge correction,5,20,0.085857,1.08965
+M1->M3,Ridge correction,5,21,0.142802,1.1535
+M1->M3,Ridge correction,5,22,0.159694,1.17315
+M1->M3,Ridge correction,10,1,0.134292,1.14373
+M1->M3,Ridge correction,10,2,0.0822117,1.08569
+M1->M3,Ridge correction,10,3,0.0704909,1.07303
+M1->M3,Ridge correction,10,4,0.0515325,1.05288
+M1->M3,Ridge correction,10,5,0.24996,1.28397
+M1->M3,Ridge correction,10,6,0.0598513,1.06168
+M1->M3,Ridge correction,10,7,0.165903,1.18046
+M1->M3,Ridge correction,10,8,0.251345,1.28575
+M1->M3,Ridge correction,10,9,0.214724,1.23952
+M1->M3,Ridge correction,10,10,0.301368,1.35171
+M1->M3,Ridge correction,10,11,0.113722,1.12044
+M1->M3,Ridge correction,10,12,0.0799443,1.08323
+M1->M3,Ridge correction,10,13,0.410023,1.50685
+M1->M3,Ridge correction,10,14,0.139187,1.14934
+M1->M3,Ridge correction,10,15,0.0730868,1.07582
+M1->M3,Ridge correction,10,16,0.171604,1.18721
+M1->M3,Ridge correction,10,17,0.074513,1.07736
+M1->M3,Ridge correction,10,19,0.109451,1.11567
+M1->M3,Ridge correction,10,20,0.0794738,1.08272
+M1->M3,Ridge correction,10,21,0.111616,1.11808
+M1->M3,Ridge correction,10,22,0.166981,1.18173
+M1->M3,Ridge correction,25,1,0.169567,1.18479
+M1->M3,Ridge correction,25,2,0.109762,1.11601
+M1->M3,Ridge correction,25,3,0.0712803,1.07388
+M1->M3,Ridge correction,25,4,0.0432441,1.04419
+M1->M3,Ridge correction,25,5,0.119982,1.12748
+M1->M3,Ridge correction,25,6,0.0727084,1.07542
+M1->M3,Ridge correction,25,7,0.132387,1.14155
+M1->M3,Ridge correction,25,8,0.152107,1.16428
+M1->M3,Ridge correction,25,9,0.0931257,1.0976
+M1->M3,Ridge correction,25,10,0.214385,1.2391
+M1->M3,Ridge correction,25,11,0.10894,1.1151
+M1->M3,Ridge correction,25,12,0.048298,1.04948
+M1->M3,Ridge correction,25,13,0.31672,1.37262
+M1->M3,Ridge correction,25,14,0.111397,1.11784
+M1->M3,Ridge correction,25,15,0.0882211,1.09223
+M1->M3,Ridge correction,25,16,0.316012,1.37165
+M1->M3,Ridge correction,25,17,0.111598,1.11806
+M1->M3,Ridge correction,25,19,0.0986265,1.10365
+M1->M3,Ridge correction,25,20,0.0638342,1.06592
+M1->M3,Ridge correction,25,21,0.0707112,1.07327
+M1->M3,Ridge correction,25,22,0.0774313,1.08051
+M1->M3,Ridge correction,50,1,0.146282,1.15752
+M1->M3,Ridge correction,50,2,0.0890576,1.09314
+M1->M3,Ridge correction,50,3,0.0345743,1.03518
+M1->M3,Ridge correction,50,4,0.0810702,1.08445
+M1->M3,Ridge correction,50,5,0.0908283,1.09508
+M1->M3,Ridge correction,50,6,0.0604135,1.06228
+M1->M3,Ridge correction,50,7,0.0774834,1.08056
+M1->M3,Ridge correction,50,8,0.0656147,1.06782
+M1->M3,Ridge correction,50,9,0.0511757,1.05251
+M1->M3,Ridge correction,50,10,0.134005,1.1434
+M1->M3,Ridge correction,50,11,0.0984359,1.10344
+M1->M3,Ridge correction,50,12,0.063817,1.0659
+M1->M3,Ridge correction,50,13,0.170483,1.18588
+M1->M3,Ridge correction,50,14,0.109382,1.11559
+M1->M3,Ridge correction,50,15,0.0890093,1.09309
+M1->M3,Ridge correction,50,16,0.414172,1.51312
+M1->M3,Ridge correction,50,17,0.0878685,1.09184
+M1->M3,Ridge correction,50,19,0.0788576,1.08205
+M1->M3,Ridge correction,50,20,0.0469122,1.04803
+M1->M3,Ridge correction,50,21,0.0617196,1.06366
+M1->M3,Ridge correction,50,22,0.0483442,1.04953
+M1->M3,Ridge correction,100,1,0.0430659,1.04401
+M1->M3,Ridge correction,100,2,0.0519592,1.05333
+M1->M3,Ridge correction,100,3,0.0181633,1.01833
+M1->M3,Ridge correction,100,4,0.0543758,1.05588
+M1->M3,Ridge correction,100,5,0.084511,1.08818
+M1->M3,Ridge correction,100,6,0.0292682,1.0297
+M1->M3,Ridge correction,100,7,0.0344061,1.035
+M1->M3,Ridge correction,100,8,0.0309579,1.03144
+M1->M3,Ridge correction,100,9,0.0577661,1.05947
+M1->M3,Ridge correction,100,10,0.0688043,1.07123
+M1->M3,Ridge correction,100,11,0.0669903,1.06929
+M1->M3,Ridge correction,100,12,0.101442,1.10677
+M1->M3,Ridge correction,100,13,0.135115,1.14467
+M1->M3,Ridge correction,100,14,0.099699,1.10484
+M1->M3,Ridge correction,100,15,0.0469779,1.0481
+M1->M3,Ridge correction,100,16,0.0590739,1.06085
+M1->M3,Ridge correction,100,17,0.0647342,1.06688
+M1->M3,Ridge correction,100,19,0.0743914,1.07723
+M1->M3,Ridge correction,100,20,0.06005,1.06189
+M1->M3,Ridge correction,100,21,0.0650287,1.06719
+M1->M3,Ridge correction,100,22,0.0409963,1.04185
+M1->M3,Target only,5,1,1.21803,3.38052
+M1->M3,Target only,5,2,0.382377,1.46576
+M1->M3,Target only,5,3,0.618602,1.85633
+M1->M3,Target only,5,4,0.519585,1.68133
+M1->M3,Target only,5,5,0.462456,1.58797
+M1->M3,Target only,5,6,0.369528,1.44705
+M1->M3,Target only,5,7,1.23292,3.43124
+M1->M3,Target only,5,8,0.313695,1.36847
+M1->M3,Target only,5,9,0.908533,2.48068
+M1->M3,Target only,5,10,0.489743,1.6319
+M1->M3,Target only,5,11,1.18241,3.26221
+M1->M3,Target only,5,12,0.418058,1.51901
+M1->M3,Target only,5,13,2.20517,9.0718
+M1->M3,Target only,5,14,0.776546,2.17395
+M1->M3,Target only,5,15,0.361822,1.43594
+M1->M3,Target only,5,16,0.519322,1.68089
+M1->M3,Target only,5,17,0.626957,1.8719
+M1->M3,Target only,5,19,1.16643,3.21052
+M1->M3,Target only,5,20,0.396044,1.48593
+M1->M3,Target only,5,21,1.12474,3.07943
+M1->M3,Target only,5,22,0.997519,2.71155
+M1->M3,Target only,10,1,1.20432,3.33449
+M1->M3,Target only,10,2,0.211736,1.23582
+M1->M3,Target only,10,3,0.516571,1.67627
+M1->M3,Target only,10,4,0.413046,1.51141
+M1->M3,Target only,10,5,0.292854,1.34025
+M1->M3,Target only,10,6,0.253534,1.28857
+M1->M3,Target only,10,7,1.01503,2.75944
+M1->M3,Target only,10,8,0.382716,1.46626
+M1->M3,Target only,10,9,0.656776,1.92856
+M1->M3,Target only,10,10,0.477808,1.61254
+M1->M3,Target only,10,11,0.592441,1.8084
+M1->M3,Target only,10,12,0.26285,1.30063
+M1->M3,Target only,10,13,2.05814,7.83137
+M1->M3,Target only,10,14,0.644525,1.90508
+M1->M3,Target only,10,15,0.241401,1.27303
+M1->M3,Target only,10,16,0.266898,1.30591
+M1->M3,Target only,10,17,0.566597,1.76226
+M1->M3,Target only,10,19,0.972151,2.64362
+M1->M3,Target only,10,20,0.312691,1.3671
+M1->M3,Target only,10,21,0.891395,2.43853
+M1->M3,Target only,10,22,0.417301,1.51786
+M1->M3,Target only,25,1,0.809849,2.24757
+M1->M3,Target only,25,2,0.169672,1.18492
+M1->M3,Target only,25,3,0.500417,1.64941
+M1->M3,Target only,25,4,0.260146,1.29712
+M1->M3,Target only,25,5,0.140515,1.15087
+M1->M3,Target only,25,6,0.176778,1.19337
+M1->M3,Target only,25,7,0.579433,1.78503
+M1->M3,Target only,25,8,0.360245,1.43368
+M1->M3,Target only,25,9,0.343647,1.41008
+M1->M3,Target only,25,10,0.517657,1.67809
+M1->M3,Target only,25,11,0.34574,1.41304
+M1->M3,Target only,25,12,0.131021,1.13999
+M1->M3,Target only,25,13,1.50356,4.49766
+M1->M3,Target only,25,14,0.436996,1.54805
+M1->M3,Target only,25,15,0.155289,1.168
+M1->M3,Target only,25,16,0.19203,1.21171
+M1->M3,Target only,25,17,0.334268,1.39692
+M1->M3,Target only,25,19,0.835362,2.30565
+M1->M3,Target only,25,20,0.199704,1.22104
+M1->M3,Target only,25,21,0.542291,1.71994
+M1->M3,Target only,25,22,0.316641,1.37251
+M1->M3,Target only,50,1,0.498035,1.64549
+M1->M3,Target only,50,2,0.128762,1.13742
+M1->M3,Target only,50,3,0.317915,1.37426
+M1->M3,Target only,50,4,0.110372,1.11669
+M1->M3,Target only,50,5,0.0703963,1.07293
+M1->M3,Target only,50,6,0.0677505,1.0701
+M1->M3,Target only,50,7,0.323264,1.38163
+M1->M3,Target only,50,8,0.157315,1.17036
+M1->M3,Target only,50,9,0.212242,1.23645
+M1->M3,Target only,50,10,0.299961,1.34981
+M1->M3,Target only,50,11,0.271278,1.31164
+M1->M3,Target only,50,12,0.0597239,1.06154
+M1->M3,Target only,50,13,0.981923,2.66958
+M1->M3,Target only,50,14,0.194898,1.21519
+M1->M3,Target only,50,15,0.0958446,1.10059
+M1->M3,Target only,50,16,0.0926983,1.09713
+M1->M3,Target only,50,17,0.13123,1.14023
+M1->M3,Target only,50,19,0.400751,1.49295
+M1->M3,Target only,50,20,0.0718503,1.07449
+M1->M3,Target only,50,21,0.308384,1.36122
+M1->M3,Target only,50,22,0.0710446,1.07363
+M1->M3,Target only,100,1,0.140974,1.15139
+M1->M3,Target only,100,2,0.0799374,1.08322
+M1->M3,Target only,100,3,0.109405,1.11561
+M1->M3,Target only,100,4,0.0452678,1.04631
+M1->M3,Target only,100,5,0.0475919,1.04874
+M1->M3,Target only,100,6,0.0424807,1.0434
+M1->M3,Target only,100,7,0.0862487,1.09008
+M1->M3,Target only,100,8,0.0454841,1.04653
+M1->M3,Target only,100,9,0.0877796,1.09175
+M1->M3,Target only,100,10,0.114897,1.12176
+M1->M3,Target only,100,11,0.054186,1.05568
+M1->M3,Target only,100,12,0.0407065,1.04155
+M1->M3,Target only,100,13,0.469423,1.59907
+M1->M3,Target only,100,14,0.0730419,1.07578
+M1->M3,Target only,100,15,0.0469504,1.04807
+M1->M3,Target only,100,16,0.0567346,1.05837
+M1->M3,Target only,100,17,0.0689099,1.07134
+M1->M3,Target only,100,19,0.133775,1.14314
+M1->M3,Target only,100,20,0.0277111,1.0281
+M1->M3,Target only,100,21,0.100076,1.10525
+M1->M3,Target only,100,22,0.0452899,1.04633
+M1->M3,Oracle,5,1,0.0520127,1.05339
+M1->M3,Oracle,5,2,0.0376314,1.03835
+M1->M3,Oracle,5,3,0.0509639,1.05228
+M1->M3,Oracle,5,4,0.0190526,1.01924
+M1->M3,Oracle,5,5,0.0503637,1.05165
+M1->M3,Oracle,5,6,0.0140867,1.01419
+M1->M3,Oracle,5,7,0.0350804,1.0357
+M1->M3,Oracle,5,8,0.0319383,1.03245
+M1->M3,Oracle,5,9,0.0342423,1.03484
+M1->M3,Oracle,5,10,0.0353568,1.03599
+M1->M3,Oracle,5,11,0.0593893,1.06119
+M1->M3,Oracle,5,12,0.0356655,1.03631
+M1->M3,Oracle,5,13,0.129036,1.13773
+M1->M3,Oracle,5,14,0.0605296,1.0624
+M1->M3,Oracle,5,15,0.0450038,1.04603
+M1->M3,Oracle,5,16,0.0525889,1.054
+M1->M3,Oracle,5,17,0.0706613,1.07322
+M1->M3,Oracle,5,19,0.0616847,1.06363
+M1->M3,Oracle,5,20,0.0208179,1.02104
+M1->M3,Oracle,5,21,0.0731788,1.07592
+M1->M3,Oracle,5,22,0.0460584,1.04714
+M1->M3,Oracle,10,1,0.0520127,1.05339
+M1->M3,Oracle,10,2,0.0376314,1.03835
+M1->M3,Oracle,10,3,0.0509639,1.05228
+M1->M3,Oracle,10,4,0.0190526,1.01924
+M1->M3,Oracle,10,5,0.0503637,1.05165
+M1->M3,Oracle,10,6,0.0140867,1.01419
+M1->M3,Oracle,10,7,0.0350804,1.0357
+M1->M3,Oracle,10,8,0.0319383,1.03245
+M1->M3,Oracle,10,9,0.0342423,1.03484
+M1->M3,Oracle,10,10,0.0353568,1.03599
+M1->M3,Oracle,10,11,0.0593893,1.06119
+M1->M3,Oracle,10,12,0.0356655,1.03631
+M1->M3,Oracle,10,13,0.129036,1.13773
+M1->M3,Oracle,10,14,0.0605296,1.0624
+M1->M3,Oracle,10,15,0.0450038,1.04603
+M1->M3,Oracle,10,16,0.0525889,1.054
+M1->M3,Oracle,10,17,0.0706613,1.07322
+M1->M3,Oracle,10,19,0.0616847,1.06363
+M1->M3,Oracle,10,20,0.0208179,1.02104
+M1->M3,Oracle,10,21,0.0731788,1.07592
+M1->M3,Oracle,10,22,0.0460584,1.04714
+M1->M3,Oracle,25,1,0.0520127,1.05339
+M1->M3,Oracle,25,2,0.0376314,1.03835
+M1->M3,Oracle,25,3,0.0509639,1.05228
+M1->M3,Oracle,25,4,0.0190526,1.01924
+M1->M3,Oracle,25,5,0.0503637,1.05165
+M1->M3,Oracle,25,6,0.0140867,1.01419
+M1->M3,Oracle,25,7,0.0350804,1.0357
+M1->M3,Oracle,25,8,0.0319383,1.03245
+M1->M3,Oracle,25,9,0.0342423,1.03484
+M1->M3,Oracle,25,10,0.0353568,1.03599
+M1->M3,Oracle,25,11,0.0593893,1.06119
+M1->M3,Oracle,25,12,0.0356655,1.03631
+M1->M3,Oracle,25,13,0.129036,1.13773
+M1->M3,Oracle,25,14,0.0605296,1.0624
+M1->M3,Oracle,25,15,0.0450038,1.04603
+M1->M3,Oracle,25,16,0.0525889,1.054
+M1->M3,Oracle,25,17,0.0706613,1.07322
+M1->M3,Oracle,25,19,0.0616847,1.06363
+M1->M3,Oracle,25,20,0.0208179,1.02104
+M1->M3,Oracle,25,21,0.0731788,1.07592
+M1->M3,Oracle,25,22,0.0460584,1.04714
+M1->M3,Oracle,50,1,0.0520127,1.05339
+M1->M3,Oracle,50,2,0.0376314,1.03835
+M1->M3,Oracle,50,3,0.0509639,1.05228
+M1->M3,Oracle,50,4,0.0190526,1.01924
+M1->M3,Oracle,50,5,0.0503637,1.05165
+M1->M3,Oracle,50,6,0.0140867,1.01419
+M1->M3,Oracle,50,7,0.0350804,1.0357
+M1->M3,Oracle,50,8,0.0319383,1.03245
+M1->M3,Oracle,50,9,0.0342423,1.03484
+M1->M3,Oracle,50,10,0.0353568,1.03599
+M1->M3,Oracle,50,11,0.0593893,1.06119
+M1->M3,Oracle,50,12,0.0356655,1.03631
+M1->M3,Oracle,50,13,0.129036,1.13773
+M1->M3,Oracle,50,14,0.0605296,1.0624
+M1->M3,Oracle,50,15,0.0450038,1.04603
+M1->M3,Oracle,50,16,0.0525889,1.054
+M1->M3,Oracle,50,17,0.0706613,1.07322
+M1->M3,Oracle,50,19,0.0616847,1.06363
+M1->M3,Oracle,50,20,0.0208179,1.02104
+M1->M3,Oracle,50,21,0.0731788,1.07592
+M1->M3,Oracle,50,22,0.0460584,1.04714
+M1->M3,Oracle,100,1,0.0520127,1.05339
+M1->M3,Oracle,100,2,0.0376314,1.03835
+M1->M3,Oracle,100,3,0.0509639,1.05228
+M1->M3,Oracle,100,4,0.0190526,1.01924
+M1->M3,Oracle,100,5,0.0503637,1.05165
+M1->M3,Oracle,100,6,0.0140867,1.01419
+M1->M3,Oracle,100,7,0.0350804,1.0357
+M1->M3,Oracle,100,8,0.0319383,1.03245
+M1->M3,Oracle,100,9,0.0342423,1.03484
+M1->M3,Oracle,100,10,0.0353568,1.03599
+M1->M3,Oracle,100,11,0.0593893,1.06119
+M1->M3,Oracle,100,12,0.0356655,1.03631
+M1->M3,Oracle,100,13,0.129036,1.13773
+M1->M3,Oracle,100,14,0.0605296,1.0624
+M1->M3,Oracle,100,15,0.0450038,1.04603
+M1->M3,Oracle,100,16,0.0525889,1.054
+M1->M3,Oracle,100,17,0.0706613,1.07322
+M1->M3,Oracle,100,19,0.0616847,1.06363
+M1->M3,Oracle,100,20,0.0208179,1.02104
+M1->M3,Oracle,100,21,0.0731788,1.07592
+M1->M3,Oracle,100,22,0.0460584,1.04714
+M3->M1,No adaptation,5,1,0.523439,1.68782
+M3->M1,No adaptation,5,2,0.306255,1.35833
+M3->M1,No adaptation,5,3,0.4734,1.60544
+M3->M1,No adaptation,5,4,0.415596,1.51527
+M3->M1,No adaptation,5,5,0.645177,1.90632
+M3->M1,No adaptation,5,6,0.324995,1.38402
+M3->M1,No adaptation,5,7,0.177629,1.19438
+M3->M1,No adaptation,5,8,0.579035,1.78432
+M3->M1,No adaptation,5,9,0.664542,1.9436
+M3->M1,No adaptation,5,10,0.158747,1.17204
+M3->M1,No adaptation,5,11,0.324381,1.38317
+M3->M1,No adaptation,5,12,0.52023,1.68241
+M3->M1,No adaptation,5,13,0.545451,1.72539
+M3->M1,No adaptation,5,14,0.449259,1.56715
+M3->M1,No adaptation,5,15,0.339174,1.40379
+M3->M1,No adaptation,5,16,0.196011,1.21654
+M3->M1,No adaptation,5,17,0.42278,1.5262
+M3->M1,No adaptation,5,19,0.181834,1.19942
+M3->M1,No adaptation,5,20,0.218934,1.24475
+M3->M1,No adaptation,5,21,0.343218,1.40948
+M3->M1,No adaptation,5,22,0.088071,1.09207
+M3->M1,No adaptation,10,1,0.523439,1.68782
+M3->M1,No adaptation,10,2,0.306255,1.35833
+M3->M1,No adaptation,10,3,0.4734,1.60544
+M3->M1,No adaptation,10,4,0.415596,1.51527
+M3->M1,No adaptation,10,5,0.645177,1.90632
+M3->M1,No adaptation,10,6,0.324995,1.38402
+M3->M1,No adaptation,10,7,0.177629,1.19438
+M3->M1,No adaptation,10,8,0.579035,1.78432
+M3->M1,No adaptation,10,9,0.664542,1.9436
+M3->M1,No adaptation,10,10,0.158747,1.17204
+M3->M1,No adaptation,10,11,0.324381,1.38317
+M3->M1,No adaptation,10,12,0.52023,1.68241
+M3->M1,No adaptation,10,13,0.545451,1.72539
+M3->M1,No adaptation,10,14,0.449259,1.56715
+M3->M1,No adaptation,10,15,0.339174,1.40379
+M3->M1,No adaptation,10,16,0.196011,1.21654
+M3->M1,No adaptation,10,17,0.42278,1.5262
+M3->M1,No adaptation,10,19,0.181834,1.19942
+M3->M1,No adaptation,10,20,0.218934,1.24475
+M3->M1,No adaptation,10,21,0.343218,1.40948
+M3->M1,No adaptation,10,22,0.088071,1.09207
+M3->M1,No adaptation,25,1,0.523439,1.68782
+M3->M1,No adaptation,25,2,0.306255,1.35833
+M3->M1,No adaptation,25,3,0.4734,1.60544
+M3->M1,No adaptation,25,4,0.415596,1.51527
+M3->M1,No adaptation,25,5,0.645177,1.90632
+M3->M1,No adaptation,25,6,0.324995,1.38402
+M3->M1,No adaptation,25,7,0.177629,1.19438
+M3->M1,No adaptation,25,8,0.579035,1.78432
+M3->M1,No adaptation,25,9,0.664542,1.9436
+M3->M1,No adaptation,25,10,0.158747,1.17204
+M3->M1,No adaptation,25,11,0.324381,1.38317
+M3->M1,No adaptation,25,12,0.52023,1.68241
+M3->M1,No adaptation,25,13,0.545451,1.72539
+M3->M1,No adaptation,25,14,0.449259,1.56715
+M3->M1,No adaptation,25,15,0.339174,1.40379
+M3->M1,No adaptation,25,16,0.196011,1.21654
+M3->M1,No adaptation,25,17,0.42278,1.5262
+M3->M1,No adaptation,25,19,0.181834,1.19942
+M3->M1,No adaptation,25,20,0.218934,1.24475
+M3->M1,No adaptation,25,21,0.343218,1.40948
+M3->M1,No adaptation,25,22,0.088071,1.09207
+M3->M1,No adaptation,50,1,0.523439,1.68782
+M3->M1,No adaptation,50,2,0.306255,1.35833
+M3->M1,No adaptation,50,3,0.4734,1.60544
+M3->M1,No adaptation,50,4,0.415596,1.51527
+M3->M1,No adaptation,50,5,0.645177,1.90632
+M3->M1,No adaptation,50,6,0.324995,1.38402
+M3->M1,No adaptation,50,7,0.177629,1.19438
+M3->M1,No adaptation,50,8,0.579035,1.78432
+M3->M1,No adaptation,50,9,0.664542,1.9436
+M3->M1,No adaptation,50,10,0.158747,1.17204
+M3->M1,No adaptation,50,11,0.324381,1.38317
+M3->M1,No adaptation,50,12,0.52023,1.68241
+M3->M1,No adaptation,50,13,0.545451,1.72539
+M3->M1,No adaptation,50,14,0.449259,1.56715
+M3->M1,No adaptation,50,15,0.339174,1.40379
+M3->M1,No adaptation,50,16,0.196011,1.21654
+M3->M1,No adaptation,50,17,0.42278,1.5262
+M3->M1,No adaptation,50,19,0.181834,1.19942
+M3->M1,No adaptation,50,20,0.218934,1.24475
+M3->M1,No adaptation,50,21,0.343218,1.40948
+M3->M1,No adaptation,50,22,0.088071,1.09207
+M3->M1,No adaptation,100,1,0.523439,1.68782
+M3->M1,No adaptation,100,2,0.306255,1.35833
+M3->M1,No adaptation,100,3,0.4734,1.60544
+M3->M1,No adaptation,100,4,0.415596,1.51527
+M3->M1,No adaptation,100,5,0.645177,1.90632
+M3->M1,No adaptation,100,6,0.324995,1.38402
+M3->M1,No adaptation,100,7,0.177629,1.19438
+M3->M1,No adaptation,100,8,0.579035,1.78432
+M3->M1,No adaptation,100,9,0.664542,1.9436
+M3->M1,No adaptation,100,10,0.158747,1.17204
+M3->M1,No adaptation,100,11,0.324381,1.38317
+M3->M1,No adaptation,100,12,0.52023,1.68241
+M3->M1,No adaptation,100,13,0.545451,1.72539
+M3->M1,No adaptation,100,14,0.449259,1.56715
+M3->M1,No adaptation,100,15,0.339174,1.40379
+M3->M1,No adaptation,100,16,0.196011,1.21654
+M3->M1,No adaptation,100,17,0.42278,1.5262
+M3->M1,No adaptation,100,19,0.181834,1.19942
+M3->M1,No adaptation,100,20,0.218934,1.24475
+M3->M1,No adaptation,100,21,0.343218,1.40948
+M3->M1,No adaptation,100,22,0.088071,1.09207
+M3->M1,Speed factor,5,1,0.175536,1.19189
+M3->M1,Speed factor,5,2,0.0737431,1.07653
+M3->M1,Speed factor,5,3,0.132469,1.14164
+M3->M1,Speed factor,5,4,0.0886013,1.09264
+M3->M1,Speed factor,5,5,0.296267,1.34483
+M3->M1,Speed factor,5,6,0.0673804,1.0697
+M3->M1,Speed factor,5,7,0.172165,1.18787
+M3->M1,Speed factor,5,8,0.230126,1.25876
+M3->M1,Speed factor,5,9,0.315632,1.37113
+M3->M1,Speed factor,5,10,0.19017,1.20946
+M3->M1,Speed factor,5,11,0.0741645,1.07698
+M3->M1,Speed factor,5,12,0.174042,1.19011
+M3->M1,Speed factor,5,13,0.199818,1.22118
+M3->M1,Speed factor,5,14,0.113273,1.11994
+M3->M1,Speed factor,5,15,0.0665285,1.06879
+M3->M1,Speed factor,5,16,0.153334,1.16571
+M3->M1,Speed factor,5,17,0.105279,1.11102
+M3->M1,Speed factor,5,19,0.167088,1.18186
+M3->M1,Speed factor,5,20,0.131723,1.14079
+M3->M1,Speed factor,5,21,0.0650923,1.06726
+M3->M1,Speed factor,5,22,0.260868,1.29806
+M3->M1,Speed factor,10,1,0.1775,1.19423
+M3->M1,Speed factor,10,2,0.0598838,1.06171
+M3->M1,Speed factor,10,3,0.128115,1.13668
+M3->M1,Speed factor,10,4,0.0794414,1.08268
+M3->M1,Speed factor,10,5,0.299238,1.34883
+M3->M1,Speed factor,10,6,0.0511747,1.05251
+M3->M1,Speed factor,10,7,0.168485,1.18351
+M3->M1,Speed factor,10,8,0.233096,1.2625
+M3->M1,Speed factor,10,9,0.318603,1.37521
+M3->M1,Speed factor,10,10,0.187199,1.20587
+M3->M1,Speed factor,10,11,0.0580781,1.0598
+M3->M1,Speed factor,10,12,0.174291,1.1904
+M3->M1,Speed factor,10,13,0.199513,1.22081
+M3->M1,Speed factor,10,14,0.10496,1.11067
+M3->M1,Speed factor,10,15,0.0517589,1.05312
+M3->M1,Speed factor,10,16,0.149973,1.1618
+M3->M1,Speed factor,10,17,0.0932367,1.09772
+M3->M1,Speed factor,10,19,0.164118,1.17835
+M3->M1,Speed factor,10,20,0.127008,1.13543
+M3->M1,Speed factor,10,21,0.0493188,1.05056
+M3->M1,Speed factor,10,22,0.257898,1.29421
+M3->M1,Speed factor,25,1,0.159395,1.1728
+M3->M1,Speed factor,25,2,0.0593754,1.06117
+M3->M1,Speed factor,25,3,0.109356,1.11556
+M3->M1,Speed factor,25,4,0.0526582,1.05407
+M3->M1,Speed factor,25,5,0.281132,1.32463
+M3->M1,Speed factor,25,6,0.0390926,1.03987
+M3->M1,Speed factor,25,7,0.18659,1.20513
+M3->M1,Speed factor,25,8,0.214991,1.23985
+M3->M1,Speed factor,25,9,0.300498,1.35053
+M3->M1,Speed factor,25,10,0.205305,1.2279
+M3->M1,Speed factor,25,11,0.0421473,1.04305
+M3->M1,Speed factor,25,12,0.156186,1.16904
+M3->M1,Speed factor,25,13,0.181407,1.1989
+M3->M1,Speed factor,25,14,0.0852151,1.08895
+M3->M1,Speed factor,25,15,0.0283455,1.02875
+M3->M1,Speed factor,25,16,0.168078,1.18303
+M3->M1,Speed factor,25,17,0.0719821,1.07464
+M3->M1,Speed factor,25,19,0.182223,1.19988
+M3->M1,Speed factor,25,20,0.145113,1.15617
+M3->M1,Speed factor,25,21,0.0269467,1.02731
+M3->M1,Speed factor,25,22,0.276003,1.31785
+M3->M1,Speed factor,50,1,0.156008,1.16884
+M3->M1,Speed factor,50,2,0.0622798,1.06426
+M3->M1,Speed factor,50,3,0.105968,1.11179
+M3->M1,Speed factor,50,4,0.0484764,1.04967
+M3->M1,Speed factor,50,5,0.277745,1.32015
+M3->M1,Speed factor,50,6,0.0435104,1.04447
+M3->M1,Speed factor,50,7,0.189977,1.20922
+M3->M1,Speed factor,50,8,0.211603,1.23566
+M3->M1,Speed factor,50,9,0.29711,1.34596
+M3->M1,Speed factor,50,10,0.208692,1.23207
+M3->M1,Speed factor,50,11,0.0468586,1.04797
+M3->M1,Speed factor,50,12,0.152798,1.16509
+M3->M1,Speed factor,50,13,0.17802,1.19485
+M3->M1,Speed factor,50,14,0.0818277,1.08527
+M3->M1,Speed factor,50,15,0.0329068,1.03345
+M3->M1,Speed factor,50,16,0.171465,1.18704
+M3->M1,Speed factor,50,17,0.0720689,1.07473
+M3->M1,Speed factor,50,19,0.18561,1.20395
+M3->M1,Speed factor,50,20,0.148501,1.16009
+M3->M1,Speed factor,50,21,0.0302212,1.03068
+M3->M1,Speed factor,50,22,0.27939,1.32232
+M3->M1,Speed factor,100,1,0.15441,1.16697
+M3->M1,Speed factor,100,2,0.0635492,1.06561
+M3->M1,Speed factor,100,3,0.10437,1.11001
+M3->M1,Speed factor,100,4,0.0471141,1.04824
+M3->M1,Speed factor,100,5,0.276147,1.31804
+M3->M1,Speed factor,100,6,0.044034,1.04502
+M3->M1,Speed factor,100,7,0.191575,1.21116
+M3->M1,Speed factor,100,8,0.210006,1.23369
+M3->M1,Speed factor,100,9,0.295513,1.34381
+M3->M1,Speed factor,100,10,0.21029,1.23404
+M3->M1,Speed factor,100,11,0.0457255,1.04679
+M3->M1,Speed factor,100,12,0.151201,1.16323
+M3->M1,Speed factor,100,13,0.176422,1.19294
+M3->M1,Speed factor,100,14,0.0802299,1.08354
+M3->M1,Speed factor,100,15,0.0313014,1.0318
+M3->M1,Speed factor,100,16,0.173063,1.18894
+M3->M1,Speed factor,100,17,0.0699623,1.07247
+M3->M1,Speed factor,100,19,0.187208,1.20588
+M3->M1,Speed factor,100,20,0.150098,1.16195
+M3->M1,Speed factor,100,21,0.0295177,1.02996
+M3->M1,Speed factor,100,22,0.280988,1.32444
+M3->M1,Ridge correction,5,1,0.173815,1.18984
+M3->M1,Ridge correction,5,2,0.136742,1.14653
+M3->M1,Ridge correction,5,3,0.111794,1.11828
+M3->M1,Ridge correction,5,4,0.0913245,1.09562
+M3->M1,Ridge correction,5,5,0.226327,1.25399
+M3->M1,Ridge correction,5,6,0.0973816,1.10228
+M3->M1,Ridge correction,5,7,0.216347,1.24153
+M3->M1,Ridge correction,5,8,0.216349,1.24154
+M3->M1,Ridge correction,5,9,0.270219,1.31025
+M3->M1,Ridge correction,5,10,0.300567,1.35062
+M3->M1,Ridge correction,5,11,0.113656,1.12037
+M3->M1,Ridge correction,5,12,0.129565,1.13833
+M3->M1,Ridge correction,5,13,0.198253,1.21927
+M3->M1,Ridge correction,5,14,0.101397,1.10672
+M3->M1,Ridge correction,5,15,0.103088,1.10859
+M3->M1,Ridge correction,5,16,0.150932,1.16292
+M3->M1,Ridge correction,5,17,0.108662,1.11479
+M3->M1,Ridge correction,5,19,0.123139,1.13104
+M3->M1,Ridge correction,5,20,0.0953053,1.09999
+M3->M1,Ridge correction,5,21,0.103854,1.10944
+M3->M1,Ridge correction,5,22,0.194464,1.21466
+M3->M1,Ridge correction,10,1,0.204948,1.22746
+M3->M1,Ridge correction,10,2,0.0977097,1.10264
+M3->M1,Ridge correction,10,3,0.0963584,1.10115
+M3->M1,Ridge correction,10,4,0.0786171,1.08179
+M3->M1,Ridge correction,10,5,0.217763,1.24329
+M3->M1,Ridge correction,10,6,0.0655386,1.06773
+M3->M1,Ridge correction,10,7,0.170286,1.18564
+M3->M1,Ridge correction,10,8,0.195244,1.21561
+M3->M1,Ridge correction,10,9,0.214972,1.23983
+M3->M1,Ridge correction,10,10,0.233284,1.26274
+M3->M1,Ridge correction,10,11,0.100566,1.1058
+M3->M1,Ridge correction,10,12,0.131877,1.14097
+M3->M1,Ridge correction,10,13,0.195218,1.21558
+M3->M1,Ridge correction,10,14,0.0905915,1.09482
+M3->M1,Ridge correction,10,15,0.108051,1.1141
+M3->M1,Ridge correction,10,16,0.113865,1.1206
+M3->M1,Ridge correction,10,17,0.0935552,1.09807
+M3->M1,Ridge correction,10,19,0.107331,1.1133
+M3->M1,Ridge correction,10,20,0.0950454,1.09971
+M3->M1,Ridge correction,10,21,0.0704081,1.07295
+M3->M1,Ridge correction,10,22,0.156742,1.16969
+M3->M1,Ridge correction,25,1,0.204218,1.22657
+M3->M1,Ridge correction,25,2,0.0731217,1.07586
+M3->M1,Ridge correction,25,3,0.0806914,1.08404
+M3->M1,Ridge correction,25,4,0.0588652,1.06063
+M3->M1,Ridge correction,25,5,0.091049,1.09532
+M3->M1,Ridge correction,25,6,0.0534669,1.05492
+M3->M1,Ridge correction,25,7,0.14814,1.15968
+M3->M1,Ridge correction,25,8,0.0965844,1.1014
+M3->M1,Ridge correction,25,9,0.100027,1.1052
+M3->M1,Ridge correction,25,10,0.165928,1.18049
+M3->M1,Ridge correction,25,11,0.077919,1.08104
+M3->M1,Ridge correction,25,12,0.0545176,1.05603
+M3->M1,Ridge correction,25,13,0.177073,1.19372
+M3->M1,Ridge correction,25,14,0.0649406,1.0671
+M3->M1,Ridge correction,25,15,0.17347,1.18943
+M3->M1,Ridge correction,25,16,0.30198,1.35253
+M3->M1,Ridge correction,25,17,0.105067,1.11079
+M3->M1,Ridge correction,25,19,0.0983966,1.1034
+M3->M1,Ridge correction,25,20,0.068541,1.07094
+M3->M1,Ridge correction,25,21,0.09039,1.0946
+M3->M1,Ridge correction,25,22,0.0870887,1.09099
+M3->M1,Ridge correction,50,1,0.146475,1.15775
+M3->M1,Ridge correction,50,2,0.0653732,1.06756
+M3->M1,Ridge correction,50,3,0.0907725,1.09502
+M3->M1,Ridge correction,50,4,0.0494187,1.05066
+M3->M1,Ridge correction,50,5,0.0638095,1.06589
+M3->M1,Ridge correction,50,6,0.0634915,1.06555
+M3->M1,Ridge correction,50,7,0.064035,1.06613
+M3->M1,Ridge correction,50,8,0.0275196,1.0279
+M3->M1,Ridge correction,50,9,0.0521977,1.05358
+M3->M1,Ridge correction,50,10,0.0829206,1.08646
+M3->M1,Ridge correction,50,11,0.067144,1.06945
+M3->M1,Ridge correction,50,12,0.0452027,1.04624
+M3->M1,Ridge correction,50,13,0.139014,1.14914
+M3->M1,Ridge correction,50,14,0.0561147,1.05772
+M3->M1,Ridge correction,50,15,0.197799,1.21872
+M3->M1,Ridge correction,50,16,0.15842,1.17166
+M3->M1,Ridge correction,50,17,0.0679708,1.07033
+M3->M1,Ridge correction,50,19,0.0759011,1.07886
+M3->M1,Ridge correction,50,20,0.0566193,1.05825
+M3->M1,Ridge correction,50,21,0.109098,1.11527
+M3->M1,Ridge correction,50,22,0.0352459,1.03587
+M3->M1,Ridge correction,100,1,0.0344446,1.03504
+M3->M1,Ridge correction,100,2,0.0443265,1.04532
+M3->M1,Ridge correction,100,3,0.0880744,1.09207
+M3->M1,Ridge correction,100,4,0.0491684,1.0504
+M3->M1,Ridge correction,100,5,0.0401097,1.04092
+M3->M1,Ridge correction,100,6,0.0285927,1.02901
+M3->M1,Ridge correction,100,7,0.0378539,1.03858
+M3->M1,Ridge correction,100,8,0.0448869,1.04591
+M3->M1,Ridge correction,100,9,0.0483382,1.04953
+M3->M1,Ridge correction,100,10,0.0499859,1.05126
+M3->M1,Ridge correction,100,11,0.0667233,1.069
+M3->M1,Ridge correction,100,12,0.0424923,1.04341
+M3->M1,Ridge correction,100,13,0.126616,1.13498
+M3->M1,Ridge correction,100,14,0.0473009,1.04844
+M3->M1,Ridge correction,100,15,0.0589548,1.06073
+M3->M1,Ridge correction,100,16,0.0457338,1.0468
+M3->M1,Ridge correction,100,17,0.0579137,1.05962
+M3->M1,Ridge correction,100,19,0.0680084,1.07037
+M3->M1,Ridge correction,100,20,0.0470485,1.04817
+M3->M1,Ridge correction,100,21,0.0663348,1.06858
+M3->M1,Ridge correction,100,22,0.0277778,1.02817
+M3->M1,Target only,5,1,1.16128,3.19402
+M3->M1,Target only,5,2,0.375602,1.45587
+M3->M1,Target only,5,3,0.612927,1.84583
+M3->M1,Target only,5,4,0.563766,1.75728
+M3->M1,Target only,5,5,0.238728,1.26963
+M3->M1,Target only,5,6,0.333103,1.39529
+M3->M1,Target only,5,7,1.42817,4.17106
+M3->M1,Target only,5,8,0.43002,1.53729
+M3->M1,Target only,5,9,0.657609,1.93017
+M3->M1,Target only,5,10,0.358235,1.4308
+M3->M1,Target only,5,11,1.01297,2.75376
+M3->M1,Target only,5,12,0.411146,1.50855
+M3->M1,Target only,5,13,1.87577,6.52584
+M3->M1,Target only,5,14,0.871004,2.38931
+M3->M1,Target only,5,15,0.316673,1.37255
+M3->M1,Target only,5,16,0.493189,1.63753
+M3->M1,Target only,5,17,0.63961,1.89574
+M3->M1,Target only,5,19,1.12281,3.07349
+M3->M1,Target only,5,20,0.306666,1.35889
+M3->M1,Target only,5,21,1.0661,2.90404
+M3->M1,Target only,5,22,0.894627,2.44642
+M3->M1,Target only,10,1,1.14167,3.13198
+M3->M1,Target only,10,2,0.2474,1.28069
+M3->M1,Target only,10,3,0.531095,1.70079
+M3->M1,Target only,10,4,0.451658,1.57092
+M3->M1,Target only,10,5,0.211338,1.23533
+M3->M1,Target only,10,6,0.2237,1.2507
+M3->M1,Target only,10,7,1.22991,3.42091
+M3->M1,Target only,10,8,0.527847,1.69528
+M3->M1,Target only,10,9,0.453626,1.57401
+M3->M1,Target only,10,10,0.287098,1.33255
+M3->M1,Target only,10,11,0.546579,1.72733
+M3->M1,Target only,10,12,0.291035,1.33781
+M3->M1,Target only,10,13,1.75127,5.76194
+M3->M1,Target only,10,14,0.740332,2.09663
+M3->M1,Target only,10,15,0.211939,1.23607
+M3->M1,Target only,10,16,0.298697,1.3481
+M3->M1,Target only,10,17,0.580184,1.78637
+M3->M1,Target only,10,19,0.938232,2.55546
+M3->M1,Target only,10,20,0.2048,1.22728
+M3->M1,Target only,10,21,0.851186,2.34242
+M3->M1,Target only,10,22,0.365896,1.4418
+M3->M1,Target only,25,1,0.792503,2.20892
+M3->M1,Target only,25,2,0.166388,1.18103
+M3->M1,Target only,25,3,0.496729,1.64334
+M3->M1,Target only,25,4,0.273426,1.31446
+M3->M1,Target only,25,5,0.0843384,1.088
+M3->M1,Target only,25,6,0.153306,1.16568
+M3->M1,Target only,25,7,0.75334,2.12408
+M3->M1,Target only,25,8,0.436583,1.54741
+M3->M1,Target only,25,9,0.221608,1.24808
+M3->M1,Target only,25,10,0.305598,1.35744
+M3->M1,Target only,25,11,0.297752,1.34683
+M3->M1,Target only,25,12,0.145805,1.15697
+M3->M1,Target only,25,13,1.24625,3.47729
+M3->M1,Target only,25,14,0.515595,1.67463
+M3->M1,Target only,25,15,0.155627,1.16839
+M3->M1,Target only,25,16,0.151684,1.16379
+M3->M1,Target only,25,17,0.367678,1.44438
+M3->M1,Target only,25,19,0.812303,2.25309
+M3->M1,Target only,25,20,0.117487,1.12467
+M3->M1,Target only,25,21,0.521143,1.68395
+M3->M1,Target only,25,22,0.268321,1.30777
+M3->M1,Target only,50,1,0.482397,1.61995
+M3->M1,Target only,50,2,0.129317,1.13805
+M3->M1,Target only,50,3,0.316718,1.37262
+M3->M1,Target only,50,4,0.0882656,1.09228
+M3->M1,Target only,50,5,0.0393461,1.04013
+M3->M1,Target only,50,6,0.0578984,1.05961
+M3->M1,Target only,50,7,0.430544,1.53809
+M3->M1,Target only,50,8,0.167167,1.18195
+M3->M1,Target only,50,9,0.139516,1.14972
+M3->M1,Target only,50,10,0.205376,1.22799
+M3->M1,Target only,50,11,0.218486,1.24419
+M3->M1,Target only,50,12,0.0647873,1.06693
+M3->M1,Target only,50,13,0.814203,2.25738
+M3->M1,Target only,50,14,0.227208,1.25509
+M3->M1,Target only,50,15,0.103542,1.10909
+M3->M1,Target only,50,16,0.0757344,1.07868
+M3->M1,Target only,50,17,0.159447,1.17286
+M3->M1,Target only,50,19,0.414946,1.51429
+M3->M1,Target only,50,20,0.0365155,1.03719
+M3->M1,Target only,50,21,0.292164,1.33932
+M3->M1,Target only,50,22,0.0612162,1.06313
+M3->M1,Target only,100,1,0.146943,1.15829
+M3->M1,Target only,100,2,0.0681803,1.07056
+M3->M1,Target only,100,3,0.091078,1.09535
+M3->M1,Target only,100,4,0.0289309,1.02935
+M3->M1,Target only,100,5,0.0270587,1.02743
+M3->M1,Target only,100,6,0.0264075,1.02676
+M3->M1,Target only,100,7,0.13644,1.14619
+M3->M1,Target only,100,8,0.0412123,1.04207
+M3->M1,Target only,100,9,0.0637759,1.06585
+M3->M1,Target only,100,10,0.0814692,1.08488
+M3->M1,Target only,100,11,0.0554291,1.05699
+M3->M1,Target only,100,12,0.0402151,1.04103
+M3->M1,Target only,100,13,0.381199,1.46404
+M3->M1,Target only,100,14,0.0716074,1.07423
+M3->M1,Target only,100,15,0.0414714,1.04234
+M3->M1,Target only,100,16,0.0388874,1.03965
+M3->M1,Target only,100,17,0.0453093,1.04635
+M3->M1,Target only,100,19,0.13049,1.13939
+M3->M1,Target only,100,20,0.0265541,1.02691
+M3->M1,Target only,100,21,0.0770683,1.08012
+M3->M1,Target only,100,22,0.026442,1.02679
+M3->M1,Oracle,5,1,0.00869061,1.00873
+M3->M1,Oracle,5,2,0.0339323,1.03451
+M3->M1,Oracle,5,3,0.0167254,1.01687
+M3->M1,Oracle,5,4,0.0231293,1.0234
+M3->M1,Oracle,5,5,0.0160854,1.01622
+M3->M1,Oracle,5,6,0.0117598,1.01183
+M3->M1,Oracle,5,7,0.0372766,1.03798
+M3->M1,Oracle,5,8,0.0318784,1.03239
+M3->M1,Oracle,5,9,0.0199024,1.0201
+M3->M1,Oracle,5,10,0.0342619,1.03486
+M3->M1,Oracle,5,11,0.0676519,1.06999
+M3->M1,Oracle,5,12,0.0320243,1.03254
+M3->M1,Oracle,5,13,0.121495,1.12918
+M3->M1,Oracle,5,14,0.0247152,1.02502
+M3->M1,Oracle,5,15,0.0410642,1.04192
+M3->M1,Oracle,5,16,0.0323271,1.03286
+M3->M1,Oracle,5,17,0.067186,1.06949
+M3->M1,Oracle,5,19,0.0283864,1.02879
+M3->M1,Oracle,5,20,0.0152154,1.01533
+M3->M1,Oracle,5,21,0.0509359,1.05226
+M3->M1,Oracle,5,22,0.019914,1.02011
+M3->M1,Oracle,10,1,0.00869061,1.00873
+M3->M1,Oracle,10,2,0.0339323,1.03451
+M3->M1,Oracle,10,3,0.0167254,1.01687
+M3->M1,Oracle,10,4,0.0231293,1.0234
+M3->M1,Oracle,10,5,0.0160854,1.01622
+M3->M1,Oracle,10,6,0.0117598,1.01183
+M3->M1,Oracle,10,7,0.0372766,1.03798
+M3->M1,Oracle,10,8,0.0318784,1.03239
+M3->M1,Oracle,10,9,0.0199024,1.0201
+M3->M1,Oracle,10,10,0.0342619,1.03486
+M3->M1,Oracle,10,11,0.0676519,1.06999
+M3->M1,Oracle,10,12,0.0320243,1.03254
+M3->M1,Oracle,10,13,0.121495,1.12918
+M3->M1,Oracle,10,14,0.0247152,1.02502
+M3->M1,Oracle,10,15,0.0410642,1.04192
+M3->M1,Oracle,10,16,0.0323271,1.03286
+M3->M1,Oracle,10,17,0.067186,1.06949
+M3->M1,Oracle,10,19,0.0283864,1.02879
+M3->M1,Oracle,10,20,0.0152154,1.01533
+M3->M1,Oracle,10,21,0.0509359,1.05226
+M3->M1,Oracle,10,22,0.019914,1.02011
+M3->M1,Oracle,25,1,0.00869061,1.00873
+M3->M1,Oracle,25,2,0.0339323,1.03451
+M3->M1,Oracle,25,3,0.0167254,1.01687
+M3->M1,Oracle,25,4,0.0231293,1.0234
+M3->M1,Oracle,25,5,0.0160854,1.01622
+M3->M1,Oracle,25,6,0.0117598,1.01183
+M3->M1,Oracle,25,7,0.0372766,1.03798
+M3->M1,Oracle,25,8,0.0318784,1.03239
+M3->M1,Oracle,25,9,0.0199024,1.0201
+M3->M1,Oracle,25,10,0.0342619,1.03486
+M3->M1,Oracle,25,11,0.0676519,1.06999
+M3->M1,Oracle,25,12,0.0320243,1.03254
+M3->M1,Oracle,25,13,0.121495,1.12918
+M3->M1,Oracle,25,14,0.0247152,1.02502
+M3->M1,Oracle,25,15,0.0410642,1.04192
+M3->M1,Oracle,25,16,0.0323271,1.03286
+M3->M1,Oracle,25,17,0.067186,1.06949
+M3->M1,Oracle,25,19,0.0283864,1.02879
+M3->M1,Oracle,25,20,0.0152154,1.01533
+M3->M1,Oracle,25,21,0.0509359,1.05226
+M3->M1,Oracle,25,22,0.019914,1.02011
+M3->M1,Oracle,50,1,0.00869061,1.00873
+M3->M1,Oracle,50,2,0.0339323,1.03451
+M3->M1,Oracle,50,3,0.0167254,1.01687
+M3->M1,Oracle,50,4,0.0231293,1.0234
+M3->M1,Oracle,50,5,0.0160854,1.01622
+M3->M1,Oracle,50,6,0.0117598,1.01183
+M3->M1,Oracle,50,7,0.0372766,1.03798
+M3->M1,Oracle,50,8,0.0318784,1.03239
+M3->M1,Oracle,50,9,0.0199024,1.0201
+M3->M1,Oracle,50,10,0.0342619,1.03486
+M3->M1,Oracle,50,11,0.0676519,1.06999
+M3->M1,Oracle,50,12,0.0320243,1.03254
+M3->M1,Oracle,50,13,0.121495,1.12918
+M3->M1,Oracle,50,14,0.0247152,1.02502
+M3->M1,Oracle,50,15,0.0410642,1.04192
+M3->M1,Oracle,50,16,0.0323271,1.03286
+M3->M1,Oracle,50,17,0.067186,1.06949
+M3->M1,Oracle,50,19,0.0283864,1.02879
+M3->M1,Oracle,50,20,0.0152154,1.01533
+M3->M1,Oracle,50,21,0.0509359,1.05226
+M3->M1,Oracle,50,22,0.019914,1.02011
+M3->M1,Oracle,100,1,0.00869061,1.00873
+M3->M1,Oracle,100,2,0.0339323,1.03451
+M3->M1,Oracle,100,3,0.0167254,1.01687
+M3->M1,Oracle,100,4,0.0231293,1.0234
+M3->M1,Oracle,100,5,0.0160854,1.01622
+M3->M1,Oracle,100,6,0.0117598,1.01183
+M3->M1,Oracle,100,7,0.0372766,1.03798
+M3->M1,Oracle,100,8,0.0318784,1.03239
+M3->M1,Oracle,100,9,0.0199024,1.0201
+M3->M1,Oracle,100,10,0.0342619,1.03486
+M3->M1,Oracle,100,11,0.0676519,1.06999
+M3->M1,Oracle,100,12,0.0320243,1.03254
+M3->M1,Oracle,100,13,0.121495,1.12918
+M3->M1,Oracle,100,14,0.0247152,1.02502
+M3->M1,Oracle,100,15,0.0410642,1.04192
+M3->M1,Oracle,100,16,0.0323271,1.03286
+M3->M1,Oracle,100,17,0.067186,1.06949
+M3->M1,Oracle,100,19,0.0283864,1.02879
+M3->M1,Oracle,100,20,0.0152154,1.01533
+M3->M1,Oracle,100,21,0.0509359,1.05226
+M3->M1,Oracle,100,22,0.019914,1.02011

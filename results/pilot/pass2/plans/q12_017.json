@@ -1,0 +1,141 @@
+[
+ {
+  "Plan": {
+   "Node Type": "Aggregate",
+   "Strategy": "Sorted",
+   "Partial Mode": "Finalize",
+   "Parallel Aware": false,
+   "Async Capable": false,
+   "Startup Cost": 174232.74,
+   "Total Cost": 174479.33,
+   "Plan Rows": 7,
+   "Plan Width": 27,
+   "Disabled": false,
+   "Group Key": [
+    "lineitem.l_shipmode"
+   ],
+   "Plans": [
+    {
+     "Node Type": "Gather Merge",
+     "Parent Relationship": "Outer",
+     "Parallel Aware": false,
+     "Async Capable": false,
+     "Startup Cost": 174232.74,
+     "Total Cost": 174479.14,
+     "Plan Rows": 17,
+     "Plan Width": 27,
+     "Disabled": false,
+     "Workers Planned": 2,
+     "Plans": [
+      {
+       "Node Type": "Aggregate",
+       "Strategy": "Sorted",
+       "Partial Mode": "Partial",
+       "Parent Relationship": "Outer",
+       "Parallel Aware": false,
+       "Async Capable": false,
+       "Startup Cost": 173232.72,
+       "Total Cost": 173477.15,
+       "Plan Rows": 7,
+       "Plan Width": 27,
+       "Disabled": false,
+       "Group Key": [
+        "lineitem.l_shipmode"
+       ],
+       "Plans": [
+        {
+         "Node Type": "Sort",
+         "Parent Relationship": "Outer",
+         "Parallel Aware": false,
+         "Async Capable": false,
+         "Startup Cost": 173232.72,
+         "Total Cost": 173263.27,
+         "Plan Rows": 12218,
+         "Plan Width": 27,
+         "Disabled": false,
+         "Sort Key": [
+          "lineitem.l_shipmode"
+         ],
+         "Plans": [
+          {
+           "Node Type": "Hash Join",
+           "Parent Relationship": "Outer",
+           "Parallel Aware": true,
+           "Async Capable": false,
+           "Join Type": "Inner",
+           "Startup Cost": 133716.41,
+           "Total Cost": 172403.32,
+           "Plan Rows": 12218,
+           "Plan Width": 27,
+           "Disabled": false,
+           "Inner Unique": false,
+           "Hash Cond": "(orders.o_orderkey = lineitem.l_orderkey)",
+           "Plans": [
+            {
+             "Node Type": "Seq Scan",
+             "Parent Relationship": "Outer",
+             "Parallel Aware": true,
+             "Async Capable": false,
+             "Relation Name": "orders",
+             "Alias": "orders",
+             "Startup Cost": 0.0,
+             "Total Cost": 32386.0,
+             "Plan Rows": 625000,
+             "Plan Width": 20,
+             "Disabled": false
+            },
+            {
+             "Node Type": "Hash",
+             "Parent Relationship": "Inner",
+             "Parallel Aware": true,
+             "Async Capable": false,
+             "Startup Cost": 133563.68,
+             "Total Cost": 133563.68,
+             "Plan Rows": 12218,
+             "Plan Width": 15,
+             "Disabled": false,
+             "Plans": [
+              {
+               "Node Type": "Bitmap Heap Scan",
+               "Parent Relationship": "Outer",
+               "Parallel Aware": true,
+               "Async Capable": false,
+               "Relation Name": "lineitem",
+               "Alias": "lineitem",
+               "Startup Cost": 12366.3,
+               "Total Cost": 133563.68,
+               "Plan Rows": 12218,
+               "Plan Width": 15,
+               "Disabled": false,
+               "Recheck Cond": "((l_receiptdate >= '1995-01-01'::date) AND (l_receiptdate < '1996-01-01 00:00:00'::timestamp without time zone))",
+               "Filter": "((l_shipmode = ANY ('{\"REG AIR\",TRUCK}'::bpchar[])) AND (l_commitdate < l_receiptdate) AND (l_shipdate < l_commitdate))",
+               "Plans": [
+                {
+                 "Node Type": "Bitmap Index Scan",
+                 "Parent Relationship": "Outer",
+                 "Parallel Aware": false,
+                 "Async Capable": false,
+                 "Index Name": "lineitem_l_receiptdate_idx",
+                 "Startup Cost": 0.0,
+                 "Total Cost": 12358.97,
+                 "Plan Rows": 917054,
+                 "Plan Width": 0,
+                 "Disabled": false,
+                 "Index Cond": "((l_receiptdate >= '1995-01-01'::date) AND (l_receiptdate < '1996-01-01 00:00:00'::timestamp without time zone))"
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

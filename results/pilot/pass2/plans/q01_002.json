@@ -1,0 +1,87 @@
+[
+ {
+  "Plan": {
+   "Node Type": "Aggregate",
+   "Strategy": "Sorted",
+   "Partial Mode": "Finalize",
+   "Parallel Aware": false,
+   "Async Capable": false,
+   "Startup Cost": 231706.5,
+   "Total Cost": 231708.75,
+   "Plan Rows": 6,
+   "Plan Width": 236,
+   "Disabled": false,
+   "Group Key": [
+    "l_returnflag",
+    "l_linestatus"
+   ],
+   "Plans": [
+    {
+     "Node Type": "Gather Merge",
+     "Parent Relationship": "Outer",
+     "Parallel Aware": false,
+     "Async Capable": false,
+     "Startup Cost": 231706.5,
+     "Total Cost": 231708.13,
+     "Plan Rows": 14,
+     "Plan Width": 236,
+     "Disabled": false,
+     "Workers Planned": 2,
+     "Plans": [
+      {
+       "Node Type": "Sort",
+       "Parent Relationship": "Outer",
+       "Parallel Aware": false,
+       "Async Capable": false,
+       "Startup Cost": 230706.48,
+       "Total Cost": 230706.49,
+       "Plan Rows": 6,
+       "Plan Width": 236,
+       "Disabled": false,
+       "Sort Key": [
+        "l_returnflag",
+        "l_linestatus"
+       ],
+       "Plans": [
+        {
+         "Node Type": "Aggregate",
+         "Strategy": "Hashed",
+         "Partial Mode": "Partial",
+         "Parent Relationship": "Outer",
+         "Parallel Aware": false,
+         "Async Capable": false,
+         "Startup Cost": 230706.26,
+         "Total Cost": 230706.4,
+         "Plan Rows": 6,
+         "Plan Width": 236,
+         "Disabled": false,
+         "Group Key": [
+          "l_returnflag",
+          "l_linestatus"
+         ],
+         "Planned Partitions": 0,
+         "Plans": [
+          {
+           "Node Type": "Seq Scan",
+           "Parent Relationship": "Outer",
+           "Parallel Aware": true,
+           "Async Capable": false,
+           "Relation Name": "lineitem",
+           "Alias": "lineitem",
+           "Startup Cost": 0.0,
+           "Total Cost": 143864.19,
+           "Plan Rows": 2481202,
+           "Plan Width": 25,
+           "Disabled": false,
+           "Filter": "(l_shipdate <= '1998-10-01 00:00:00'::timestamp without time zone)"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

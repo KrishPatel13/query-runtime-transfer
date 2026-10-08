@@ -1,0 +1,54 @@
+{
+ "pass": 3,
+ "seed": 2,
+ "attempt": 1,
+ "machine": "M1",
+ "clocksource": "hyperv_clocksource_tsc_page",
+ "clock_rate": [
+  {
+   "rate": 1.000042,
+   "wall_s": 1155.4
+  }
+ ],
+ "power": [
+  {
+   "ended_at": "2026-09-30T22:55:10-04:00",
+   "lines": 37,
+   "on_battery": 0,
+   "saver_on": 0,
+   "charge_min": 79,
+   "max_gap_s": 32.0,
+   "gaps": 0,
+   "host_cpu": {
+    "median": 25,
+    "max": 53
+   }
+  }
+ ],
+ "check": {
+  "reference": "pass1",
+  "pass": "pass3",
+  "n_compared": 680,
+  "same_plan": 680,
+  "median_q": 1.0575932806321662,
+  "p90_q": 1.1978313212648555,
+  "shift": null,
+  "shift_in_reference_order": {
+   "after_query_number": 30,
+   "of": 680,
+   "at": "2026-09-30T22:59:16",
+   "level_change": 1.1086941424232952,
+   "median_ratio_before": 0.877196923120662,
+   "median_ratio_after": 0.9725430904156156,
+   "explained": 0.13254218791256878
+  },
+  "split_explained": {
+   "pass": 0.005563451895916338,
+   "reference": 0.13254218791256878
+  },
+  "identity": {
+   "reference": "2026-09-30T22:57:56/2026-09-30T23:18:42",
+   "pass": "2026-09-30T22:35:54/2026-09-30T22:55:09"
+  }
+ }
+}

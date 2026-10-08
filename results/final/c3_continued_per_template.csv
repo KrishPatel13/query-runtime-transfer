@@ -1,0 +1,1981 @@
+pair,method,n,template,log_q,q
+M1->M2,Never update,50,1,1.03283,2.80901
+M1->M2,Never update,50,2,0.228431,1.25663
+M1->M2,Never update,50,3,1.06552,2.90235
+M1->M2,Never update,50,4,0.937953,2.55475
+M1->M2,Never update,50,5,1.2216,3.39261
+M1->M2,Never update,50,6,0.524041,1.68884
+M1->M2,Never update,50,7,0.950717,2.58756
+M1->M2,Never update,50,8,1.19145,3.29187
+M1->M2,Never update,50,9,1.23902,3.45222
+M1->M2,Never update,50,10,0.9458,2.57487
+M1->M2,Never update,50,11,0.113715,1.12043
+M1->M2,Never update,50,12,0.707818,2.02956
+M1->M2,Never update,50,13,0.0818902,1.08534
+M1->M2,Never update,50,14,0.825253,2.28246
+M1->M2,Never update,50,15,0.127176,1.13562
+M1->M2,Never update,50,16,0.810089,2.24811
+M1->M2,Never update,50,17,0.0728834,1.07561
+M1->M2,Never update,50,18,0.997435,2.71132
+M1->M2,Never update,50,19,1.05108,2.86075
+M1->M2,Never update,50,20,0.171275,1.18682
+M1->M2,Never update,50,21,0.991653,2.69569
+M1->M2,Never update,50,22,1.04962,2.85656
+M1->M2,Never update,100,1,1.03283,2.80901
+M1->M2,Never update,100,2,0.228431,1.25663
+M1->M2,Never update,100,3,1.06552,2.90235
+M1->M2,Never update,100,4,0.937953,2.55475
+M1->M2,Never update,100,5,1.2216,3.39261
+M1->M2,Never update,100,6,0.524041,1.68884
+M1->M2,Never update,100,7,0.950717,2.58756
+M1->M2,Never update,100,8,1.19145,3.29187
+M1->M2,Never update,100,9,1.23902,3.45222
+M1->M2,Never update,100,10,0.9458,2.57487
+M1->M2,Never update,100,11,0.113715,1.12043
+M1->M2,Never update,100,12,0.707818,2.02956
+M1->M2,Never update,100,13,0.0818902,1.08534
+M1->M2,Never update,100,14,0.825253,2.28246
+M1->M2,Never update,100,15,0.127176,1.13562
+M1->M2,Never update,100,16,0.810089,2.24811
+M1->M2,Never update,100,17,0.0728834,1.07561
+M1->M2,Never update,100,18,0.997435,2.71132
+M1->M2,Never update,100,19,1.05108,2.86075
+M1->M2,Never update,100,20,0.171275,1.18682
+M1->M2,Never update,100,21,0.991653,2.69569
+M1->M2,Never update,100,22,1.04962,2.85656
+M1->M2,Never update,150,1,1.03283,2.80901
+M1->M2,Never update,150,2,0.228431,1.25663
+M1->M2,Never update,150,3,1.06552,2.90235
+M1->M2,Never update,150,4,0.937953,2.55475
+M1->M2,Never update,150,5,1.2216,3.39261
+M1->M2,Never update,150,6,0.524041,1.68884
+M1->M2,Never update,150,7,0.950717,2.58756
+M1->M2,Never update,150,8,1.19145,3.29187
+M1->M2,Never update,150,9,1.23902,3.45222
+M1->M2,Never update,150,10,0.9458,2.57487
+M1->M2,Never update,150,11,0.113715,1.12043
+M1->M2,Never update,150,12,0.707818,2.02956
+M1->M2,Never update,150,13,0.0818902,1.08534
+M1->M2,Never update,150,14,0.825253,2.28246
+M1->M2,Never update,150,15,0.127176,1.13562
+M1->M2,Never update,150,16,0.810089,2.24811
+M1->M2,Never update,150,17,0.0728834,1.07561
+M1->M2,Never update,150,18,0.997435,2.71132
+M1->M2,Never update,150,19,1.05108,2.86075
+M1->M2,Never update,150,20,0.171275,1.18682
+M1->M2,Never update,150,21,0.991653,2.69569
+M1->M2,Never update,150,22,1.04962,2.85656
+M1->M2,Never update,200,1,1.03283,2.80901
+M1->M2,Never update,200,2,0.228431,1.25663
+M1->M2,Never update,200,3,1.06552,2.90235
+M1->M2,Never update,200,4,0.937953,2.55475
+M1->M2,Never update,200,5,1.2216,3.39261
+M1->M2,Never update,200,6,0.524041,1.68884
+M1->M2,Never update,200,7,0.950717,2.58756
+M1->M2,Never update,200,8,1.19145,3.29187
+M1->M2,Never update,200,9,1.23902,3.45222
+M1->M2,Never update,200,10,0.9458,2.57487
+M1->M2,Never update,200,11,0.113715,1.12043
+M1->M2,Never update,200,12,0.707818,2.02956
+M1->M2,Never update,200,13,0.0818902,1.08534
+M1->M2,Never update,200,14,0.825253,2.28246
+M1->M2,Never update,200,15,0.127176,1.13562
+M1->M2,Never update,200,16,0.810089,2.24811
+M1->M2,Never update,200,17,0.0728834,1.07561
+M1->M2,Never update,200,18,0.997435,2.71132
+M1->M2,Never update,200,19,1.05108,2.86075
+M1->M2,Never update,200,20,0.171275,1.18682
+M1->M2,Never update,200,21,0.991653,2.69569
+M1->M2,Never update,200,22,1.04962,2.85656
+M1->M2,Never update,250,1,1.03283,2.80901
+M1->M2,Never update,250,2,0.228431,1.25663
+M1->M2,Never update,250,3,1.06552,2.90235
+M1->M2,Never update,250,4,0.937953,2.55475
+M1->M2,Never update,250,5,1.2216,3.39261
+M1->M2,Never update,250,6,0.524041,1.68884
+M1->M2,Never update,250,7,0.950717,2.58756
+M1->M2,Never update,250,8,1.19145,3.29187
+M1->M2,Never update,250,9,1.23902,3.45222
+M1->M2,Never update,250,10,0.9458,2.57487
+M1->M2,Never update,250,11,0.113715,1.12043
+M1->M2,Never update,250,12,0.707818,2.02956
+M1->M2,Never update,250,13,0.0818902,1.08534
+M1->M2,Never update,250,14,0.825253,2.28246
+M1->M2,Never update,250,15,0.127176,1.13562
+M1->M2,Never update,250,16,0.810089,2.24811
+M1->M2,Never update,250,17,0.0728834,1.07561
+M1->M2,Never update,250,18,0.997435,2.71132
+M1->M2,Never update,250,19,1.05108,2.86075
+M1->M2,Never update,250,20,0.171275,1.18682
+M1->M2,Never update,250,21,0.991653,2.69569
+M1->M2,Never update,250,22,1.04962,2.85656
+M1->M2,Never update,300,1,1.03283,2.80901
+M1->M2,Never update,300,2,0.228431,1.25663
+M1->M2,Never update,300,3,1.06552,2.90235
+M1->M2,Never update,300,4,0.937953,2.55475
+M1->M2,Never update,300,5,1.2216,3.39261
+M1->M2,Never update,300,6,0.524041,1.68884
+M1->M2,Never update,300,7,0.950717,2.58756
+M1->M2,Never update,300,8,1.19145,3.29187
+M1->M2,Never update,300,9,1.23902,3.45222
+M1->M2,Never update,300,10,0.9458,2.57487
+M1->M2,Never update,300,11,0.113715,1.12043
+M1->M2,Never update,300,12,0.707818,2.02956
+M1->M2,Never update,300,13,0.0818902,1.08534
+M1->M2,Never update,300,14,0.825253,2.28246
+M1->M2,Never update,300,15,0.127176,1.13562
+M1->M2,Never update,300,16,0.810089,2.24811
+M1->M2,Never update,300,17,0.0728834,1.07561
+M1->M2,Never update,300,18,0.997435,2.71132
+M1->M2,Never update,300,19,1.05108,2.86075
+M1->M2,Never update,300,20,0.171275,1.18682
+M1->M2,Never update,300,21,0.991653,2.69569
+M1->M2,Never update,300,22,1.04962,2.85656
+M1->M2,Never update,350,1,1.03283,2.80901
+M1->M2,Never update,350,2,0.228431,1.25663
+M1->M2,Never update,350,3,1.06552,2.90235
+M1->M2,Never update,350,4,0.937953,2.55475
+M1->M2,Never update,350,5,1.2216,3.39261
+M1->M2,Never update,350,6,0.524041,1.68884
+M1->M2,Never update,350,7,0.950717,2.58756
+M1->M2,Never update,350,8,1.19145,3.29187
+M1->M2,Never update,350,9,1.23902,3.45222
+M1->M2,Never update,350,10,0.9458,2.57487
+M1->M2,Never update,350,11,0.113715,1.12043
+M1->M2,Never update,350,12,0.707818,2.02956
+M1->M2,Never update,350,13,0.0818902,1.08534
+M1->M2,Never update,350,14,0.825253,2.28246
+M1->M2,Never update,350,15,0.127176,1.13562
+M1->M2,Never update,350,16,0.810089,2.24811
+M1->M2,Never update,350,17,0.0728834,1.07561
+M1->M2,Never update,350,18,0.997435,2.71132
+M1->M2,Never update,350,19,1.05108,2.86075
+M1->M2,Never update,350,20,0.171275,1.18682
+M1->M2,Never update,350,21,0.991653,2.69569
+M1->M2,Never update,350,22,1.04962,2.85656
+M1->M2,Never update,400,1,1.03283,2.80901
+M1->M2,Never update,400,2,0.228431,1.25663
+M1->M2,Never update,400,3,1.06552,2.90235
+M1->M2,Never update,400,4,0.937953,2.55475
+M1->M2,Never update,400,5,1.2216,3.39261
+M1->M2,Never update,400,6,0.524041,1.68884
+M1->M2,Never update,400,7,0.950717,2.58756
+M1->M2,Never update,400,8,1.19145,3.29187
+M1->M2,Never update,400,9,1.23902,3.45222
+M1->M2,Never update,400,10,0.9458,2.57487
+M1->M2,Never update,400,11,0.113715,1.12043
+M1->M2,Never update,400,12,0.707818,2.02956
+M1->M2,Never update,400,13,0.0818902,1.08534
+M1->M2,Never update,400,14,0.825253,2.28246
+M1->M2,Never update,400,15,0.127176,1.13562
+M1->M2,Never update,400,16,0.810089,2.24811
+M1->M2,Never update,400,17,0.0728834,1.07561
+M1->M2,Never update,400,18,0.997435,2.71132
+M1->M2,Never update,400,19,1.05108,2.86075
+M1->M2,Never update,400,20,0.171275,1.18682
+M1->M2,Never update,400,21,0.991653,2.69569
+M1->M2,Never update,400,22,1.04962,2.85656
+M1->M2,Never update,450,1,1.03283,2.80901
+M1->M2,Never update,450,2,0.228431,1.25663
+M1->M2,Never update,450,3,1.06552,2.90235
+M1->M2,Never update,450,4,0.937953,2.55475
+M1->M2,Never update,450,5,1.2216,3.39261
+M1->M2,Never update,450,6,0.524041,1.68884
+M1->M2,Never update,450,7,0.950717,2.58756
+M1->M2,Never update,450,8,1.19145,3.29187
+M1->M2,Never update,450,9,1.23902,3.45222
+M1->M2,Never update,450,10,0.9458,2.57487
+M1->M2,Never update,450,11,0.113715,1.12043
+M1->M2,Never update,450,12,0.707818,2.02956
+M1->M2,Never update,450,13,0.0818902,1.08534
+M1->M2,Never update,450,14,0.825253,2.28246
+M1->M2,Never update,450,15,0.127176,1.13562
+M1->M2,Never update,450,16,0.810089,2.24811
+M1->M2,Never update,450,17,0.0728834,1.07561
+M1->M2,Never update,450,18,0.997435,2.71132
+M1->M2,Never update,450,19,1.05108,2.86075
+M1->M2,Never update,450,20,0.171275,1.18682
+M1->M2,Never update,450,21,0.991653,2.69569
+M1->M2,Never update,450,22,1.04962,2.85656
+M1->M2,Never update,476,1,1.03283,2.80901
+M1->M2,Never update,476,2,0.228431,1.25663
+M1->M2,Never update,476,3,1.06552,2.90235
+M1->M2,Never update,476,4,0.937953,2.55475
+M1->M2,Never update,476,5,1.2216,3.39261
+M1->M2,Never update,476,6,0.524041,1.68884
+M1->M2,Never update,476,7,0.950717,2.58756
+M1->M2,Never update,476,8,1.19145,3.29187
+M1->M2,Never update,476,9,1.23902,3.45222
+M1->M2,Never update,476,10,0.9458,2.57487
+M1->M2,Never update,476,11,0.113715,1.12043
+M1->M2,Never update,476,12,0.707818,2.02956
+M1->M2,Never update,476,13,0.0818902,1.08534
+M1->M2,Never update,476,14,0.825253,2.28246
+M1->M2,Never update,476,15,0.127176,1.13562
+M1->M2,Never update,476,16,0.810089,2.24811
+M1->M2,Never update,476,17,0.0728834,1.07561
+M1->M2,Never update,476,18,0.997435,2.71132
+M1->M2,Never update,476,19,1.05108,2.86075
+M1->M2,Never update,476,20,0.171275,1.18682
+M1->M2,Never update,476,21,0.991653,2.69569
+M1->M2,Never update,476,22,1.04962,2.85656
+M1->M2,Refit on all so far,50,1,0.105048,1.11076
+M1->M2,Refit on all so far,50,2,0.269313,1.30907
+M1->M2,Refit on all so far,50,3,0.0904333,1.09465
+M1->M2,Refit on all so far,50,4,0.0937367,1.09827
+M1->M2,Refit on all so far,50,5,0.11727,1.12442
+M1->M2,Refit on all so far,50,6,0.166248,1.18087
+M1->M2,Refit on all so far,50,7,0.127105,1.13554
+M1->M2,Refit on all so far,50,8,0.15779,1.17092
+M1->M2,Refit on all so far,50,9,0.15731,1.17036
+M1->M2,Refit on all so far,50,10,0.111821,1.11831
+M1->M2,Refit on all so far,50,11,0.0716284,1.07426
+M1->M2,Refit on all so far,50,12,0.139191,1.14934
+M1->M2,Refit on all so far,50,13,0.28931,1.33551
+M1->M2,Refit on all so far,50,14,0.0916443,1.09597
+M1->M2,Refit on all so far,50,15,0.0927146,1.09715
+M1->M2,Refit on all so far,50,16,0.150727,1.16268
+M1->M2,Refit on all so far,50,17,0.219311,1.24522
+M1->M2,Refit on all so far,50,18,0.19426,1.21441
+M1->M2,Refit on all so far,50,19,0.0708657,1.07344
+M1->M2,Refit on all so far,50,20,0.092245,1.09663
+M1->M2,Refit on all so far,50,21,0.102519,1.10796
+M1->M2,Refit on all so far,50,22,0.153051,1.16538
+M1->M2,Refit on all so far,100,1,0.0765347,1.07954
+M1->M2,Refit on all so far,100,2,0.207737,1.23089
+M1->M2,Refit on all so far,100,3,0.088157,1.09216
+M1->M2,Refit on all so far,100,4,0.082496,1.08599
+M1->M2,Refit on all so far,100,5,0.101834,1.1072
+M1->M2,Refit on all so far,100,6,0.13057,1.13948
+M1->M2,Refit on all so far,100,7,0.0736904,1.07647
+M1->M2,Refit on all so far,100,8,0.107007,1.11294
+M1->M2,Refit on all so far,100,9,0.145987,1.15718
+M1->M2,Refit on all so far,100,10,0.0911762,1.09546
+M1->M2,Refit on all so far,100,11,0.0586608,1.06042
+M1->M2,Refit on all so far,100,12,0.138625,1.14869
+M1->M2,Refit on all so far,100,13,0.172627,1.18842
+M1->M2,Refit on all so far,100,14,0.0842542,1.08791
+M1->M2,Refit on all so far,100,15,0.0725633,1.07526
+M1->M2,Refit on all so far,100,16,0.0649707,1.06713
+M1->M2,Refit on all so far,100,17,0.0875828,1.09153
+M1->M2,Refit on all so far,100,18,0.172799,1.18863
+M1->M2,Refit on all so far,100,19,0.0504566,1.05175
+M1->M2,Refit on all so far,100,20,0.0783579,1.08151
+M1->M2,Refit on all so far,100,21,0.0855646,1.08933
+M1->M2,Refit on all so far,100,22,0.112562,1.11914
+M1->M2,Refit on all so far,150,1,0.0686609,1.07107
+M1->M2,Refit on all so far,150,2,0.181177,1.19863
+M1->M2,Refit on all so far,150,3,0.0889822,1.09306
+M1->M2,Refit on all so far,150,4,0.0643368,1.06645
+M1->M2,Refit on all so far,150,5,0.0949115,1.09956
+M1->M2,Refit on all so far,150,6,0.121652,1.12936
+M1->M2,Refit on all so far,150,7,0.0687912,1.07121
+M1->M2,Refit on all so far,150,8,0.0973428,1.10224
+M1->M2,Refit on all so far,150,9,0.151966,1.16412
+M1->M2,Refit on all so far,150,10,0.0867736,1.09065
+M1->M2,Refit on all so far,150,11,0.0551642,1.05671
+M1->M2,Refit on all so far,150,12,0.146997,1.15835
+M1->M2,Refit on all so far,150,13,0.0916571,1.09599
+M1->M2,Refit on all so far,150,14,0.0720247,1.07468
+M1->M2,Refit on all so far,150,15,0.0544571,1.05597
+M1->M2,Refit on all so far,150,16,0.0470941,1.04822
+M1->M2,Refit on all so far,150,17,0.0547096,1.05623
+M1->M2,Refit on all so far,150,18,0.15259,1.16485
+M1->M2,Refit on all so far,150,19,0.054757,1.05628
+M1->M2,Refit on all so far,150,20,0.0509789,1.0523
+M1->M2,Refit on all so far,150,21,0.0845446,1.08822
+M1->M2,Refit on all so far,150,22,0.0781663,1.0813
+M1->M2,Refit on all so far,200,1,0.0612079,1.06312
+M1->M2,Refit on all so far,200,2,0.179965,1.19718
+M1->M2,Refit on all so far,200,3,0.0949179,1.09957
+M1->M2,Refit on all so far,200,4,0.064745,1.06689
+M1->M2,Refit on all so far,200,5,0.09901,1.10408
+M1->M2,Refit on all so far,200,6,0.122988,1.13087
+M1->M2,Refit on all so far,200,7,0.057212,1.05888
+M1->M2,Refit on all so far,200,8,0.09516,1.09983
+M1->M2,Refit on all so far,200,9,0.151125,1.16314
+M1->M2,Refit on all so far,200,10,0.0743869,1.07722
+M1->M2,Refit on all so far,200,11,0.058567,1.06032
+M1->M2,Refit on all so far,200,12,0.150863,1.16284
+M1->M2,Refit on all so far,200,13,0.0720894,1.07475
+M1->M2,Refit on all so far,200,14,0.0663551,1.06861
+M1->M2,Refit on all so far,200,15,0.0477333,1.04889
+M1->M2,Refit on all so far,200,16,0.0426491,1.04357
+M1->M2,Refit on all so far,200,17,0.0399256,1.04073
+M1->M2,Refit on all so far,200,18,0.142126,1.15272
+M1->M2,Refit on all so far,200,19,0.0547379,1.05626
+M1->M2,Refit on all so far,200,20,0.0493917,1.05063
+M1->M2,Refit on all so far,200,21,0.0826508,1.08616
+M1->M2,Refit on all so far,200,22,0.0648538,1.067
+M1->M2,Refit on all so far,250,1,0.0609854,1.06288
+M1->M2,Refit on all so far,250,2,0.181467,1.19897
+M1->M2,Refit on all so far,250,3,0.102114,1.10751
+M1->M2,Refit on all so far,250,4,0.0590554,1.06083
+M1->M2,Refit on all so far,250,5,0.0974203,1.10232
+M1->M2,Refit on all so far,250,6,0.119745,1.12721
+M1->M2,Refit on all so far,250,7,0.0618264,1.06378
+M1->M2,Refit on all so far,250,8,0.0910081,1.09528
+M1->M2,Refit on all so far,250,9,0.142914,1.15363
+M1->M2,Refit on all so far,250,10,0.0759732,1.07893
+M1->M2,Refit on all so far,250,11,0.0564503,1.05807
+M1->M2,Refit on all so far,250,12,0.151134,1.16315
+M1->M2,Refit on all so far,250,13,0.0571894,1.05886
+M1->M2,Refit on all so far,250,14,0.0669185,1.06921
+M1->M2,Refit on all so far,250,15,0.0457814,1.04685
+M1->M2,Refit on all so far,250,16,0.0425537,1.04347
+M1->M2,Refit on all so far,250,17,0.0360002,1.03666
+M1->M2,Refit on all so far,250,18,0.13254,1.14172
+M1->M2,Refit on all so far,250,19,0.0563104,1.05793
+M1->M2,Refit on all so far,250,20,0.047702,1.04886
+M1->M2,Refit on all so far,250,21,0.0823153,1.0858
+M1->M2,Refit on all so far,250,22,0.0637641,1.06584
+M1->M2,Refit on all so far,300,1,0.0607033,1.06258
+M1->M2,Refit on all so far,300,2,0.18042,1.19772
+M1->M2,Refit on all so far,300,3,0.100373,1.10558
+M1->M2,Refit on all so far,300,4,0.0584745,1.06022
+M1->M2,Refit on all so far,300,5,0.0960223,1.10078
+M1->M2,Refit on all so far,300,6,0.120754,1.12835
+M1->M2,Refit on all so far,300,7,0.0561373,1.05774
+M1->M2,Refit on all so far,300,8,0.0844221,1.08809
+M1->M2,Refit on all so far,300,9,0.148207,1.15975
+M1->M2,Refit on all so far,300,10,0.070906,1.07348
+M1->M2,Refit on all so far,300,11,0.0569661,1.05862
+M1->M2,Refit on all so far,300,12,0.152811,1.1651
+M1->M2,Refit on all so far,300,13,0.0530064,1.05444
+M1->M2,Refit on all so far,300,14,0.0641163,1.06622
+M1->M2,Refit on all so far,300,15,0.048492,1.04969
+M1->M2,Refit on all so far,300,16,0.0405815,1.04142
+M1->M2,Refit on all so far,300,17,0.037359,1.03807
+M1->M2,Refit on all so far,300,18,0.136463,1.14621
+M1->M2,Refit on all so far,300,19,0.0562156,1.05783
+M1->M2,Refit on all so far,300,20,0.0510436,1.05237
+M1->M2,Refit on all so far,300,21,0.0786459,1.08182
+M1->M2,Refit on all so far,300,22,0.0653965,1.06758
+M1->M2,Refit on all so far,350,1,0.0583811,1.06012
+M1->M2,Refit on all so far,350,2,0.180238,1.1975
+M1->M2,Refit on all so far,350,3,0.106758,1.11266
+M1->M2,Refit on all so far,350,4,0.0589797,1.06075
+M1->M2,Refit on all so far,350,5,0.0924815,1.09689
+M1->M2,Refit on all so far,350,6,0.12098,1.1286
+M1->M2,Refit on all so far,350,7,0.0534401,1.05489
+M1->M2,Refit on all so far,350,8,0.0843358,1.08799
+M1->M2,Refit on all so far,350,9,0.15168,1.16379
+M1->M2,Refit on all so far,350,10,0.0719197,1.07457
+M1->M2,Refit on all so far,350,11,0.0586606,1.06042
+M1->M2,Refit on all so far,350,12,0.151195,1.16322
+M1->M2,Refit on all so far,350,13,0.0504907,1.05179
+M1->M2,Refit on all so far,350,14,0.0622829,1.06426
+M1->M2,Refit on all so far,350,15,0.0492853,1.05052
+M1->M2,Refit on all so far,350,16,0.0407683,1.04161
+M1->M2,Refit on all so far,350,17,0.0356191,1.03626
+M1->M2,Refit on all so far,350,18,0.129942,1.13876
+M1->M2,Refit on all so far,350,19,0.0586409,1.06039
+M1->M2,Refit on all so far,350,20,0.0472562,1.04839
+M1->M2,Refit on all so far,350,21,0.076694,1.07971
+M1->M2,Refit on all so far,350,22,0.0628045,1.06482
+M1->M2,Refit on all so far,400,1,0.0599376,1.06177
+M1->M2,Refit on all so far,400,2,0.181569,1.1991
+M1->M2,Refit on all so far,400,3,0.111354,1.11779
+M1->M2,Refit on all so far,400,4,0.0583461,1.06008
+M1->M2,Refit on all so far,400,5,0.0879963,1.09198
+M1->M2,Refit on all so far,400,6,0.118435,1.12573
+M1->M2,Refit on all so far,400,7,0.0546452,1.05617
+M1->M2,Refit on all so far,400,8,0.088361,1.09238
+M1->M2,Refit on all so far,400,9,0.147303,1.1587
+M1->M2,Refit on all so far,400,10,0.072447,1.07514
+M1->M2,Refit on all so far,400,11,0.0590376,1.06082
+M1->M2,Refit on all so far,400,12,0.152619,1.16488
+M1->M2,Refit on all so far,400,13,0.0502626,1.05155
+M1->M2,Refit on all so far,400,14,0.06181,1.06376
+M1->M2,Refit on all so far,400,15,0.050589,1.05189
+M1->M2,Refit on all so far,400,16,0.0411323,1.04199
+M1->M2,Refit on all so far,400,17,0.0341974,1.03479
+M1->M2,Refit on all so far,400,18,0.127665,1.13617
+M1->M2,Refit on all so far,400,19,0.0601176,1.06196
+M1->M2,Refit on all so far,400,20,0.0435752,1.04454
+M1->M2,Refit on all so far,400,21,0.0755006,1.07842
+M1->M2,Refit on all so far,400,22,0.0614686,1.0634
+M1->M2,Refit on all so far,450,1,0.0577238,1.05942
+M1->M2,Refit on all so far,450,2,0.184869,1.20306
+M1->M2,Refit on all so far,450,3,0.113067,1.11971
+M1->M2,Refit on all so far,450,4,0.059052,1.06083
+M1->M2,Refit on all so far,450,5,0.0866528,1.09052
+M1->M2,Refit on all so far,450,6,0.120266,1.1278
+M1->M2,Refit on all so far,450,7,0.0541101,1.0556
+M1->M2,Refit on all so far,450,8,0.0886033,1.09265
+M1->M2,Refit on all so far,450,9,0.146387,1.15764
+M1->M2,Refit on all so far,450,10,0.073145,1.07589
+M1->M2,Refit on all so far,450,11,0.058293,1.06003
+M1->M2,Refit on all so far,450,12,0.152966,1.16529
+M1->M2,Refit on all so far,450,13,0.0505808,1.05188
+M1->M2,Refit on all so far,450,14,0.0581454,1.05987
+M1->M2,Refit on all so far,450,15,0.0533674,1.05482
+M1->M2,Refit on all so far,450,16,0.0410467,1.0419
+M1->M2,Refit on all so far,450,17,0.0371522,1.03785
+M1->M2,Refit on all so far,450,18,0.126009,1.13429
+M1->M2,Refit on all so far,450,19,0.0631706,1.06521
+M1->M2,Refit on all so far,450,20,0.0418768,1.04277
+M1->M2,Refit on all so far,450,21,0.0727441,1.07546
+M1->M2,Refit on all so far,450,22,0.0594048,1.0612
+M1->M2,Refit on all so far,476,1,0.0557789,1.05736
+M1->M2,Refit on all so far,476,2,0.188131,1.20699
+M1->M2,Refit on all so far,476,3,0.113887,1.12063
+M1->M2,Refit on all so far,476,4,0.058071,1.05979
+M1->M2,Refit on all so far,476,5,0.0856063,1.08938
+M1->M2,Refit on all so far,476,6,0.118751,1.12609
+M1->M2,Refit on all so far,476,7,0.0510803,1.05241
+M1->M2,Refit on all so far,476,8,0.0856526,1.08943
+M1->M2,Refit on all so far,476,9,0.143469,1.15427
+M1->M2,Refit on all so far,476,10,0.074624,1.07748
+M1->M2,Refit on all so far,476,11,0.0570624,1.05872
+M1->M2,Refit on all so far,476,12,0.154076,1.16658
+M1->M2,Refit on all so far,476,13,0.0526687,1.05408
+M1->M2,Refit on all so far,476,14,0.0560702,1.05767
+M1->M2,Refit on all so far,476,15,0.0541251,1.05562
+M1->M2,Refit on all so far,476,16,0.0431297,1.04407
+M1->M2,Refit on all so far,476,17,0.0348644,1.03548
+M1->M2,Refit on all so far,476,18,0.124907,1.13304
+M1->M2,Refit on all so far,476,19,0.0626981,1.06471
+M1->M2,Refit on all so far,476,20,0.039306,1.04009
+M1->M2,Refit on all so far,476,21,0.0709797,1.07356
+M1->M2,Refit on all so far,476,22,0.0582533,1.05998
+M1->M2,Refit on the last 50,50,1,0.105048,1.11076
+M1->M2,Refit on the last 50,50,2,0.269313,1.30907
+M1->M2,Refit on the last 50,50,3,0.0904333,1.09465
+M1->M2,Refit on the last 50,50,4,0.0937367,1.09827
+M1->M2,Refit on the last 50,50,5,0.11727,1.12442
+M1->M2,Refit on the last 50,50,6,0.166248,1.18087
+M1->M2,Refit on the last 50,50,7,0.127105,1.13554
+M1->M2,Refit on the last 50,50,8,0.15779,1.17092
+M1->M2,Refit on the last 50,50,9,0.15731,1.17036
+M1->M2,Refit on the last 50,50,10,0.111821,1.11831
+M1->M2,Refit on the last 50,50,11,0.0716284,1.07426
+M1->M2,Refit on the last 50,50,12,0.139191,1.14934
+M1->M2,Refit on the last 50,50,13,0.28931,1.33551
+M1->M2,Refit on the last 50,50,14,0.0916443,1.09597
+M1->M2,Refit on the last 50,50,15,0.0927146,1.09715
+M1->M2,Refit on the last 50,50,16,0.150727,1.16268
+M1->M2,Refit on the last 50,50,17,0.219311,1.24522
+M1->M2,Refit on the last 50,50,18,0.19426,1.21441
+M1->M2,Refit on the last 50,50,19,0.0708657,1.07344
+M1->M2,Refit on the last 50,50,20,0.092245,1.09663
+M1->M2,Refit on the last 50,50,21,0.102519,1.10796
+M1->M2,Refit on the last 50,50,22,0.153051,1.16538
+M1->M2,Refit on the last 50,100,1,0.0823977,1.08589
+M1->M2,Refit on the last 50,100,2,0.281812,1.32553
+M1->M2,Refit on the last 50,100,3,0.107851,1.11388
+M1->M2,Refit on the last 50,100,4,0.0869755,1.09087
+M1->M2,Refit on the last 50,100,5,0.127288,1.13574
+M1->M2,Refit on the last 50,100,6,0.11632,1.12335
+M1->M2,Refit on the last 50,100,7,0.102589,1.10804
+M1->M2,Refit on the last 50,100,8,0.229454,1.25791
+M1->M2,Refit on the last 50,100,9,0.137641,1.14756
+M1->M2,Refit on the last 50,100,10,0.136591,1.14636
+M1->M2,Refit on the last 50,100,11,0.0616826,1.06362
+M1->M2,Refit on the last 50,100,12,0.106259,1.11211
+M1->M2,Refit on the last 50,100,13,0.228432,1.25663
+M1->M2,Refit on the last 50,100,14,0.122978,1.13086
+M1->M2,Refit on the last 50,100,15,0.407786,1.50349
+M1->M2,Refit on the last 50,100,16,0.069405,1.07187
+M1->M2,Refit on the last 50,100,17,0.212833,1.23718
+M1->M2,Refit on the last 50,100,18,0.175262,1.19156
+M1->M2,Refit on the last 50,100,19,0.0734035,1.07616
+M1->M2,Refit on the last 50,100,20,0.207733,1.23088
+M1->M2,Refit on the last 50,100,21,0.130896,1.13985
+M1->M2,Refit on the last 50,100,22,0.215723,1.24076
+M1->M2,Refit on the last 50,150,1,0.0630122,1.06504
+M1->M2,Refit on the last 50,150,2,0.363126,1.43782
+M1->M2,Refit on the last 50,150,3,0.105837,1.11164
+M1->M2,Refit on the last 50,150,4,0.115125,1.12201
+M1->M2,Refit on the last 50,150,5,0.102294,1.10771
+M1->M2,Refit on the last 50,150,6,0.161804,1.17563
+M1->M2,Refit on the last 50,150,7,0.133681,1.14303
+M1->M2,Refit on the last 50,150,8,0.186797,1.20538
+M1->M2,Refit on the last 50,150,9,0.108805,1.11495
+M1->M2,Refit on the last 50,150,10,0.148309,1.15987
+M1->M2,Refit on the last 50,150,11,0.0584488,1.06019
+M1->M2,Refit on the last 50,150,12,0.138104,1.1481
+M1->M2,Refit on the last 50,150,13,0.286386,1.33161
+M1->M2,Refit on the last 50,150,14,0.104337,1.10997
+M1->M2,Refit on the last 50,150,15,0.104703,1.11038
+M1->M2,Refit on the last 50,150,16,0.0751518,1.07805
+M1->M2,Refit on the last 50,150,17,0.275963,1.3178
+M1->M2,Refit on the last 50,150,18,0.205279,1.22787
+M1->M2,Refit on the last 50,150,19,0.0765106,1.07951
+M1->M2,Refit on the last 50,150,20,0.122928,1.1308
+M1->M2,Refit on the last 50,150,21,0.0925078,1.09692
+M1->M2,Refit on the last 50,150,22,0.183026,1.20085
+M1->M2,Refit on the last 50,200,1,0.0736299,1.07641
+M1->M2,Refit on the last 50,200,2,0.308608,1.36153
+M1->M2,Refit on the last 50,200,3,0.118745,1.12608
+M1->M2,Refit on the last 50,200,4,0.0946829,1.09931
+M1->M2,Refit on the last 50,200,5,0.130079,1.13892
+M1->M2,Refit on the last 50,200,6,0.152157,1.16434
+M1->M2,Refit on the last 50,200,7,0.130047,1.13888
+M1->M2,Refit on the last 50,200,8,0.189881,1.20911
+M1->M2,Refit on the last 50,200,9,0.135356,1.14494
+M1->M2,Refit on the last 50,200,10,0.140814,1.15121
+M1->M2,Refit on the last 50,200,11,0.0903293,1.09453
+M1->M2,Refit on the last 50,200,12,0.127903,1.13644
+M1->M2,Refit on the last 50,200,13,0.260483,1.29756
+M1->M2,Refit on the last 50,200,14,0.0967847,1.10162
+M1->M2,Refit on the last 50,200,15,0.0891284,1.09322
+M1->M2,Refit on the last 50,200,16,0.0957841,1.10052
+M1->M2,Refit on the last 50,200,17,0.183818,1.2018
+M1->M2,Refit on the last 50,200,18,0.17516,1.19144
+M1->M2,Refit on the last 50,200,19,0.0636608,1.06573
+M1->M2,Refit on the last 50,200,20,0.0799913,1.08328
+M1->M2,Refit on the last 50,200,21,0.139584,1.1498
+M1->M2,Refit on the last 50,200,22,0.133611,1.14295
+M1->M2,Refit on the last 50,250,1,0.107247,1.11321
+M1->M2,Refit on the last 50,250,2,0.258801,1.29538
+M1->M2,Refit on the last 50,250,3,0.114492,1.1213
+M1->M2,Refit on the last 50,250,4,0.0840477,1.08768
+M1->M2,Refit on the last 50,250,5,0.121046,1.12868
+M1->M2,Refit on the last 50,250,6,0.128436,1.13705
+M1->M2,Refit on the last 50,250,7,0.197459,1.2183
+M1->M2,Refit on the last 50,250,8,0.120891,1.1285
+M1->M2,Refit on the last 50,250,9,0.125696,1.13394
+M1->M2,Refit on the last 50,250,10,0.109352,1.11556
+M1->M2,Refit on the last 50,250,11,0.158184,1.17138
+M1->M2,Refit on the last 50,250,12,0.116147,1.12316
+M1->M2,Refit on the last 50,250,13,0.272987,1.31388
+M1->M2,Refit on the last 50,250,14,0.0985689,1.10359
+M1->M2,Refit on the last 50,250,15,0.136836,1.14664
+M1->M2,Refit on the last 50,250,16,0.146295,1.15754
+M1->M2,Refit on the last 50,250,17,0.128601,1.13724
+M1->M2,Refit on the last 50,250,18,0.163421,1.17753
+M1->M2,Refit on the last 50,250,19,0.0694545,1.07192
+M1->M2,Refit on the last 50,250,20,0.0890259,1.09311
+M1->M2,Refit on the last 50,250,21,0.116981,1.1241
+M1->M2,Refit on the last 50,250,22,0.140817,1.15121
+M1->M2,Refit on the last 50,300,1,0.115487,1.12242
+M1->M2,Refit on the last 50,300,2,0.24248,1.27441
+M1->M2,Refit on the last 50,300,3,0.122583,1.13041
+M1->M2,Refit on the last 50,300,4,0.0903986,1.09461
+M1->M2,Refit on the last 50,300,5,0.11562,1.12257
+M1->M2,Refit on the last 50,300,6,0.144226,1.15514
+M1->M2,Refit on the last 50,300,7,0.153823,1.16628
+M1->M2,Refit on the last 50,300,8,0.132897,1.14213
+M1->M2,Refit on the last 50,300,9,0.18207,1.1997
+M1->M2,Refit on the last 50,300,10,0.126436,1.13478
+M1->M2,Refit on the last 50,300,11,0.119519,1.12695
+M1->M2,Refit on the last 50,300,12,0.173436,1.18938
+M1->M2,Refit on the last 50,300,13,0.240797,1.27226
+M1->M2,Refit on the last 50,300,14,0.0983098,1.1033
+M1->M2,Refit on the last 50,300,15,0.188529,1.20747
+M1->M2,Refit on the last 50,300,16,0.0898011,1.09396
+M1->M2,Refit on the last 50,300,17,0.170051,1.18536
+M1->M2,Refit on the last 50,300,18,0.195426,1.21583
+M1->M2,Refit on the last 50,300,19,0.0554133,1.05698
+M1->M2,Refit on the last 50,300,20,0.136544,1.14631
+M1->M2,Refit on the last 50,300,21,0.124667,1.13277
+M1->M2,Refit on the last 50,300,22,0.157725,1.17084
+M1->M2,Refit on the last 50,350,1,0.101624,1.10697
+M1->M2,Refit on the last 50,350,2,0.27474,1.31619
+M1->M2,Refit on the last 50,350,3,0.137925,1.14789
+M1->M2,Refit on the last 50,350,4,0.103844,1.10943
+M1->M2,Refit on the last 50,350,5,0.101122,1.10641
+M1->M2,Refit on the last 50,350,6,0.146833,1.15816
+M1->M2,Refit on the last 50,350,7,0.105997,1.11182
+M1->M2,Refit on the last 50,350,8,0.195806,1.21629
+M1->M2,Refit on the last 50,350,9,0.0842683,1.08792
+M1->M2,Refit on the last 50,350,10,0.105826,1.11163
+M1->M2,Refit on the last 50,350,11,0.104361,1.11
+M1->M2,Refit on the last 50,350,12,0.121771,1.12949
+M1->M2,Refit on the last 50,350,13,0.358574,1.43129
+M1->M2,Refit on the last 50,350,14,0.100583,1.10582
+M1->M2,Refit on the last 50,350,15,0.203414,1.22558
+M1->M2,Refit on the last 50,350,16,0.149802,1.1616
+M1->M2,Refit on the last 50,350,17,0.195418,1.21582
+M1->M2,Refit on the last 50,350,18,0.181848,1.19943
+M1->M2,Refit on the last 50,350,19,0.0647944,1.06694
+M1->M2,Refit on the last 50,350,20,0.0867935,1.09067
+M1->M2,Refit on the last 50,350,21,0.112368,1.11892
+M1->M2,Refit on the last 50,350,22,0.179488,1.19661
+M1->M2,Refit on the last 50,400,1,0.10295,1.10844
+M1->M2,Refit on the last 50,400,2,0.355197,1.42646
+M1->M2,Refit on the last 50,400,3,0.136394,1.14613
+M1->M2,Refit on the last 50,400,4,0.112521,1.1191
+M1->M2,Refit on the last 50,400,5,0.10798,1.11403
+M1->M2,Refit on the last 50,400,6,0.127845,1.13638
+M1->M2,Refit on the last 50,400,7,0.104402,1.11005
+M1->M2,Refit on the last 50,400,8,0.301663,1.35211
+M1->M2,Refit on the last 50,400,9,0.133732,1.14309
+M1->M2,Refit on the last 50,400,10,0.11847,1.12577
+M1->M2,Refit on the last 50,400,11,0.0726317,1.07533
+M1->M2,Refit on the last 50,400,12,0.123025,1.13091
+M1->M2,Refit on the last 50,400,13,0.388864,1.4753
+M1->M2,Refit on the last 50,400,14,0.092274,1.09667
+M1->M2,Refit on the last 50,400,15,0.0708463,1.07342
+M1->M2,Refit on the last 50,400,16,0.11007,1.11636
+M1->M2,Refit on the last 50,400,17,0.235966,1.26613
+M1->M2,Refit on the last 50,400,18,0.180189,1.19744
+M1->M2,Refit on the last 50,400,19,0.0709192,1.07349
+M1->M2,Refit on the last 50,400,20,0.152644,1.16491
+M1->M2,Refit on the last 50,400,21,0.121778,1.1295
+M1->M2,Refit on the last 50,400,22,0.143935,1.15481
+M1->M2,Refit on the last 50,450,1,0.113885,1.12062
+M1->M2,Refit on the last 50,450,2,0.388731,1.47511
+M1->M2,Refit on the last 50,450,3,0.148226,1.15978
+M1->M2,Refit on the last 50,450,4,0.112484,1.11905
+M1->M2,Refit on the last 50,450,5,0.115861,1.12284
+M1->M2,Refit on the last 50,450,6,0.157374,1.17043
+M1->M2,Refit on the last 50,450,7,0.134818,1.14433
+M1->M2,Refit on the last 50,450,8,0.169826,1.1851
+M1->M2,Refit on the last 50,450,9,0.116145,1.12316
+M1->M2,Refit on the last 50,450,10,0.137711,1.14764
+M1->M2,Refit on the last 50,450,11,0.0621075,1.06408
+M1->M2,Refit on the last 50,450,12,0.127472,1.13595
+M1->M2,Refit on the last 50,450,13,0.30995,1.36336
+M1->M2,Refit on the last 50,450,14,0.100829,1.10609
+M1->M2,Refit on the last 50,450,15,0.0791826,1.0824
+M1->M2,Refit on the last 50,450,16,0.123577,1.13154
+M1->M2,Refit on the last 50,450,17,0.288124,1.33392
+M1->M2,Refit on the last 50,450,18,0.174085,1.19016
+M1->M2,Refit on the last 50,450,19,0.0917818,1.09613
+M1->M2,Refit on the last 50,450,20,0.108235,1.11431
+M1->M2,Refit on the last 50,450,21,0.148277,1.15983
+M1->M2,Refit on the last 50,450,22,0.163145,1.17721
+M1->M2,Refit on the last 50,476,1,0.0518405,1.05321
+M1->M2,Refit on the last 50,476,2,0.339432,1.40415
+M1->M2,Refit on the last 50,476,3,0.113884,1.12062
+M1->M2,Refit on the last 50,476,4,0.0837918,1.0874
+M1->M2,Refit on the last 50,476,5,0.0990013,1.10407
+M1->M2,Refit on the last 50,476,6,0.139997,1.15027
+M1->M2,Refit on the last 50,476,7,0.144502,1.15546
+M1->M2,Refit on the last 50,476,8,0.1735,1.18946
+M1->M2,Refit on the last 50,476,9,0.116289,1.12332
+M1->M2,Refit on the last 50,476,10,0.118653,1.12598
+M1->M2,Refit on the last 50,476,11,0.0445059,1.04551
+M1->M2,Refit on the last 50,476,12,0.136625,1.1464
+M1->M2,Refit on the last 50,476,13,0.34179,1.40746
+M1->M2,Refit on the last 50,476,14,0.0989917,1.10406
+M1->M2,Refit on the last 50,476,15,0.324762,1.3837
+M1->M2,Refit on the last 50,476,16,0.19319,1.21311
+M1->M2,Refit on the last 50,476,17,0.145255,1.15633
+M1->M2,Refit on the last 50,476,18,0.16948,1.18469
+M1->M2,Refit on the last 50,476,19,0.0590925,1.06087
+M1->M2,Refit on the last 50,476,20,0.121203,1.12885
+M1->M2,Refit on the last 50,476,21,0.105982,1.1118
+M1->M2,Refit on the last 50,476,22,0.195043,1.21536
+M1->M3,Never update,50,1,0.369899,1.44759
+M1->M3,Never update,50,2,0.412978,1.51131
+M1->M3,Never update,50,3,0.907503,2.47813
+M1->M3,Never update,50,4,1.09131,2.97816
+M1->M3,Never update,50,5,0.693435,2.00058
+M1->M3,Never update,50,6,0.720368,2.05519
+M1->M3,Never update,50,7,0.43135,1.53933
+M1->M3,Never update,50,8,0.94601,2.57541
+M1->M3,Never update,50,9,0.721414,2.05734
+M1->M3,Never update,50,10,0.690066,1.99385
+M1->M3,Never update,50,11,0.496723,1.64333
+M1->M3,Never update,50,12,0.76011,2.13851
+M1->M3,Never update,50,13,0.217599,1.24309
+M1->M3,Never update,50,14,0.937667,2.55402
+M1->M3,Never update,50,15,0.645002,1.90599
+M1->M3,Never update,50,16,0.418734,1.52004
+M1->M3,Never update,50,17,0.532543,1.70326
+M1->M3,Never update,50,18,0.225147,1.25251
+M1->M3,Never update,50,19,1.11793,3.05851
+M1->M3,Never update,50,20,0.720142,2.05472
+M1->M3,Never update,50,21,0.522316,1.68593
+M1->M3,Never update,50,22,0.87497,2.3988
+M1->M3,Never update,100,1,0.369899,1.44759
+M1->M3,Never update,100,2,0.412978,1.51131
+M1->M3,Never update,100,3,0.907503,2.47813
+M1->M3,Never update,100,4,1.09131,2.97816
+M1->M3,Never update,100,5,0.693435,2.00058
+M1->M3,Never update,100,6,0.720368,2.05519
+M1->M3,Never update,100,7,0.43135,1.53933
+M1->M3,Never update,100,8,0.94601,2.57541
+M1->M3,Never update,100,9,0.721414,2.05734
+M1->M3,Never update,100,10,0.690066,1.99385
+M1->M3,Never update,100,11,0.496723,1.64333
+M1->M3,Never update,100,12,0.76011,2.13851
+M1->M3,Never update,100,13,0.217599,1.24309
+M1->M3,Never update,100,14,0.937667,2.55402
+M1->M3,Never update,100,15,0.645002,1.90599
+M1->M3,Never update,100,16,0.418734,1.52004
+M1->M3,Never update,100,17,0.532543,1.70326
+M1->M3,Never update,100,18,0.225147,1.25251
+M1->M3,Never update,100,19,1.11793,3.05851
+M1->M3,Never update,100,20,0.720142,2.05472
+M1->M3,Never update,100,21,0.522316,1.68593
+M1->M3,Never update,100,22,0.87497,2.3988
+M1->M3,Never update,150,1,0.369899,1.44759
+M1->M3,Never update,150,2,0.412978,1.51131
+M1->M3,Never update,150,3,0.907503,2.47813
+M1->M3,Never update,150,4,1.09131,2.97816
+M1->M3,Never update,150,5,0.693435,2.00058
+M1->M3,Never update,150,6,0.720368,2.05519
+M1->M3,Never update,150,7,0.43135,1.53933
+M1->M3,Never update,150,8,0.94601,2.57541
+M1->M3,Never update,150,9,0.721414,2.05734
+M1->M3,Never update,150,10,0.690066,1.99385
+M1->M3,Never update,150,11,0.496723,1.64333
+M1->M3,Never update,150,12,0.76011,2.13851
+M1->M3,Never update,150,13,0.217599,1.24309
+M1->M3,Never update,150,14,0.937667,2.55402
+M1->M3,Never update,150,15,0.645002,1.90599
+M1->M3,Never update,150,16,0.418734,1.52004
+M1->M3,Never update,150,17,0.532543,1.70326
+M1->M3,Never update,150,18,0.225147,1.25251
+M1->M3,Never update,150,19,1.11793,3.05851
+M1->M3,Never update,150,20,0.720142,2.05472
+M1->M3,Never update,150,21,0.522316,1.68593
+M1->M3,Never update,150,22,0.87497,2.3988
+M1->M3,Never update,200,1,0.369899,1.44759
+M1->M3,Never update,200,2,0.412978,1.51131
+M1->M3,Never update,200,3,0.907503,2.47813
+M1->M3,Never update,200,4,1.09131,2.97816
+M1->M3,Never update,200,5,0.693435,2.00058
+M1->M3,Never update,200,6,0.720368,2.05519
+M1->M3,Never update,200,7,0.43135,1.53933
+M1->M3,Never update,200,8,0.94601,2.57541
+M1->M3,Never update,200,9,0.721414,2.05734
+M1->M3,Never update,200,10,0.690066,1.99385
+M1->M3,Never update,200,11,0.496723,1.64333
+M1->M3,Never update,200,12,0.76011,2.13851
+M1->M3,Never update,200,13,0.217599,1.24309
+M1->M3,Never update,200,14,0.937667,2.55402
+M1->M3,Never update,200,15,0.645002,1.90599
+M1->M3,Never update,200,16,0.418734,1.52004
+M1->M3,Never update,200,17,0.532543,1.70326
+M1->M3,Never update,200,18,0.225147,1.25251
+M1->M3,Never update,200,19,1.11793,3.05851
+M1->M3,Never update,200,20,0.720142,2.05472
+M1->M3,Never update,200,21,0.522316,1.68593
+M1->M3,Never update,200,22,0.87497,2.3988
+M1->M3,Never update,250,1,0.369899,1.44759
+M1->M3,Never update,250,2,0.412978,1.51131
+M1->M3,Never update,250,3,0.907503,2.47813
+M1->M3,Never update,250,4,1.09131,2.97816
+M1->M3,Never update,250,5,0.693435,2.00058
+M1->M3,Never update,250,6,0.720368,2.05519
+M1->M3,Never update,250,7,0.43135,1.53933
+M1->M3,Never update,250,8,0.94601,2.57541
+M1->M3,Never update,250,9,0.721414,2.05734
+M1->M3,Never update,250,10,0.690066,1.99385
+M1->M3,Never update,250,11,0.496723,1.64333
+M1->M3,Never update,250,12,0.76011,2.13851
+M1->M3,Never update,250,13,0.217599,1.24309
+M1->M3,Never update,250,14,0.937667,2.55402
+M1->M3,Never update,250,15,0.645002,1.90599
+M1->M3,Never update,250,16,0.418734,1.52004
+M1->M3,Never update,250,17,0.532543,1.70326
+M1->M3,Never update,250,18,0.225147,1.25251
+M1->M3,Never update,250,19,1.11793,3.05851
+M1->M3,Never update,250,20,0.720142,2.05472
+M1->M3,Never update,250,21,0.522316,1.68593
+M1->M3,Never update,250,22,0.87497,2.3988
+M1->M3,Never update,300,1,0.369899,1.44759
+M1->M3,Never update,300,2,0.412978,1.51131
+M1->M3,Never update,300,3,0.907503,2.47813
+M1->M3,Never update,300,4,1.09131,2.97816
+M1->M3,Never update,300,5,0.693435,2.00058
+M1->M3,Never update,300,6,0.720368,2.05519
+M1->M3,Never update,300,7,0.43135,1.53933
+M1->M3,Never update,300,8,0.94601,2.57541
+M1->M3,Never update,300,9,0.721414,2.05734
+M1->M3,Never update,300,10,0.690066,1.99385
+M1->M3,Never update,300,11,0.496723,1.64333
+M1->M3,Never update,300,12,0.76011,2.13851
+M1->M3,Never update,300,13,0.217599,1.24309
+M1->M3,Never update,300,14,0.937667,2.55402
+M1->M3,Never update,300,15,0.645002,1.90599
+M1->M3,Never update,300,16,0.418734,1.52004
+M1->M3,Never update,300,17,0.532543,1.70326
+M1->M3,Never update,300,18,0.225147,1.25251
+M1->M3,Never update,300,19,1.11793,3.05851
+M1->M3,Never update,300,20,0.720142,2.05472
+M1->M3,Never update,300,21,0.522316,1.68593
+M1->M3,Never update,300,22,0.87497,2.3988
+M1->M3,Never update,350,1,0.369899,1.44759
+M1->M3,Never update,350,2,0.412978,1.51131
+M1->M3,Never update,350,3,0.907503,2.47813
+M1->M3,Never update,350,4,1.09131,2.97816
+M1->M3,Never update,350,5,0.693435,2.00058
+M1->M3,Never update,350,6,0.720368,2.05519
+M1->M3,Never update,350,7,0.43135,1.53933
+M1->M3,Never update,350,8,0.94601,2.57541
+M1->M3,Never update,350,9,0.721414,2.05734
+M1->M3,Never update,350,10,0.690066,1.99385
+M1->M3,Never update,350,11,0.496723,1.64333
+M1->M3,Never update,350,12,0.76011,2.13851
+M1->M3,Never update,350,13,0.217599,1.24309
+M1->M3,Never update,350,14,0.937667,2.55402
+M1->M3,Never update,350,15,0.645002,1.90599
+M1->M3,Never update,350,16,0.418734,1.52004
+M1->M3,Never update,350,17,0.532543,1.70326
+M1->M3,Never update,350,18,0.225147,1.25251
+M1->M3,Never update,350,19,1.11793,3.05851
+M1->M3,Never update,350,20,0.720142,2.05472
+M1->M3,Never update,350,21,0.522316,1.68593
+M1->M3,Never update,350,22,0.87497,2.3988
+M1->M3,Never update,400,1,0.369899,1.44759
+M1->M3,Never update,400,2,0.412978,1.51131
+M1->M3,Never update,400,3,0.907503,2.47813
+M1->M3,Never update,400,4,1.09131,2.97816
+M1->M3,Never update,400,5,0.693435,2.00058
+M1->M3,Never update,400,6,0.720368,2.05519
+M1->M3,Never update,400,7,0.43135,1.53933
+M1->M3,Never update,400,8,0.94601,2.57541
+M1->M3,Never update,400,9,0.721414,2.05734
+M1->M3,Never update,400,10,0.690066,1.99385
+M1->M3,Never update,400,11,0.496723,1.64333
+M1->M3,Never update,400,12,0.76011,2.13851
+M1->M3,Never update,400,13,0.217599,1.24309
+M1->M3,Never update,400,14,0.937667,2.55402
+M1->M3,Never update,400,15,0.645002,1.90599
+M1->M3,Never update,400,16,0.418734,1.52004
+M1->M3,Never update,400,17,0.532543,1.70326
+M1->M3,Never update,400,18,0.225147,1.25251
+M1->M3,Never update,400,19,1.11793,3.05851
+M1->M3,Never update,400,20,0.720142,2.05472
+M1->M3,Never update,400,21,0.522316,1.68593
+M1->M3,Never update,400,22,0.87497,2.3988
+M1->M3,Never update,450,1,0.369899,1.44759
+M1->M3,Never update,450,2,0.412978,1.51131
+M1->M3,Never update,450,3,0.907503,2.47813
+M1->M3,Never update,450,4,1.09131,2.97816
+M1->M3,Never update,450,5,0.693435,2.00058
+M1->M3,Never update,450,6,0.720368,2.05519
+M1->M3,Never update,450,7,0.43135,1.53933
+M1->M3,Never update,450,8,0.94601,2.57541
+M1->M3,Never update,450,9,0.721414,2.05734
+M1->M3,Never update,450,10,0.690066,1.99385
+M1->M3,Never update,450,11,0.496723,1.64333
+M1->M3,Never update,450,12,0.76011,2.13851
+M1->M3,Never update,450,13,0.217599,1.24309
+M1->M3,Never update,450,14,0.937667,2.55402
+M1->M3,Never update,450,15,0.645002,1.90599
+M1->M3,Never update,450,16,0.418734,1.52004
+M1->M3,Never update,450,17,0.532543,1.70326
+M1->M3,Never update,450,18,0.225147,1.25251
+M1->M3,Never update,450,19,1.11793,3.05851
+M1->M3,Never update,450,20,0.720142,2.05472
+M1->M3,Never update,450,21,0.522316,1.68593
+M1->M3,Never update,450,22,0.87497,2.3988
+M1->M3,Never update,476,1,0.369899,1.44759
+M1->M3,Never update,476,2,0.412978,1.51131
+M1->M3,Never update,476,3,0.907503,2.47813
+M1->M3,Never update,476,4,1.09131,2.97816
+M1->M3,Never update,476,5,0.693435,2.00058
+M1->M3,Never update,476,6,0.720368,2.05519
+M1->M3,Never update,476,7,0.43135,1.53933
+M1->M3,Never update,476,8,0.94601,2.57541
+M1->M3,Never update,476,9,0.721414,2.05734
+M1->M3,Never update,476,10,0.690066,1.99385
+M1->M3,Never update,476,11,0.496723,1.64333
+M1->M3,Never update,476,12,0.76011,2.13851
+M1->M3,Never update,476,13,0.217599,1.24309
+M1->M3,Never update,476,14,0.937667,2.55402
+M1->M3,Never update,476,15,0.645002,1.90599
+M1->M3,Never update,476,16,0.418734,1.52004
+M1->M3,Never update,476,17,0.532543,1.70326
+M1->M3,Never update,476,18,0.225147,1.25251
+M1->M3,Never update,476,19,1.11793,3.05851
+M1->M3,Never update,476,20,0.720142,2.05472
+M1->M3,Never update,476,21,0.522316,1.68593
+M1->M3,Never update,476,22,0.87497,2.3988
+M1->M3,Refit on all so far,50,1,0.0820617,1.08552
+M1->M3,Refit on all so far,50,2,0.0893612,1.09348
+M1->M3,Refit on all so far,50,3,0.116748,1.12384
+M1->M3,Refit on all so far,50,4,0.0876081,1.09156
+M1->M3,Refit on all so far,50,5,0.0520961,1.05348
+M1->M3,Refit on all so far,50,6,0.0930209,1.09748
+M1->M3,Refit on all so far,50,7,0.1809,1.1983
+M1->M3,Refit on all so far,50,8,0.0735568,1.07633
+M1->M3,Refit on all so far,50,9,0.128287,1.13688
+M1->M3,Refit on all so far,50,10,0.0862234,1.09005
+M1->M3,Refit on all so far,50,11,0.0543674,1.05587
+M1->M3,Refit on all so far,50,12,0.0639494,1.06604
+M1->M3,Refit on all so far,50,13,0.286719,1.33205
+M1->M3,Refit on all so far,50,14,0.0573274,1.059
+M1->M3,Refit on all so far,50,15,0.125162,1.13333
+M1->M3,Refit on all so far,50,16,0.193888,1.21396
+M1->M3,Refit on all so far,50,17,0.0653203,1.0675
+M1->M3,Refit on all so far,50,18,0.375391,1.45556
+M1->M3,Refit on all so far,50,19,0.0748158,1.07769
+M1->M3,Refit on all so far,50,20,0.0785821,1.08175
+M1->M3,Refit on all so far,50,21,0.0750368,1.07792
+M1->M3,Refit on all so far,50,22,0.0714551,1.07407
+M1->M3,Refit on all so far,100,1,0.0378085,1.03853
+M1->M3,Refit on all so far,100,2,0.042714,1.04364
+M1->M3,Refit on all so far,100,3,0.126043,1.13433
+M1->M3,Refit on all so far,100,4,0.0767044,1.07972
+M1->M3,Refit on all so far,100,5,0.0296503,1.03009
+M1->M3,Refit on all so far,100,6,0.0861473,1.08997
+M1->M3,Refit on all so far,100,7,0.0870313,1.09093
+M1->M3,Refit on all so far,100,8,0.0630902,1.06512
+M1->M3,Refit on all so far,100,9,0.0859731,1.08978
+M1->M3,Refit on all so far,100,10,0.0815246,1.08494
+M1->M3,Refit on all so far,100,11,0.0422435,1.04315
+M1->M3,Refit on all so far,100,12,0.0599493,1.06178
+M1->M3,Refit on all so far,100,13,0.165217,1.17965
+M1->M3,Refit on all so far,100,14,0.0477107,1.04887
+M1->M3,Refit on all so far,100,15,0.0943425,1.09894
+M1->M3,Refit on all so far,100,16,0.111363,1.1178
+M1->M3,Refit on all so far,100,17,0.0516924,1.05305
+M1->M3,Refit on all so far,100,18,0.308418,1.36127
+M1->M3,Refit on all so far,100,19,0.061326,1.06325
+M1->M3,Refit on all so far,100,20,0.0874638,1.0914
+M1->M3,Refit on all so far,100,21,0.0667494,1.06903
+M1->M3,Refit on all so far,100,22,0.0396214,1.04042
+M1->M3,Refit on all so far,150,1,0.0382372,1.03898
+M1->M3,Refit on all so far,150,2,0.0292053,1.02964
+M1->M3,Refit on all so far,150,3,0.125346,1.13354
+M1->M3,Refit on all so far,150,4,0.0742348,1.07706
+M1->M3,Refit on all so far,150,5,0.0237316,1.02402
+M1->M3,Refit on all so far,150,6,0.0856141,1.08939
+M1->M3,Refit on all so far,150,7,0.097909,1.10286
+M1->M3,Refit on all so far,150,8,0.0590424,1.06082
+M1->M3,Refit on all so far,150,9,0.0933749,1.09787
+M1->M3,Refit on all so far,150,10,0.0664454,1.0687
+M1->M3,Refit on all so far,150,11,0.0395147,1.04031
+M1->M3,Refit on all so far,150,12,0.0593636,1.06116
+M1->M3,Refit on all so far,150,13,0.140183,1.15048
+M1->M3,Refit on all so far,150,14,0.0489604,1.05018
+M1->M3,Refit on all so far,150,15,0.10194,1.10732
+M1->M3,Refit on all so far,150,16,0.073344,1.0761
+M1->M3,Refit on all so far,150,17,0.0504557,1.05175
+M1->M3,Refit on all so far,150,18,0.316886,1.37285
+M1->M3,Refit on all so far,150,19,0.0658907,1.06811
+M1->M3,Refit on all so far,150,20,0.0807285,1.08408
+M1->M3,Refit on all so far,150,21,0.0652626,1.06744
+M1->M3,Refit on all so far,150,22,0.0400297,1.04084
+M1->M3,Refit on all so far,200,1,0.0300847,1.03054
+M1->M3,Refit on all so far,200,2,0.0248697,1.02518
+M1->M3,Refit on all so far,200,3,0.124554,1.13264
+M1->M3,Refit on all so far,200,4,0.0706206,1.07317
+M1->M3,Refit on all so far,200,5,0.0253471,1.02567
+M1->M3,Refit on all so far,200,6,0.0880642,1.09206
+M1->M3,Refit on all so far,200,7,0.0837921,1.0874
+M1->M3,Refit on all so far,200,8,0.0492783,1.05051
+M1->M3,Refit on all so far,200,9,0.0946138,1.09923
+M1->M3,Refit on all so far,200,10,0.064568,1.0667
+M1->M3,Refit on all so far,200,11,0.0381389,1.03888
+M1->M3,Refit on all so far,200,12,0.0577084,1.05941
+M1->M3,Refit on all so far,200,13,0.120983,1.12861
+M1->M3,Refit on all so far,200,14,0.0474825,1.04863
+M1->M3,Refit on all so far,200,15,0.0918902,1.09624
+M1->M3,Refit on all so far,200,16,0.0677782,1.07013
+M1->M3,Refit on all so far,200,17,0.0531486,1.05459
+M1->M3,Refit on all so far,200,18,0.316884,1.37284
+M1->M3,Refit on all so far,200,19,0.0694036,1.07187
+M1->M3,Refit on all so far,200,20,0.0761098,1.07908
+M1->M3,Refit on all so far,200,21,0.0656322,1.06783
+M1->M3,Refit on all so far,200,22,0.0413507,1.04222
+M1->M3,Refit on all so far,250,1,0.0255097,1.02584
+M1->M3,Refit on all so far,250,2,0.0224275,1.02268
+M1->M3,Refit on all so far,250,3,0.128665,1.13731
+M1->M3,Refit on all so far,250,4,0.0703719,1.07291
+M1->M3,Refit on all so far,250,5,0.0251818,1.0255
+M1->M3,Refit on all so far,250,6,0.0927328,1.09717
+M1->M3,Refit on all so far,250,7,0.0962305,1.10101
+M1->M3,Refit on all so far,250,8,0.0410428,1.0419
+M1->M3,Refit on all so far,250,9,0.104664,1.11034
+M1->M3,Refit on all so far,250,10,0.0586063,1.06036
+M1->M3,Refit on all so far,250,11,0.0379752,1.03871
+M1->M3,Refit on all so far,250,12,0.0571293,1.05879
+M1->M3,Refit on all so far,250,13,0.117173,1.12431
+M1->M3,Refit on all so far,250,14,0.0482133,1.04939
+M1->M3,Refit on all so far,250,15,0.0895744,1.09371
+M1->M3,Refit on all so far,250,16,0.0648897,1.06704
+M1->M3,Refit on all so far,250,17,0.0496293,1.05088
+M1->M3,Refit on all so far,250,18,0.304599,1.35608
+M1->M3,Refit on all so far,250,19,0.071435,1.07405
+M1->M3,Refit on all so far,250,20,0.0799023,1.08318
+M1->M3,Refit on all so far,250,21,0.0705312,1.07308
+M1->M3,Refit on all so far,250,22,0.0322765,1.0328
+M1->M3,Refit on all so far,300,1,0.0241166,1.02441
+M1->M3,Refit on all so far,300,2,0.0211746,1.0214
+M1->M3,Refit on all so far,300,3,0.126289,1.13461
+M1->M3,Refit on all so far,300,4,0.0738356,1.07663
+M1->M3,Refit on all so far,300,5,0.0248309,1.02514
+M1->M3,Refit on all so far,300,6,0.0954629,1.10017
+M1->M3,Refit on all so far,300,7,0.0915618,1.09588
+M1->M3,Refit on all so far,300,8,0.0375564,1.03827
+M1->M3,Refit on all so far,300,9,0.102372,1.1078
+M1->M3,Refit on all so far,300,10,0.0609098,1.0628
+M1->M3,Refit on all so far,300,11,0.0364255,1.0371
+M1->M3,Refit on all so far,300,12,0.0604832,1.06235
+M1->M3,Refit on all so far,300,13,0.116485,1.12354
+M1->M3,Refit on all so far,300,14,0.0499038,1.05117
+M1->M3,Refit on all so far,300,15,0.0895772,1.09371
+M1->M3,Refit on all so far,300,16,0.0569859,1.05864
+M1->M3,Refit on all so far,300,17,0.0493128,1.05055
+M1->M3,Refit on all so far,300,18,0.306759,1.35901
+M1->M3,Refit on all so far,300,19,0.0707213,1.07328
+M1->M3,Refit on all so far,300,20,0.0843191,1.08798
+M1->M3,Refit on all so far,300,21,0.0745754,1.07743
+M1->M3,Refit on all so far,300,22,0.0280034,1.0284
+M1->M3,Refit on all so far,350,1,0.019911,1.02011
+M1->M3,Refit on all so far,350,2,0.0209753,1.0212
+M1->M3,Refit on all so far,350,3,0.129066,1.13777
+M1->M3,Refit on all so far,350,4,0.0772026,1.08026
+M1->M3,Refit on all so far,350,5,0.023582,1.02386
+M1->M3,Refit on all so far,350,6,0.0944261,1.09903
+M1->M3,Refit on all so far,350,7,0.0922592,1.09665
+M1->M3,Refit on all so far,350,8,0.0373551,1.03806
+M1->M3,Refit on all so far,350,9,0.104512,1.11017
+M1->M3,Refit on all so far,350,10,0.056323,1.05794
+M1->M3,Refit on all so far,350,11,0.0356038,1.03625
+M1->M3,Refit on all so far,350,12,0.0600902,1.06193
+M1->M3,Refit on all so far,350,13,0.112182,1.11872
+M1->M3,Refit on all so far,350,14,0.054343,1.05585
+M1->M3,Refit on all so far,350,15,0.0874166,1.09135
+M1->M3,Refit on all so far,350,16,0.0561493,1.05776
+M1->M3,Refit on all so far,350,17,0.0532092,1.05465
+M1->M3,Refit on all so far,350,18,0.297094,1.34594
+M1->M3,Refit on all so far,350,19,0.0733277,1.07608
+M1->M3,Refit on all so far,350,20,0.0852966,1.08904
+M1->M3,Refit on all so far,350,21,0.0772703,1.08033
+M1->M3,Refit on all so far,350,22,0.0230753,1.02334
+M1->M3,Refit on all so far,400,1,0.0191738,1.01936
+M1->M3,Refit on all so far,400,2,0.0201695,1.02037
+M1->M3,Refit on all so far,400,3,0.130123,1.13897
+M1->M3,Refit on all so far,400,4,0.0777293,1.08083
+M1->M3,Refit on all so far,400,5,0.0217138,1.02195
+M1->M3,Refit on all so far,400,6,0.0918165,1.09616
+M1->M3,Refit on all so far,400,7,0.0896698,1.09381
+M1->M3,Refit on all so far,400,8,0.0355604,1.0362
+M1->M3,Refit on all so far,400,9,0.101787,1.10715
+M1->M3,Refit on all so far,400,10,0.0542827,1.05578
+M1->M3,Refit on all so far,400,11,0.0356179,1.03626
+M1->M3,Refit on all so far,400,12,0.0599575,1.06179
+M1->M3,Refit on all so far,400,13,0.110651,1.11701
+M1->M3,Refit on all so far,400,14,0.0556438,1.05722
+M1->M3,Refit on all so far,400,15,0.088417,1.09244
+M1->M3,Refit on all so far,400,16,0.0580107,1.05973
+M1->M3,Refit on all so far,400,17,0.0529132,1.05434
+M1->M3,Refit on all so far,400,18,0.292958,1.34039
+M1->M3,Refit on all so far,400,19,0.07388,1.07668
+M1->M3,Refit on all so far,400,20,0.0817809,1.08522
+M1->M3,Refit on all so far,400,21,0.0767171,1.07974
+M1->M3,Refit on all so far,400,22,0.0237786,1.02406
+M1->M3,Refit on all so far,450,1,0.0202279,1.02043
+M1->M3,Refit on all so far,450,2,0.0200689,1.02027
+M1->M3,Refit on all so far,450,3,0.129109,1.13781
+M1->M3,Refit on all so far,450,4,0.0772421,1.0803
+M1->M3,Refit on all so far,450,5,0.0203917,1.0206
+M1->M3,Refit on all so far,450,6,0.0923368,1.09673
+M1->M3,Refit on all so far,450,7,0.0869864,1.09088
+M1->M3,Refit on all so far,450,8,0.0314969,1.032
+M1->M3,Refit on all so far,450,9,0.0988925,1.10395
+M1->M3,Refit on all so far,450,10,0.0528419,1.05426
+M1->M3,Refit on all so far,450,11,0.0345665,1.03517
+M1->M3,Refit on all so far,450,12,0.0595741,1.06138
+M1->M3,Refit on all so far,450,13,0.108167,1.11423
+M1->M3,Refit on all so far,450,14,0.0556174,1.05719
+M1->M3,Refit on all so far,450,15,0.0893123,1.09342
+M1->M3,Refit on all so far,450,16,0.0612924,1.06321
+M1->M3,Refit on all so far,450,17,0.052293,1.05368
+M1->M3,Refit on all so far,450,18,0.292486,1.33975
+M1->M3,Refit on all so far,450,19,0.0766156,1.07963
+M1->M3,Refit on all so far,450,20,0.082992,1.08653
+M1->M3,Refit on all so far,450,21,0.0772757,1.08034
+M1->M3,Refit on all so far,450,22,0.0262551,1.0266
+M1->M3,Refit on all so far,476,1,0.023364,1.02364
+M1->M3,Refit on all so far,476,2,0.0182155,1.01838
+M1->M3,Refit on all so far,476,3,0.130439,1.13933
+M1->M3,Refit on all so far,476,4,0.0715999,1.07423
+M1->M3,Refit on all so far,476,5,0.019993,1.02019
+M1->M3,Refit on all so far,476,6,0.0878161,1.09179
+M1->M3,Refit on all so far,476,7,0.0756307,1.07856
+M1->M3,Refit on all so far,476,8,0.0335044,1.03407
+M1->M3,Refit on all so far,476,9,0.0874283,1.09136
+M1->M3,Refit on all so far,476,10,0.0457036,1.04676
+M1->M3,Refit on all so far,476,11,0.0349397,1.03556
+M1->M3,Refit on all so far,476,12,0.0576167,1.05931
+M1->M3,Refit on all so far,476,13,0.0973234,1.10222
+M1->M3,Refit on all so far,476,14,0.0507105,1.05202
+M1->M3,Refit on all so far,476,15,0.0906161,1.09485
+M1->M3,Refit on all so far,476,16,0.0737516,1.07654
+M1->M3,Refit on all so far,476,17,0.057372,1.05905
+M1->M3,Refit on all so far,476,18,0.283715,1.32805
+M1->M3,Refit on all so far,476,19,0.081623,1.08505
+M1->M3,Refit on all so far,476,20,0.0743511,1.07718
+M1->M3,Refit on all so far,476,21,0.0712002,1.0738
+M1->M3,Refit on all so far,476,22,0.0372349,1.03794
+M1->M3,Refit on the last 50,50,1,0.0820617,1.08552
+M1->M3,Refit on the last 50,50,2,0.0893612,1.09348
+M1->M3,Refit on the last 50,50,3,0.116748,1.12384
+M1->M3,Refit on the last 50,50,4,0.0876081,1.09156
+M1->M3,Refit on the last 50,50,5,0.0520961,1.05348
+M1->M3,Refit on the last 50,50,6,0.0930209,1.09748
+M1->M3,Refit on the last 50,50,7,0.1809,1.1983
+M1->M3,Refit on the last 50,50,8,0.0735568,1.07633
+M1->M3,Refit on the last 50,50,9,0.128287,1.13688
+M1->M3,Refit on the last 50,50,10,0.0862234,1.09005
+M1->M3,Refit on the last 50,50,11,0.0543674,1.05587
+M1->M3,Refit on the last 50,50,12,0.0639494,1.06604
+M1->M3,Refit on the last 50,50,13,0.286719,1.33205
+M1->M3,Refit on the last 50,50,14,0.0573274,1.059
+M1->M3,Refit on the last 50,50,15,0.125162,1.13333
+M1->M3,Refit on the last 50,50,16,0.193888,1.21396
+M1->M3,Refit on the last 50,50,17,0.0653203,1.0675
+M1->M3,Refit on the last 50,50,18,0.375391,1.45556
+M1->M3,Refit on the last 50,50,19,0.0748158,1.07769
+M1->M3,Refit on the last 50,50,20,0.0785821,1.08175
+M1->M3,Refit on the last 50,50,21,0.0750368,1.07792
+M1->M3,Refit on the last 50,50,22,0.0714551,1.07407
+M1->M3,Refit on the last 50,100,1,0.0514806,1.05283
+M1->M3,Refit on the last 50,100,2,0.0545083,1.05602
+M1->M3,Refit on the last 50,100,3,0.13208,1.1412
+M1->M3,Refit on the last 50,100,4,0.081889,1.08534
+M1->M3,Refit on the last 50,100,5,0.042152,1.04305
+M1->M3,Refit on the last 50,100,6,0.0790401,1.08225
+M1->M3,Refit on the last 50,100,7,0.133549,1.14288
+M1->M3,Refit on the last 50,100,8,0.0981944,1.10318
+M1->M3,Refit on the last 50,100,9,0.125814,1.13407
+M1->M3,Refit on the last 50,100,10,0.083732,1.08734
+M1->M3,Refit on the last 50,100,11,0.0535637,1.05502
+M1->M3,Refit on the last 50,100,12,0.0595716,1.06138
+M1->M3,Refit on the last 50,100,13,0.199729,1.22107
+M1->M3,Refit on the last 50,100,14,0.0561461,1.05775
+M1->M3,Refit on the last 50,100,15,0.122926,1.1308
+M1->M3,Refit on the last 50,100,16,0.141603,1.15212
+M1->M3,Refit on the last 50,100,17,0.0709531,1.07353
+M1->M3,Refit on the last 50,100,18,0.314841,1.37004
+M1->M3,Refit on the last 50,100,19,0.051796,1.05316
+M1->M3,Refit on the last 50,100,20,0.0891608,1.09326
+M1->M3,Refit on the last 50,100,21,0.0693321,1.07179
+M1->M3,Refit on the last 50,100,22,0.087668,1.09163
+M1->M3,Refit on the last 50,150,1,0.0890245,1.09311
+M1->M3,Refit on the last 50,150,2,0.0875636,1.09151
+M1->M3,Refit on the last 50,150,3,0.114879,1.12174
+M1->M3,Refit on the last 50,150,4,0.107416,1.1134
+M1->M3,Refit on the last 50,150,5,0.0323749,1.0329
+M1->M3,Refit on the last 50,150,6,0.0864531,1.0903
+M1->M3,Refit on the last 50,150,7,0.137914,1.14788
+M1->M3,Refit on the last 50,150,8,0.136404,1.14614
+M1->M3,Refit on the last 50,150,9,0.130685,1.13961
+M1->M3,Refit on the last 50,150,10,0.0922029,1.09659
+M1->M3,Refit on the last 50,150,11,0.069459,1.07193
+M1->M3,Refit on the last 50,150,12,0.0629786,1.065
+M1->M3,Refit on the last 50,150,13,0.27226,1.31293
+M1->M3,Refit on the last 50,150,14,0.0605837,1.06246
+M1->M3,Refit on the last 50,150,15,0.152375,1.1646
+M1->M3,Refit on the last 50,150,16,0.100742,1.10599
+M1->M3,Refit on the last 50,150,17,0.0699011,1.0724
+M1->M3,Refit on the last 50,150,18,0.384787,1.4693
+M1->M3,Refit on the last 50,150,19,0.0633818,1.06543
+M1->M3,Refit on the last 50,150,20,0.0866334,1.0905
+M1->M3,Refit on the last 50,150,21,0.103949,1.10954
+M1->M3,Refit on the last 50,150,22,0.0476492,1.0488
+M1->M3,Refit on the last 50,200,1,0.0425172,1.04343
+M1->M3,Refit on the last 50,200,2,0.0868635,1.09075
+M1->M3,Refit on the last 50,200,3,0.136749,1.14654
+M1->M3,Refit on the last 50,200,4,0.0797798,1.08305
+M1->M3,Refit on the last 50,200,5,0.0669952,1.06929
+M1->M3,Refit on the last 50,200,6,0.0911058,1.09538
+M1->M3,Refit on the last 50,200,7,0.115112,1.122
+M1->M3,Refit on the last 50,200,8,0.142069,1.15266
+M1->M3,Refit on the last 50,200,9,0.171869,1.18752
+M1->M3,Refit on the last 50,200,10,0.0809944,1.08436
+M1->M3,Refit on the last 50,200,11,0.0712227,1.07382
+M1->M3,Refit on the last 50,200,12,0.0640297,1.06612
+M1->M3,Refit on the last 50,200,13,0.154473,1.16704
+M1->M3,Refit on the last 50,200,14,0.0577148,1.05941
+M1->M3,Refit on the last 50,200,15,0.12214,1.12991
+M1->M3,Refit on the last 50,200,16,0.115606,1.12255
+M1->M3,Refit on the last 50,200,17,0.0526509,1.05406
+M1->M3,Refit on the last 50,200,18,0.310059,1.36351
+M1->M3,Refit on the last 50,200,19,0.0476154,1.04877
+M1->M3,Refit on the last 50,200,20,0.102418,1.10785
+M1->M3,Refit on the last 50,200,21,0.110549,1.11689
+M1->M3,Refit on the last 50,200,22,0.102652,1.10811
+M1->M3,Refit on the last 50,250,1,0.081095,1.08447
+M1->M3,Refit on the last 50,250,2,0.123904,1.13191
+M1->M3,Refit on the last 50,250,3,0.130043,1.13888
+M1->M3,Refit on the last 50,250,4,0.0766877,1.0797
+M1->M3,Refit on the last 50,250,5,0.0509127,1.05223
+M1->M3,Refit on the last 50,250,6,0.0861879,1.09001
+M1->M3,Refit on the last 50,250,7,0.142908,1.15362
+M1->M3,Refit on the last 50,250,8,0.153408,1.1658
+M1->M3,Refit on the last 50,250,9,0.17512,1.19139
+M1->M3,Refit on the last 50,250,10,0.0887765,1.09284
+M1->M3,Refit on the last 50,250,11,0.0660725,1.0683
+M1->M3,Refit on the last 50,250,12,0.0660435,1.06827
+M1->M3,Refit on the last 50,250,13,0.172116,1.18782
+M1->M3,Refit on the last 50,250,14,0.0644372,1.06656
+M1->M3,Refit on the last 50,250,15,0.15747,1.17055
+M1->M3,Refit on the last 50,250,16,0.230007,1.25861
+M1->M3,Refit on the last 50,250,17,0.0490146,1.05024
+M1->M3,Refit on the last 50,250,18,0.279666,1.32269
+M1->M3,Refit on the last 50,250,19,0.0659168,1.06814
+M1->M3,Refit on the last 50,250,20,0.0716945,1.07433
+M1->M3,Refit on the last 50,250,21,0.12421,1.13225
+M1->M3,Refit on the last 50,250,22,0.0732391,1.07599
+M1->M3,Refit on the last 50,300,1,0.0853895,1.08914
+M1->M3,Refit on the last 50,300,2,0.0901712,1.09436
+M1->M3,Refit on the last 50,300,3,0.125476,1.13369
+M1->M3,Refit on the last 50,300,4,0.0805263,1.08386
+M1->M3,Refit on the last 50,300,5,0.0500262,1.0513
+M1->M3,Refit on the last 50,300,6,0.0934062,1.09791
+M1->M3,Refit on the last 50,300,7,0.129837,1.13864
+M1->M3,Refit on the last 50,300,8,0.0566543,1.05829
+M1->M3,Refit on the last 50,300,9,0.125221,1.1334
+M1->M3,Refit on the last 50,300,10,0.0843246,1.08798
+M1->M3,Refit on the last 50,300,11,0.0727852,1.0755
+M1->M3,Refit on the last 50,300,12,0.0674155,1.06974
+M1->M3,Refit on the last 50,300,13,0.20624,1.22905
+M1->M3,Refit on the last 50,300,14,0.0578673,1.05957
+M1->M3,Refit on the last 50,300,15,0.119683,1.12714
+M1->M3,Refit on the last 50,300,16,0.0966777,1.10151
+M1->M3,Refit on the last 50,300,17,0.0444019,1.0454
+M1->M3,Refit on the last 50,300,18,0.351803,1.42163
+M1->M3,Refit on the last 50,300,19,0.055933,1.05753
+M1->M3,Refit on the last 50,300,20,0.100115,1.1053
+M1->M3,Refit on the last 50,300,21,0.120559,1.12813
+M1->M3,Refit on the last 50,300,22,0.080216,1.08352
+M1->M3,Refit on the last 50,350,1,0.0855722,1.08934
+M1->M3,Refit on the last 50,350,2,0.0780568,1.08118
+M1->M3,Refit on the last 50,350,3,0.135925,1.1456
+M1->M3,Refit on the last 50,350,4,0.103379,1.10891
+M1->M3,Refit on the last 50,350,5,0.0425067,1.04342
+M1->M3,Refit on the last 50,350,6,0.0797843,1.08305
+M1->M3,Refit on the last 50,350,7,0.123542,1.1315
+M1->M3,Refit on the last 50,350,8,0.089443,1.09357
+M1->M3,Refit on the last 50,350,9,0.147813,1.1593
+M1->M3,Refit on the last 50,350,10,0.0753098,1.07822
+M1->M3,Refit on the last 50,350,11,0.0652125,1.06739
+M1->M3,Refit on the last 50,350,12,0.056223,1.05783
+M1->M3,Refit on the last 50,350,13,0.224045,1.25113
+M1->M3,Refit on the last 50,350,14,0.0608816,1.06277
+M1->M3,Refit on the last 50,350,15,0.236035,1.26622
+M1->M3,Refit on the last 50,350,16,0.148514,1.16011
+M1->M3,Refit on the last 50,350,17,0.0766706,1.07969
+M1->M3,Refit on the last 50,350,18,0.304125,1.35544
+M1->M3,Refit on the last 50,350,19,0.0639248,1.06601
+M1->M3,Refit on the last 50,350,20,0.0798233,1.0831
+M1->M3,Refit on the last 50,350,21,0.106968,1.1129
+M1->M3,Refit on the last 50,350,22,0.0604336,1.0623
+M1->M3,Refit on the last 50,400,1,0.115859,1.12284
+M1->M3,Refit on the last 50,400,2,0.0840872,1.08772
+M1->M3,Refit on the last 50,400,3,0.141874,1.15243
+M1->M3,Refit on the last 50,400,4,0.102008,1.10739
+M1->M3,Refit on the last 50,400,5,0.0865239,1.09038
+M1->M3,Refit on the last 50,400,6,0.0686458,1.07106
+M1->M3,Refit on the last 50,400,7,0.14956,1.16132
+M1->M3,Refit on the last 50,400,8,0.156021,1.16885
+M1->M3,Refit on the last 50,400,9,0.201054,1.22269
+M1->M3,Refit on the last 50,400,10,0.0995141,1.10463
+M1->M3,Refit on the last 50,400,11,0.100164,1.10535
+M1->M3,Refit on the last 50,400,12,0.0617622,1.06371
+M1->M3,Refit on the last 50,400,13,0.269994,1.30996
+M1->M3,Refit on the last 50,400,14,0.0694322,1.0719
+M1->M3,Refit on the last 50,400,15,0.094272,1.09886
+M1->M3,Refit on the last 50,400,16,0.116292,1.12332
+M1->M3,Refit on the last 50,400,17,0.0651956,1.06737
+M1->M3,Refit on the last 50,400,18,0.329824,1.39072
+M1->M3,Refit on the last 50,400,19,0.0500738,1.05135
+M1->M3,Refit on the last 50,400,20,0.118988,1.12636
+M1->M3,Refit on the last 50,400,21,0.0965429,1.10136
+M1->M3,Refit on the last 50,400,22,0.0456802,1.04674
+M1->M3,Refit on the last 50,450,1,0.0672992,1.06962
+M1->M3,Refit on the last 50,450,2,0.0771952,1.08025
+M1->M3,Refit on the last 50,450,3,0.106719,1.11262
+M1->M3,Refit on the last 50,450,4,0.0848898,1.0886
+M1->M3,Refit on the last 50,450,5,0.0399549,1.04076
+M1->M3,Refit on the last 50,450,6,0.0816245,1.08505
+M1->M3,Refit on the last 50,450,7,0.18609,1.20453
+M1->M3,Refit on the last 50,450,8,0.104646,1.11032
+M1->M3,Refit on the last 50,450,9,0.167197,1.18199
+M1->M3,Refit on the last 50,450,10,0.0776719,1.08077
+M1->M3,Refit on the last 50,450,11,0.0555541,1.05713
+M1->M3,Refit on the last 50,450,12,0.056874,1.05852
+M1->M3,Refit on the last 50,450,13,0.273396,1.31442
+M1->M3,Refit on the last 50,450,14,0.0587133,1.06047
+M1->M3,Refit on the last 50,450,15,0.106296,1.11215
+M1->M3,Refit on the last 50,450,16,0.228886,1.2572
+M1->M3,Refit on the last 50,450,17,0.0521344,1.05352
+M1->M3,Refit on the last 50,450,18,0.391929,1.47983
+M1->M3,Refit on the last 50,450,19,0.0617063,1.06365
+M1->M3,Refit on the last 50,450,20,0.111212,1.11763
+M1->M3,Refit on the last 50,450,21,0.104314,1.10995
+M1->M3,Refit on the last 50,450,22,0.0613066,1.06322
+M1->M3,Refit on the last 50,476,1,0.0787924,1.08198
+M1->M3,Refit on the last 50,476,2,0.0925758,1.097
+M1->M3,Refit on the last 50,476,3,0.125036,1.13319
+M1->M3,Refit on the last 50,476,4,0.0882695,1.09228
+M1->M3,Refit on the last 50,476,5,0.0436136,1.04458
+M1->M3,Refit on the last 50,476,6,0.077533,1.08062
+M1->M3,Refit on the last 50,476,7,0.11988,1.12736
+M1->M3,Refit on the last 50,476,8,0.0952019,1.09988
+M1->M3,Refit on the last 50,476,9,0.116212,1.12323
+M1->M3,Refit on the last 50,476,10,0.0770595,1.08011
+M1->M3,Refit on the last 50,476,11,0.0573339,1.05901
+M1->M3,Refit on the last 50,476,12,0.0645756,1.06671
+M1->M3,Refit on the last 50,476,13,0.211856,1.23597
+M1->M3,Refit on the last 50,476,14,0.0648504,1.067
+M1->M3,Refit on the last 50,476,15,0.189072,1.20813
+M1->M3,Refit on the last 50,476,16,0.278632,1.32132
+M1->M3,Refit on the last 50,476,17,0.0250976,1.02542
+M1->M3,Refit on the last 50,476,18,0.27638,1.31835
+M1->M3,Refit on the last 50,476,19,0.0511362,1.05247
+M1->M3,Refit on the last 50,476,20,0.117328,1.12449
+M1->M3,Refit on the last 50,476,21,0.13,1.13883
+M1->M3,Refit on the last 50,476,22,0.0582315,1.05996
+M3->M1,Never update,50,1,0.357079,1.42915
+M3->M1,Never update,50,2,0.369698,1.4473
+M3->M1,Never update,50,3,0.865234,2.37556
+M3->M1,Never update,50,4,1.08197,2.95048
+M3->M1,Never update,50,5,0.723415,2.06146
+M3->M1,Never update,50,6,0.764091,2.14704
+M3->M1,Never update,50,7,0.517846,1.67841
+M3->M1,Never update,50,8,0.931261,2.53771
+M3->M1,Never update,50,9,0.633344,1.8839
+M3->M1,Never update,50,10,0.653894,1.92301
+M3->M1,Never update,50,11,0.50026,1.64915
+M3->M1,Never update,50,12,0.83271,2.29954
+M3->M1,Never update,50,13,0.197242,1.21804
+M3->M1,Never update,50,14,0.956371,2.60224
+M3->M1,Never update,50,15,0.608374,1.83744
+M3->M1,Never update,50,16,0.399492,1.49107
+M3->M1,Never update,50,17,0.539094,1.71445
+M3->M1,Never update,50,18,0.57895,1.78416
+M3->M1,Never update,50,19,1.13797,3.12043
+M3->M1,Never update,50,20,0.709098,2.03216
+M3->M1,Never update,50,21,0.510842,1.66669
+M3->M1,Never update,50,22,0.863982,2.37259
+M3->M1,Never update,100,1,0.357079,1.42915
+M3->M1,Never update,100,2,0.369698,1.4473
+M3->M1,Never update,100,3,0.865234,2.37556
+M3->M1,Never update,100,4,1.08197,2.95048
+M3->M1,Never update,100,5,0.723415,2.06146
+M3->M1,Never update,100,6,0.764091,2.14704
+M3->M1,Never update,100,7,0.517846,1.67841
+M3->M1,Never update,100,8,0.931261,2.53771
+M3->M1,Never update,100,9,0.633344,1.8839
+M3->M1,Never update,100,10,0.653894,1.92301
+M3->M1,Never update,100,11,0.50026,1.64915
+M3->M1,Never update,100,12,0.83271,2.29954
+M3->M1,Never update,100,13,0.197242,1.21804
+M3->M1,Never update,100,14,0.956371,2.60224
+M3->M1,Never update,100,15,0.608374,1.83744
+M3->M1,Never update,100,16,0.399492,1.49107
+M3->M1,Never update,100,17,0.539094,1.71445
+M3->M1,Never update,100,18,0.57895,1.78416
+M3->M1,Never update,100,19,1.13797,3.12043
+M3->M1,Never update,100,20,0.709098,2.03216
+M3->M1,Never update,100,21,0.510842,1.66669
+M3->M1,Never update,100,22,0.863982,2.37259
+M3->M1,Never update,150,1,0.357079,1.42915
+M3->M1,Never update,150,2,0.369698,1.4473
+M3->M1,Never update,150,3,0.865234,2.37556
+M3->M1,Never update,150,4,1.08197,2.95048
+M3->M1,Never update,150,5,0.723415,2.06146
+M3->M1,Never update,150,6,0.764091,2.14704
+M3->M1,Never update,150,7,0.517846,1.67841
+M3->M1,Never update,150,8,0.931261,2.53771
+M3->M1,Never update,150,9,0.633344,1.8839
+M3->M1,Never update,150,10,0.653894,1.92301
+M3->M1,Never update,150,11,0.50026,1.64915
+M3->M1,Never update,150,12,0.83271,2.29954
+M3->M1,Never update,150,13,0.197242,1.21804
+M3->M1,Never update,150,14,0.956371,2.60224
+M3->M1,Never update,150,15,0.608374,1.83744
+M3->M1,Never update,150,16,0.399492,1.49107
+M3->M1,Never update,150,17,0.539094,1.71445
+M3->M1,Never update,150,18,0.57895,1.78416
+M3->M1,Never update,150,19,1.13797,3.12043
+M3->M1,Never update,150,20,0.709098,2.03216
+M3->M1,Never update,150,21,0.510842,1.66669
+M3->M1,Never update,150,22,0.863982,2.37259
+M3->M1,Never update,200,1,0.357079,1.42915
+M3->M1,Never update,200,2,0.369698,1.4473
+M3->M1,Never update,200,3,0.865234,2.37556
+M3->M1,Never update,200,4,1.08197,2.95048
+M3->M1,Never update,200,5,0.723415,2.06146
+M3->M1,Never update,200,6,0.764091,2.14704
+M3->M1,Never update,200,7,0.517846,1.67841
+M3->M1,Never update,200,8,0.931261,2.53771
+M3->M1,Never update,200,9,0.633344,1.8839
+M3->M1,Never update,200,10,0.653894,1.92301
+M3->M1,Never update,200,11,0.50026,1.64915
+M3->M1,Never update,200,12,0.83271,2.29954
+M3->M1,Never update,200,13,0.197242,1.21804
+M3->M1,Never update,200,14,0.956371,2.60224
+M3->M1,Never update,200,15,0.608374,1.83744
+M3->M1,Never update,200,16,0.399492,1.49107
+M3->M1,Never update,200,17,0.539094,1.71445
+M3->M1,Never update,200,18,0.57895,1.78416
+M3->M1,Never update,200,19,1.13797,3.12043
+M3->M1,Never update,200,20,0.709098,2.03216
+M3->M1,Never update,200,21,0.510842,1.66669
+M3->M1,Never update,200,22,0.863982,2.37259
+M3->M1,Never update,250,1,0.357079,1.42915
+M3->M1,Never update,250,2,0.369698,1.4473
+M3->M1,Never update,250,3,0.865234,2.37556
+M3->M1,Never update,250,4,1.08197,2.95048
+M3->M1,Never update,250,5,0.723415,2.06146
+M3->M1,Never update,250,6,0.764091,2.14704
+M3->M1,Never update,250,7,0.517846,1.67841
+M3->M1,Never update,250,8,0.931261,2.53771
+M3->M1,Never update,250,9,0.633344,1.8839
+M3->M1,Never update,250,10,0.653894,1.92301
+M3->M1,Never update,250,11,0.50026,1.64915
+M3->M1,Never update,250,12,0.83271,2.29954
+M3->M1,Never update,250,13,0.197242,1.21804
+M3->M1,Never update,250,14,0.956371,2.60224
+M3->M1,Never update,250,15,0.608374,1.83744
+M3->M1,Never update,250,16,0.399492,1.49107
+M3->M1,Never update,250,17,0.539094,1.71445
+M3->M1,Never update,250,18,0.57895,1.78416
+M3->M1,Never update,250,19,1.13797,3.12043
+M3->M1,Never update,250,20,0.709098,2.03216
+M3->M1,Never update,250,21,0.510842,1.66669
+M3->M1,Never update,250,22,0.863982,2.37259
+M3->M1,Never update,300,1,0.357079,1.42915
+M3->M1,Never update,300,2,0.369698,1.4473
+M3->M1,Never update,300,3,0.865234,2.37556
+M3->M1,Never update,300,4,1.08197,2.95048
+M3->M1,Never update,300,5,0.723415,2.06146
+M3->M1,Never update,300,6,0.764091,2.14704
+M3->M1,Never update,300,7,0.517846,1.67841
+M3->M1,Never update,300,8,0.931261,2.53771
+M3->M1,Never update,300,9,0.633344,1.8839
+M3->M1,Never update,300,10,0.653894,1.92301
+M3->M1,Never update,300,11,0.50026,1.64915
+M3->M1,Never update,300,12,0.83271,2.29954
+M3->M1,Never update,300,13,0.197242,1.21804
+M3->M1,Never update,300,14,0.956371,2.60224
+M3->M1,Never update,300,15,0.608374,1.83744
+M3->M1,Never update,300,16,0.399492,1.49107
+M3->M1,Never update,300,17,0.539094,1.71445
+M3->M1,Never update,300,18,0.57895,1.78416
+M3->M1,Never update,300,19,1.13797,3.12043
+M3->M1,Never update,300,20,0.709098,2.03216
+M3->M1,Never update,300,21,0.510842,1.66669
+M3->M1,Never update,300,22,0.863982,2.37259
+M3->M1,Never update,350,1,0.357079,1.42915
+M3->M1,Never update,350,2,0.369698,1.4473
+M3->M1,Never update,350,3,0.865234,2.37556
+M3->M1,Never update,350,4,1.08197,2.95048
+M3->M1,Never update,350,5,0.723415,2.06146
+M3->M1,Never update,350,6,0.764091,2.14704
+M3->M1,Never update,350,7,0.517846,1.67841
+M3->M1,Never update,350,8,0.931261,2.53771
+M3->M1,Never update,350,9,0.633344,1.8839
+M3->M1,Never update,350,10,0.653894,1.92301
+M3->M1,Never update,350,11,0.50026,1.64915
+M3->M1,Never update,350,12,0.83271,2.29954
+M3->M1,Never update,350,13,0.197242,1.21804
+M3->M1,Never update,350,14,0.956371,2.60224
+M3->M1,Never update,350,15,0.608374,1.83744
+M3->M1,Never update,350,16,0.399492,1.49107
+M3->M1,Never update,350,17,0.539094,1.71445
+M3->M1,Never update,350,18,0.57895,1.78416
+M3->M1,Never update,350,19,1.13797,3.12043
+M3->M1,Never update,350,20,0.709098,2.03216
+M3->M1,Never update,350,21,0.510842,1.66669
+M3->M1,Never update,350,22,0.863982,2.37259
+M3->M1,Never update,400,1,0.357079,1.42915
+M3->M1,Never update,400,2,0.369698,1.4473
+M3->M1,Never update,400,3,0.865234,2.37556
+M3->M1,Never update,400,4,1.08197,2.95048
+M3->M1,Never update,400,5,0.723415,2.06146
+M3->M1,Never update,400,6,0.764091,2.14704
+M3->M1,Never update,400,7,0.517846,1.67841
+M3->M1,Never update,400,8,0.931261,2.53771
+M3->M1,Never update,400,9,0.633344,1.8839
+M3->M1,Never update,400,10,0.653894,1.92301
+M3->M1,Never update,400,11,0.50026,1.64915
+M3->M1,Never update,400,12,0.83271,2.29954
+M3->M1,Never update,400,13,0.197242,1.21804
+M3->M1,Never update,400,14,0.956371,2.60224
+M3->M1,Never update,400,15,0.608374,1.83744
+M3->M1,Never update,400,16,0.399492,1.49107
+M3->M1,Never update,400,17,0.539094,1.71445
+M3->M1,Never update,400,18,0.57895,1.78416
+M3->M1,Never update,400,19,1.13797,3.12043
+M3->M1,Never update,400,20,0.709098,2.03216
+M3->M1,Never update,400,21,0.510842,1.66669
+M3->M1,Never update,400,22,0.863982,2.37259
+M3->M1,Never update,450,1,0.357079,1.42915
+M3->M1,Never update,450,2,0.369698,1.4473
+M3->M1,Never update,450,3,0.865234,2.37556
+M3->M1,Never update,450,4,1.08197,2.95048
+M3->M1,Never update,450,5,0.723415,2.06146
+M3->M1,Never update,450,6,0.764091,2.14704
+M3->M1,Never update,450,7,0.517846,1.67841
+M3->M1,Never update,450,8,0.931261,2.53771
+M3->M1,Never update,450,9,0.633344,1.8839
+M3->M1,Never update,450,10,0.653894,1.92301
+M3->M1,Never update,450,11,0.50026,1.64915
+M3->M1,Never update,450,12,0.83271,2.29954
+M3->M1,Never update,450,13,0.197242,1.21804
+M3->M1,Never update,450,14,0.956371,2.60224
+M3->M1,Never update,450,15,0.608374,1.83744
+M3->M1,Never update,450,16,0.399492,1.49107
+M3->M1,Never update,450,17,0.539094,1.71445
+M3->M1,Never update,450,18,0.57895,1.78416
+M3->M1,Never update,450,19,1.13797,3.12043
+M3->M1,Never update,450,20,0.709098,2.03216
+M3->M1,Never update,450,21,0.510842,1.66669
+M3->M1,Never update,450,22,0.863982,2.37259
+M3->M1,Never update,476,1,0.357079,1.42915
+M3->M1,Never update,476,2,0.369698,1.4473
+M3->M1,Never update,476,3,0.865234,2.37556
+M3->M1,Never update,476,4,1.08197,2.95048
+M3->M1,Never update,476,5,0.723415,2.06146
+M3->M1,Never update,476,6,0.764091,2.14704
+M3->M1,Never update,476,7,0.517846,1.67841
+M3->M1,Never update,476,8,0.931261,2.53771
+M3->M1,Never update,476,9,0.633344,1.8839
+M3->M1,Never update,476,10,0.653894,1.92301
+M3->M1,Never update,476,11,0.50026,1.64915
+M3->M1,Never update,476,12,0.83271,2.29954
+M3->M1,Never update,476,13,0.197242,1.21804
+M3->M1,Never update,476,14,0.956371,2.60224
+M3->M1,Never update,476,15,0.608374,1.83744
+M3->M1,Never update,476,16,0.399492,1.49107
+M3->M1,Never update,476,17,0.539094,1.71445
+M3->M1,Never update,476,18,0.57895,1.78416
+M3->M1,Never update,476,19,1.13797,3.12043
+M3->M1,Never update,476,20,0.709098,2.03216
+M3->M1,Never update,476,21,0.510842,1.66669
+M3->M1,Never update,476,22,0.863982,2.37259
+M3->M1,Refit on all so far,50,1,0.108319,1.1144
+M3->M1,Refit on all so far,50,2,0.101225,1.10653
+M3->M1,Refit on all so far,50,3,0.093564,1.09808
+M3->M1,Refit on all so far,50,4,0.0764641,1.07946
+M3->M1,Refit on all so far,50,5,0.0485881,1.04979
+M3->M1,Refit on all so far,50,6,0.113026,1.11966
+M3->M1,Refit on all so far,50,7,0.152467,1.1647
+M3->M1,Refit on all so far,50,8,0.121443,1.12913
+M3->M1,Refit on all so far,50,9,0.117184,1.12433
+M3->M1,Refit on all so far,50,10,0.128743,1.1374
+M3->M1,Refit on all so far,50,11,0.062116,1.06409
+M3->M1,Refit on all so far,50,12,0.100527,1.10575
+M3->M1,Refit on all so far,50,13,0.263709,1.30175
+M3->M1,Refit on all so far,50,14,0.0755481,1.07848
+M3->M1,Refit on all so far,50,15,0.0907859,1.09503
+M3->M1,Refit on all so far,50,16,0.12229,1.13008
+M3->M1,Refit on all so far,50,17,0.0703751,1.07291
+M3->M1,Refit on all so far,50,18,0.165335,1.17979
+M3->M1,Refit on all so far,50,19,0.0601795,1.06203
+M3->M1,Refit on all so far,50,20,0.135522,1.14513
+M3->M1,Refit on all so far,50,21,0.112766,1.11937
+M3->M1,Refit on all so far,50,22,0.0669985,1.06929
+M3->M1,Refit on all so far,100,1,0.0414704,1.04234
+M3->M1,Refit on all so far,100,2,0.0495448,1.05079
+M3->M1,Refit on all so far,100,3,0.0754492,1.07837
+M3->M1,Refit on all so far,100,4,0.0567338,1.05837
+M3->M1,Refit on all so far,100,5,0.0405831,1.04142
+M3->M1,Refit on all so far,100,6,0.111356,1.11779
+M3->M1,Refit on all so far,100,7,0.0720004,1.07466
+M3->M1,Refit on all so far,100,8,0.0697252,1.07221
+M3->M1,Refit on all so far,100,9,0.0985411,1.10356
+M3->M1,Refit on all so far,100,10,0.140878,1.15128
+M3->M1,Refit on all so far,100,11,0.0521247,1.05351
+M3->M1,Refit on all so far,100,12,0.0911822,1.09547
+M3->M1,Refit on all so far,100,13,0.175299,1.1916
+M3->M1,Refit on all so far,100,14,0.0507955,1.05211
+M3->M1,Refit on all so far,100,15,0.0674006,1.06972
+M3->M1,Refit on all so far,100,16,0.138609,1.14867
+M3->M1,Refit on all so far,100,17,0.0628106,1.06483
+M3->M1,Refit on all so far,100,18,0.208997,1.23244
+M3->M1,Refit on all so far,100,19,0.0599708,1.06181
+M3->M1,Refit on all so far,100,20,0.130209,1.13907
+M3->M1,Refit on all so far,100,21,0.0889673,1.09304
+M3->M1,Refit on all so far,100,22,0.0334389,1.034
+M3->M1,Refit on all so far,150,1,0.0284291,1.02884
+M3->M1,Refit on all so far,150,2,0.0492197,1.05045
+M3->M1,Refit on all so far,150,3,0.0702666,1.07279
+M3->M1,Refit on all so far,150,4,0.0502595,1.05154
+M3->M1,Refit on all so far,150,5,0.0415073,1.04238
+M3->M1,Refit on all so far,150,6,0.11956,1.127
+M3->M1,Refit on all so far,150,7,0.0521554,1.05354
+M3->M1,Refit on all so far,150,8,0.0485628,1.04976
+M3->M1,Refit on all so far,150,9,0.0906799,1.09492
+M3->M1,Refit on all so far,150,10,0.152185,1.16438
+M3->M1,Refit on all so far,150,11,0.0458763,1.04694
+M3->M1,Refit on all so far,150,12,0.0875202,1.09146
+M3->M1,Refit on all so far,150,13,0.126621,1.13499
+M3->M1,Refit on all so far,150,14,0.0444711,1.04547
+M3->M1,Refit on all so far,150,15,0.0537986,1.05527
+M3->M1,Refit on all so far,150,16,0.0924408,1.09685
+M3->M1,Refit on all so far,150,17,0.0682612,1.07064
+M3->M1,Refit on all so far,150,18,0.220604,1.24683
+M3->M1,Refit on all so far,150,19,0.0675826,1.06992
+M3->M1,Refit on all so far,150,20,0.125839,1.1341
+M3->M1,Refit on all so far,150,21,0.0798363,1.08311
+M3->M1,Refit on all so far,150,22,0.0263246,1.02667
+M3->M1,Refit on all so far,200,1,0.02585,1.02619
+M3->M1,Refit on all so far,200,2,0.0460418,1.04712
+M3->M1,Refit on all so far,200,3,0.0633301,1.06538
+M3->M1,Refit on all so far,200,4,0.0465227,1.04762
+M3->M1,Refit on all so far,200,5,0.043434,1.04439
+M3->M1,Refit on all so far,200,6,0.119767,1.12723
+M3->M1,Refit on all so far,200,7,0.0543148,1.05582
+M3->M1,Refit on all so far,200,8,0.0344863,1.03509
+M3->M1,Refit on all so far,200,9,0.0871738,1.09109
+M3->M1,Refit on all so far,200,10,0.1591,1.17246
+M3->M1,Refit on all so far,200,11,0.045058,1.04609
+M3->M1,Refit on all so far,200,12,0.0877912,1.09176
+M3->M1,Refit on all so far,200,13,0.101136,1.10643
+M3->M1,Refit on all so far,200,14,0.04258,1.0435
+M3->M1,Refit on all so far,200,15,0.0470403,1.04816
+M3->M1,Refit on all so far,200,16,0.0881594,1.09216
+M3->M1,Refit on all so far,200,17,0.0688163,1.07124
+M3->M1,Refit on all so far,200,18,0.215282,1.24021
+M3->M1,Refit on all so far,200,19,0.0716737,1.0743
+M3->M1,Refit on all so far,200,20,0.125962,1.13424
+M3->M1,Refit on all so far,200,21,0.0857204,1.0895
+M3->M1,Refit on all so far,200,22,0.025937,1.02628
+M3->M1,Refit on all so far,250,1,0.0254002,1.02573
+M3->M1,Refit on all so far,250,2,0.043705,1.04467
+M3->M1,Refit on all so far,250,3,0.0600881,1.06193
+M3->M1,Refit on all so far,250,4,0.0443184,1.04532
+M3->M1,Refit on all so far,250,5,0.0452068,1.04624
+M3->M1,Refit on all so far,250,6,0.126071,1.13436
+M3->M1,Refit on all so far,250,7,0.0480964,1.04927
+M3->M1,Refit on all so far,250,8,0.0274693,1.02785
+M3->M1,Refit on all so far,250,9,0.0805623,1.0839
+M3->M1,Refit on all so far,250,10,0.163857,1.17805
+M3->M1,Refit on all so far,250,11,0.0442027,1.04519
+M3->M1,Refit on all so far,250,12,0.0881831,1.09219
+M3->M1,Refit on all so far,250,13,0.099304,1.1044
+M3->M1,Refit on all so far,250,14,0.0432386,1.04419
+M3->M1,Refit on all so far,250,15,0.0435612,1.04452
+M3->M1,Refit on all so far,250,16,0.0749333,1.07781
+M3->M1,Refit on all so far,250,17,0.0658057,1.06802
+M3->M1,Refit on all so far,250,18,0.202138,1.22402
+M3->M1,Refit on all so far,250,19,0.0660686,1.0683
+M3->M1,Refit on all so far,250,20,0.115113,1.122
+M3->M1,Refit on all so far,250,21,0.0917911,1.09614
+M3->M1,Refit on all so far,250,22,0.0249547,1.02527
+M3->M1,Refit on all so far,300,1,0.0244436,1.02474
+M3->M1,Refit on all so far,300,2,0.0448902,1.04591
+M3->M1,Refit on all so far,300,3,0.0565804,1.05821
+M3->M1,Refit on all so far,300,4,0.0431231,1.04407
+M3->M1,Refit on all so far,300,5,0.0449684,1.04599
+M3->M1,Refit on all so far,300,6,0.125504,1.13372
+M3->M1,Refit on all so far,300,7,0.0470138,1.04814
+M3->M1,Refit on all so far,300,8,0.0242965,1.02459
+M3->M1,Refit on all so far,300,9,0.0817051,1.08514
+M3->M1,Refit on all so far,300,10,0.159473,1.17289
+M3->M1,Refit on all so far,300,11,0.0438682,1.04484
+M3->M1,Refit on all so far,300,12,0.0883336,1.09235
+M3->M1,Refit on all so far,300,13,0.0926798,1.09711
+M3->M1,Refit on all so far,300,14,0.0412524,1.04212
+M3->M1,Refit on all so far,300,15,0.0418311,1.04272
+M3->M1,Refit on all so far,300,16,0.0731709,1.07591
+M3->M1,Refit on all so far,300,17,0.0652605,1.06744
+M3->M1,Refit on all so far,300,18,0.206324,1.22915
+M3->M1,Refit on all so far,300,19,0.0653025,1.06748
+M3->M1,Refit on all so far,300,20,0.112218,1.11876
+M3->M1,Refit on all so far,300,21,0.0959135,1.10066
+M3->M1,Refit on all so far,300,22,0.0264411,1.02679
+M3->M1,Refit on all so far,350,1,0.0261382,1.02648
+M3->M1,Refit on all so far,350,2,0.0445797,1.04559
+M3->M1,Refit on all so far,350,3,0.0554753,1.05704
+M3->M1,Refit on all so far,350,4,0.0387415,1.0395
+M3->M1,Refit on all so far,350,5,0.0463862,1.04748
+M3->M1,Refit on all so far,350,6,0.125932,1.1342
+M3->M1,Refit on all so far,350,7,0.0455113,1.04656
+M3->M1,Refit on all so far,350,8,0.0231484,1.02342
+M3->M1,Refit on all so far,350,9,0.0803891,1.08371
+M3->M1,Refit on all so far,350,10,0.166083,1.18067
+M3->M1,Refit on all so far,350,11,0.0439025,1.04488
+M3->M1,Refit on all so far,350,12,0.0856871,1.08947
+M3->M1,Refit on all so far,350,13,0.0951313,1.0998
+M3->M1,Refit on all so far,350,14,0.0393908,1.04018
+M3->M1,Refit on all so far,350,15,0.0444426,1.04545
+M3->M1,Refit on all so far,350,16,0.0718308,1.07447
+M3->M1,Refit on all so far,350,17,0.0664118,1.06867
+M3->M1,Refit on all so far,350,18,0.203655,1.22588
+M3->M1,Refit on all so far,350,19,0.0640517,1.06615
+M3->M1,Refit on all so far,350,20,0.110652,1.11701
+M3->M1,Refit on all so far,350,21,0.0941754,1.09875
+M3->M1,Refit on all so far,350,22,0.0242419,1.02454
+M3->M1,Refit on all so far,400,1,0.0245933,1.0249
+M3->M1,Refit on all so far,400,2,0.0464449,1.04754
+M3->M1,Refit on all so far,400,3,0.0579826,1.0597
+M3->M1,Refit on all so far,400,4,0.0396858,1.04048
+M3->M1,Refit on all so far,400,5,0.0473409,1.04848
+M3->M1,Refit on all so far,400,6,0.131256,1.14026
+M3->M1,Refit on all so far,400,7,0.048444,1.04964
+M3->M1,Refit on all so far,400,8,0.0235554,1.02383
+M3->M1,Refit on all so far,400,9,0.0739814,1.07679
+M3->M1,Refit on all so far,400,10,0.175661,1.19203
+M3->M1,Refit on all so far,400,11,0.0436424,1.04461
+M3->M1,Refit on all so far,400,12,0.0848088,1.08851
+M3->M1,Refit on all so far,400,13,0.0855836,1.08935
+M3->M1,Refit on all so far,400,14,0.0389884,1.03976
+M3->M1,Refit on all so far,400,15,0.0428678,1.0438
+M3->M1,Refit on all so far,400,16,0.0717134,1.07435
+M3->M1,Refit on all so far,400,17,0.0648562,1.06701
+M3->M1,Refit on all so far,400,18,0.204084,1.2264
+M3->M1,Refit on all so far,400,19,0.0626003,1.0646
+M3->M1,Refit on all so far,400,20,0.109261,1.11545
+M3->M1,Refit on all so far,400,21,0.0961779,1.10095
+M3->M1,Refit on all so far,400,22,0.0214146,1.02165
+M3->M1,Refit on all so far,450,1,0.0262277,1.02657
+M3->M1,Refit on all so far,450,2,0.0456638,1.04672
+M3->M1,Refit on all so far,450,3,0.055779,1.05736
+M3->M1,Refit on all so far,450,4,0.0385132,1.03926
+M3->M1,Refit on all so far,450,5,0.0476409,1.04879
+M3->M1,Refit on all so far,450,6,0.132379,1.14154
+M3->M1,Refit on all so far,450,7,0.0528713,1.05429
+M3->M1,Refit on all so far,450,8,0.0201999,1.02041
+M3->M1,Refit on all so far,450,9,0.070171,1.07269
+M3->M1,Refit on all so far,450,10,0.174269,1.19038
+M3->M1,Refit on all so far,450,11,0.0436543,1.04462
+M3->M1,Refit on all so far,450,12,0.0856326,1.08941
+M3->M1,Refit on all so far,450,13,0.0817765,1.08521
+M3->M1,Refit on all so far,450,14,0.0387081,1.03947
+M3->M1,Refit on all so far,450,15,0.0413974,1.04227
+M3->M1,Refit on all so far,450,16,0.0736491,1.07643
+M3->M1,Refit on all so far,450,17,0.0629167,1.06494
+M3->M1,Refit on all so far,450,18,0.203775,1.22602
+M3->M1,Refit on all so far,450,19,0.0652032,1.06738
+M3->M1,Refit on all so far,450,20,0.107837,1.11387
+M3->M1,Refit on all so far,450,21,0.0987773,1.10382
+M3->M1,Refit on all so far,450,22,0.0197771,1.01997
+M3->M1,Refit on all so far,476,1,0.0274758,1.02786
+M3->M1,Refit on all so far,476,2,0.0446704,1.04568
+M3->M1,Refit on all so far,476,3,0.0548312,1.05636
+M3->M1,Refit on all so far,476,4,0.0399489,1.04076
+M3->M1,Refit on all so far,476,5,0.0487122,1.04992
+M3->M1,Refit on all so far,476,6,0.133221,1.1425
+M3->M1,Refit on all so far,476,7,0.0523487,1.05374
+M3->M1,Refit on all so far,476,8,0.0186324,1.01881
+M3->M1,Refit on all so far,476,9,0.0681986,1.07058
+M3->M1,Refit on all so far,476,10,0.175663,1.19204
+M3->M1,Refit on all so far,476,11,0.0436494,1.04462
+M3->M1,Refit on all so far,476,12,0.086568,1.09043
+M3->M1,Refit on all so far,476,13,0.0832892,1.08686
+M3->M1,Refit on all so far,476,14,0.0382584,1.039
+M3->M1,Refit on all so far,476,15,0.0419904,1.04288
+M3->M1,Refit on all so far,476,16,0.0762064,1.07919
+M3->M1,Refit on all so far,476,17,0.0612331,1.06315
+M3->M1,Refit on all so far,476,18,0.202454,1.2244
+M3->M1,Refit on all so far,476,19,0.0640979,1.0662
+M3->M1,Refit on all so far,476,20,0.109058,1.11523
+M3->M1,Refit on all so far,476,21,0.0956686,1.10039
+M3->M1,Refit on all so far,476,22,0.0204073,1.02062
+M3->M1,Refit on the last 50,50,1,0.108319,1.1144
+M3->M1,Refit on the last 50,50,2,0.101225,1.10653
+M3->M1,Refit on the last 50,50,3,0.093564,1.09808
+M3->M1,Refit on the last 50,50,4,0.0764641,1.07946
+M3->M1,Refit on the last 50,50,5,0.0485881,1.04979
+M3->M1,Refit on the last 50,50,6,0.113026,1.11966
+M3->M1,Refit on the last 50,50,7,0.152467,1.1647
+M3->M1,Refit on the last 50,50,8,0.121443,1.12913
+M3->M1,Refit on the last 50,50,9,0.117184,1.12433
+M3->M1,Refit on the last 50,50,10,0.128743,1.1374
+M3->M1,Refit on the last 50,50,11,0.062116,1.06409
+M3->M1,Refit on the last 50,50,12,0.100527,1.10575
+M3->M1,Refit on the last 50,50,13,0.263709,1.30175
+M3->M1,Refit on the last 50,50,14,0.0755481,1.07848
+M3->M1,Refit on the last 50,50,15,0.0907859,1.09503
+M3->M1,Refit on the last 50,50,16,0.12229,1.13008
+M3->M1,Refit on the last 50,50,17,0.0703751,1.07291
+M3->M1,Refit on the last 50,50,18,0.165335,1.17979
+M3->M1,Refit on the last 50,50,19,0.0601795,1.06203
+M3->M1,Refit on the last 50,50,20,0.135522,1.14513
+M3->M1,Refit on the last 50,50,21,0.112766,1.11937
+M3->M1,Refit on the last 50,50,22,0.0669985,1.06929
+M3->M1,Refit on the last 50,100,1,0.0824654,1.08596
+M3->M1,Refit on the last 50,100,2,0.0834244,1.087
+M3->M1,Refit on the last 50,100,3,0.103563,1.10912
+M3->M1,Refit on the last 50,100,4,0.0896692,1.09381
+M3->M1,Refit on the last 50,100,5,0.0620818,1.06405
+M3->M1,Refit on the last 50,100,6,0.0987476,1.10379
+M3->M1,Refit on the last 50,100,7,0.146622,1.15792
+M3->M1,Refit on the last 50,100,8,0.127917,1.13646
+M3->M1,Refit on the last 50,100,9,0.151233,1.16327
+M3->M1,Refit on the last 50,100,10,0.133126,1.14239
+M3->M1,Refit on the last 50,100,11,0.0666297,1.0689
+M3->M1,Refit on the last 50,100,12,0.0880828,1.09208
+M3->M1,Refit on the last 50,100,13,0.262806,1.30057
+M3->M1,Refit on the last 50,100,14,0.0727,1.07541
+M3->M1,Refit on the last 50,100,15,0.0996783,1.10482
+M3->M1,Refit on the last 50,100,16,0.148902,1.16056
+M3->M1,Refit on the last 50,100,17,0.0873211,1.09125
+M3->M1,Refit on the last 50,100,18,0.187195,1.20586
+M3->M1,Refit on the last 50,100,19,0.062596,1.0646
+M3->M1,Refit on the last 50,100,20,0.142701,1.15338
+M3->M1,Refit on the last 50,100,21,0.101282,1.10659
+M3->M1,Refit on the last 50,100,22,0.10027,1.10547
+M3->M1,Refit on the last 50,150,1,0.043598,1.04456
+M3->M1,Refit on the last 50,150,2,0.0975832,1.1025
+M3->M1,Refit on the last 50,150,3,0.0937247,1.09826
+M3->M1,Refit on the last 50,150,4,0.0721946,1.07486
+M3->M1,Refit on the last 50,150,5,0.0399369,1.04075
+M3->M1,Refit on the last 50,150,6,0.0982604,1.10325
+M3->M1,Refit on the last 50,150,7,0.209036,1.23249
+M3->M1,Refit on the last 50,150,8,0.140704,1.15108
+M3->M1,Refit on the last 50,150,9,0.106408,1.11228
+M3->M1,Refit on the last 50,150,10,0.150517,1.16244
+M3->M1,Refit on the last 50,150,11,0.0746598,1.07752
+M3->M1,Refit on the last 50,150,12,0.0871683,1.09108
+M3->M1,Refit on the last 50,150,13,0.233018,1.2624
+M3->M1,Refit on the last 50,150,14,0.0666753,1.06895
+M3->M1,Refit on the last 50,150,15,0.126587,1.13495
+M3->M1,Refit on the last 50,150,16,0.144948,1.15598
+M3->M1,Refit on the last 50,150,17,0.104443,1.11009
+M3->M1,Refit on the last 50,150,18,0.201271,1.22296
+M3->M1,Refit on the last 50,150,19,0.0704617,1.073
+M3->M1,Refit on the last 50,150,20,0.148672,1.16029
+M3->M1,Refit on the last 50,150,21,0.0966686,1.1015
+M3->M1,Refit on the last 50,150,22,0.0749164,1.07779
+M3->M1,Refit on the last 50,200,1,0.062909,1.06493
+M3->M1,Refit on the last 50,200,2,0.142453,1.1531
+M3->M1,Refit on the last 50,200,3,0.0794881,1.08273
+M3->M1,Refit on the last 50,200,4,0.080693,1.08404
+M3->M1,Refit on the last 50,200,5,0.0516806,1.05304
+M3->M1,Refit on the last 50,200,6,0.0987502,1.10379
+M3->M1,Refit on the last 50,200,7,0.174241,1.19034
+M3->M1,Refit on the last 50,200,8,0.145062,1.15611
+M3->M1,Refit on the last 50,200,9,0.122485,1.1303
+M3->M1,Refit on the last 50,200,10,0.152047,1.16421
+M3->M1,Refit on the last 50,200,11,0.0816082,1.08503
+M3->M1,Refit on the last 50,200,12,0.091463,1.09578
+M3->M1,Refit on the last 50,200,13,0.195115,1.21545
+M3->M1,Refit on the last 50,200,14,0.0829433,1.08648
+M3->M1,Refit on the last 50,200,15,0.0851942,1.08893
+M3->M1,Refit on the last 50,200,16,0.0866063,1.09047
+M3->M1,Refit on the last 50,200,17,0.0885531,1.09259
+M3->M1,Refit on the last 50,200,18,0.175724,1.19211
+M3->M1,Refit on the last 50,200,19,0.0566882,1.05833
+M3->M1,Refit on the last 50,200,20,0.143483,1.15429
+M3->M1,Refit on the last 50,200,21,0.155359,1.16808
+M3->M1,Refit on the last 50,200,22,0.0630208,1.06505
+M3->M1,Refit on the last 50,250,1,0.0968457,1.10169
+M3->M1,Refit on the last 50,250,2,0.164121,1.17836
+M3->M1,Refit on the last 50,250,3,0.0734326,1.0762
+M3->M1,Refit on the last 50,250,4,0.069355,1.07182
+M3->M1,Refit on the last 50,250,5,0.0726196,1.07532
+M3->M1,Refit on the last 50,250,6,0.122724,1.13057
+M3->M1,Refit on the last 50,250,7,0.151675,1.16378
+M3->M1,Refit on the last 50,250,8,0.11078,1.11715
+M3->M1,Refit on the last 50,250,9,0.148065,1.15959
+M3->M1,Refit on the last 50,250,10,0.147604,1.15905
+M3->M1,Refit on the last 50,250,11,0.0806361,1.08398
+M3->M1,Refit on the last 50,250,12,0.0970252,1.10189
+M3->M1,Refit on the last 50,250,13,0.240598,1.27201
+M3->M1,Refit on the last 50,250,14,0.0724562,1.07515
+M3->M1,Refit on the last 50,250,15,0.106773,1.11268
+M3->M1,Refit on the last 50,250,16,0.148068,1.15959
+M3->M1,Refit on the last 50,250,17,0.0617681,1.06372
+M3->M1,Refit on the last 50,250,18,0.176581,1.19313
+M3->M1,Refit on the last 50,250,19,0.0651032,1.06727
+M3->M1,Refit on the last 50,250,20,0.113027,1.11966
+M3->M1,Refit on the last 50,250,21,0.16282,1.17683
+M3->M1,Refit on the last 50,250,22,0.0836994,1.0873
+M3->M1,Refit on the last 50,300,1,0.0622221,1.0642
+M3->M1,Refit on the last 50,300,2,0.129017,1.13771
+M3->M1,Refit on the last 50,300,3,0.0963728,1.10117
+M3->M1,Refit on the last 50,300,4,0.0760656,1.07903
+M3->M1,Refit on the last 50,300,5,0.0641034,1.0662
+M3->M1,Refit on the last 50,300,6,0.119022,1.12639
+M3->M1,Refit on the last 50,300,7,0.118898,1.12626
+M3->M1,Refit on the last 50,300,8,0.0758506,1.0788
+M3->M1,Refit on the last 50,300,9,0.15061,1.16254
+M3->M1,Refit on the last 50,300,10,0.144935,1.15596
+M3->M1,Refit on the last 50,300,11,0.0806574,1.084
+M3->M1,Refit on the last 50,300,12,0.0932668,1.09775
+M3->M1,Refit on the last 50,300,13,0.340259,1.40531
+M3->M1,Refit on the last 50,300,14,0.0733405,1.0761
+M3->M1,Refit on the last 50,300,15,0.121017,1.12864
+M3->M1,Refit on the last 50,300,16,0.104829,1.11052
+M3->M1,Refit on the last 50,300,17,0.0668138,1.0691
+M3->M1,Refit on the last 50,300,18,0.216864,1.24217
+M3->M1,Refit on the last 50,300,19,0.0634573,1.06551
+M3->M1,Refit on the last 50,300,20,0.168666,1.18372
+M3->M1,Refit on the last 50,300,21,0.111455,1.1179
+M3->M1,Refit on the last 50,300,22,0.0604863,1.06235
+M3->M1,Refit on the last 50,350,1,0.145634,1.15677
+M3->M1,Refit on the last 50,350,2,0.130118,1.13896
+M3->M1,Refit on the last 50,350,3,0.0957637,1.1005
+M3->M1,Refit on the last 50,350,4,0.112075,1.1186
+M3->M1,Refit on the last 50,350,5,0.0504323,1.05173
+M3->M1,Refit on the last 50,350,6,0.107282,1.11325
+M3->M1,Refit on the last 50,350,7,0.0981135,1.10309
+M3->M1,Refit on the last 50,350,8,0.10807,1.11413
+M3->M1,Refit on the last 50,350,9,0.0927044,1.09714
+M3->M1,Refit on the last 50,350,10,0.140072,1.15036
+M3->M1,Refit on the last 50,350,11,0.0650182,1.06718
+M3->M1,Refit on the last 50,350,12,0.0890442,1.09313
+M3->M1,Refit on the last 50,350,13,0.274051,1.31528
+M3->M1,Refit on the last 50,350,14,0.079124,1.08234
+M3->M1,Refit on the last 50,350,15,0.140081,1.15037
+M3->M1,Refit on the last 50,350,16,0.198025,1.21899
+M3->M1,Refit on the last 50,350,17,0.107946,1.11399
+M3->M1,Refit on the last 50,350,18,0.241834,1.27358
+M3->M1,Refit on the last 50,350,19,0.0527559,1.05417
+M3->M1,Refit on the last 50,350,20,0.120802,1.1284
+M3->M1,Refit on the last 50,350,21,0.136501,1.14626
+M3->M1,Refit on the last 50,350,22,0.104043,1.10965
+M3->M1,Refit on the last 50,400,1,0.129004,1.13769
+M3->M1,Refit on the last 50,400,2,0.117962,1.1252
+M3->M1,Refit on the last 50,400,3,0.0912748,1.09557
+M3->M1,Refit on the last 50,400,4,0.0733145,1.07607
+M3->M1,Refit on the last 50,400,5,0.0729196,1.07564
+M3->M1,Refit on the last 50,400,6,0.110285,1.1166
+M3->M1,Refit on the last 50,400,7,0.122515,1.13034
+M3->M1,Refit on the last 50,400,8,0.172653,1.18845
+M3->M1,Refit on the last 50,400,9,0.157012,1.17001
+M3->M1,Refit on the last 50,400,10,0.161425,1.17518
+M3->M1,Refit on the last 50,400,11,0.0976461,1.10257
+M3->M1,Refit on the last 50,400,12,0.0916564,1.09599
+M3->M1,Refit on the last 50,400,13,0.21667,1.24193
+M3->M1,Refit on the last 50,400,14,0.0639098,1.066
+M3->M1,Refit on the last 50,400,15,0.0782729,1.08142
+M3->M1,Refit on the last 50,400,16,0.145333,1.15642
+M3->M1,Refit on the last 50,400,17,0.0666368,1.06891
+M3->M1,Refit on the last 50,400,18,0.179225,1.19629
+M3->M1,Refit on the last 50,400,19,0.0487889,1.05
+M3->M1,Refit on the last 50,400,20,0.147782,1.15926
+M3->M1,Refit on the last 50,400,21,0.115845,1.12282
+M3->M1,Refit on the last 50,400,22,0.0888467,1.09291
+M3->M1,Refit on the last 50,450,1,0.0775032,1.08059
+M3->M1,Refit on the last 50,450,2,0.0922082,1.09659
+M3->M1,Refit on the last 50,450,3,0.0802955,1.08361
+M3->M1,Refit on the last 50,450,4,0.0652313,1.06741
+M3->M1,Refit on the last 50,450,5,0.0479212,1.04909
+M3->M1,Refit on the last 50,450,6,0.0988478,1.1039
+M3->M1,Refit on the last 50,450,7,0.112719,1.11932
+M3->M1,Refit on the last 50,450,8,0.101861,1.10723
+M3->M1,Refit on the last 50,450,9,0.133579,1.14291
+M3->M1,Refit on the last 50,450,10,0.126843,1.13524
+M3->M1,Refit on the last 50,450,11,0.0536918,1.05516
+M3->M1,Refit on the last 50,450,12,0.0999133,1.10508
+M3->M1,Refit on the last 50,450,13,0.255708,1.29138
+M3->M1,Refit on the last 50,450,14,0.0753568,1.07827
+M3->M1,Refit on the last 50,450,15,0.0823407,1.08583
+M3->M1,Refit on the last 50,450,16,0.142288,1.15291
+M3->M1,Refit on the last 50,450,17,0.0812603,1.08465
+M3->M1,Refit on the last 50,450,18,0.166946,1.18169
+M3->M1,Refit on the last 50,450,19,0.0763939,1.07939
+M3->M1,Refit on the last 50,450,20,0.15343,1.16583
+M3->M1,Refit on the last 50,450,21,0.130944,1.1399
+M3->M1,Refit on the last 50,450,22,0.0524018,1.0538
+M3->M1,Refit on the last 50,476,1,0.064563,1.06669
+M3->M1,Refit on the last 50,476,2,0.119878,1.12736
+M3->M1,Refit on the last 50,476,3,0.0859761,1.08978
+M3->M1,Refit on the last 50,476,4,0.0901315,1.09432
+M3->M1,Refit on the last 50,476,5,0.0537078,1.05518
+M3->M1,Refit on the last 50,476,6,0.0938755,1.09842
+M3->M1,Refit on the last 50,476,7,0.112577,1.11916
+M3->M1,Refit on the last 50,476,8,0.121092,1.12873
+M3->M1,Refit on the last 50,476,9,0.0891711,1.09327
+M3->M1,Refit on the last 50,476,10,0.128423,1.13703
+M3->M1,Refit on the last 50,476,11,0.0594638,1.06127
+M3->M1,Refit on the last 50,476,12,0.100295,1.1055
+M3->M1,Refit on the last 50,476,13,0.245479,1.27823
+M3->M1,Refit on the last 50,476,14,0.0746098,1.07746
+M3->M1,Refit on the last 50,476,15,0.110739,1.1171
+M3->M1,Refit on the last 50,476,16,0.1957,1.21616
+M3->M1,Refit on the last 50,476,17,0.0645436,1.06667
+M3->M1,Refit on the last 50,476,18,0.172266,1.18799
+M3->M1,Refit on the last 50,476,19,0.0677978,1.07015
+M3->M1,Refit on the last 50,476,20,0.131066,1.14004
+M3->M1,Refit on the last 50,476,21,0.129233,1.13796
+M3->M1,Refit on the last 50,476,22,0.0737775,1.07657

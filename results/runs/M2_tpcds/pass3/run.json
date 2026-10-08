@@ -1,0 +1,46 @@
+{
+ "pass": 3,
+ "seed": 2,
+ "attempt": 1,
+ "machine": "M2_tpcds",
+ "clocksource": "hyperv_clocksource_tsc_page",
+ "clock_rate": [
+  {
+   "rate": 1.00005,
+   "wall_s": 2242.6
+  }
+ ],
+ "power": [
+  {
+   "ended_at": "2026-10-02T05:36:28-04:00",
+   "lines": 72,
+   "on_battery": 0,
+   "saver_on": 0,
+   "charge_min": 98,
+   "max_gap_s": 32.0,
+   "gaps": 0,
+   "host_cpu": {
+    "median": 13.0,
+    "max": 28
+   }
+  }
+ ],
+ "check": {
+  "reference": "pass1",
+  "pass": "pass3",
+  "n_compared": 482,
+  "same_plan": 482,
+  "median_q": 1.1092414198499627,
+  "p90_q": 1.256776466661542,
+  "shift": null,
+  "shift_in_reference_order": null,
+  "split_explained": {
+   "pass": 0.009451490359006498,
+   "reference": 0.027392779661284727
+  },
+  "identity": {
+   "reference": "2026-10-02T03:38:07/2026-10-02T04:21:21",
+   "pass": "2026-10-02T04:59:05/2026-10-02T05:36:27"
+  }
+ }
+}

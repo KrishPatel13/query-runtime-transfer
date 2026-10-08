@@ -1,0 +1,31 @@
+{
+ "pass": 3,
+ "seed": 2,
+ "attempt": 1,
+ "machine": "M6_tpcds",
+ "clocksource": "kvm-clock",
+ "clock_rate": [
+  {
+   "rate": 1.000001,
+   "wall_s": 2772.4
+  }
+ ],
+ "check": {
+  "reference": "pass1",
+  "pass": "pass3",
+  "n_compared": 482,
+  "same_plan": 482,
+  "median_q": 1.0435468271018737,
+  "p90_q": 1.1464269939899867,
+  "shift": null,
+  "shift_in_reference_order": null,
+  "split_explained": {
+   "pass": 0.04579751695104117,
+   "reference": 0.037105281186136096
+  },
+  "identity": {
+   "reference": "2026-10-02T18:10:49/2026-10-02T18:56:41",
+   "pass": "2026-10-02T19:43:06/2026-10-02T20:29:19"
+  }
+ }
+}

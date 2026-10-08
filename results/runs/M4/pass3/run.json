@@ -1,0 +1,31 @@
+{
+ "pass": 3,
+ "seed": 2,
+ "attempt": 1,
+ "machine": "M4",
+ "clocksource": "kvm-clock",
+ "clock_rate": [
+  {
+   "rate": 1.0,
+   "wall_s": 4678.2
+  }
+ ],
+ "check": {
+  "reference": "pass1",
+  "pass": "pass3",
+  "n_compared": 680,
+  "same_plan": 680,
+  "median_q": 1.0778567866844084,
+  "p90_q": 1.1735426270502218,
+  "shift": null,
+  "shift_in_reference_order": null,
+  "split_explained": {
+   "pass": 0.1417380572666278,
+   "reference": 0.25890099172364356
+  },
+  "identity": {
+   "reference": "2026-10-02T08:18:16/2026-10-02T09:33:01",
+   "pass": "2026-10-02T09:33:01/2026-10-02T10:50:59"
+  }
+ }
+}

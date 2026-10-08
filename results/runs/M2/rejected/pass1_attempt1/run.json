@@ -1,0 +1,32 @@
+{
+ "pass": 1,
+ "seed": 0,
+ "attempt": 1,
+ "machine": "M2",
+ "clocksource": "hyperv_clocksource_tsc_page",
+ "clock_rate": [
+  {
+   "rate": 0.998436,
+   "wall_s": 3532.2
+  }
+ ],
+ "power": [
+  {
+   "ended_at": "2026-10-01T13:30:06-04:00",
+   "lines": 114,
+   "on_battery": 47,
+   "saver_on": 0,
+   "charge_min": 63,
+   "max_gap_s": 37.0,
+   "gaps": 0,
+   "host_cpu": {
+    "median": 32.0,
+    "max": 100
+   }
+  }
+ ],
+ "rejected": {
+  "at": "2026-10-01T13:30:06-04:00",
+  "reason": "47 power lines on battery"
+ }
+}

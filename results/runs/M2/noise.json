@@ -1,0 +1,93 @@
+{
+ "machine": "M2",
+ "query_dir": "queries\\tpch_sf1_v2",
+ "rejected_attempts": [
+  "pass1_attempt1",
+  "pass3_attempt1"
+ ],
+ "passes": [
+  1,
+  2,
+  3
+ ],
+ "n_queries": 680,
+ "n_ok": 680,
+ "status_counts": {
+  "ok": 680
+ },
+ "pass_to_pass": {
+  "pairs": 3,
+  "n": 2040,
+  "median_q": 1.0653148807245532,
+  "p90_q": 1.2451401709478194,
+  "max_q": 5.147653589061534
+ },
+ "pairs": {
+  "pass1_vs_pass2": {
+   "n_compared": 680,
+   "same_plan": 680,
+   "all": {
+    "n": 680,
+    "median_q": 1.0688780795002601,
+    "p90_q": 1.2321808896675681,
+    "max_q": 5.147653589061534,
+    "median_ratio": 0.991340888559261,
+    "ratio_p10": 0.8598763095140105,
+    "ratio_p90": 1.1414927842617009,
+    "log_corr": 0.9923063657038891,
+    "spearman": 0.9902067769242603,
+    "within_template_corr": 0.9584806438133706
+   },
+   "worst_template_median_q": {
+    "template": 13,
+    "q": 1.257690434109028
+   },
+   "longest_gap_s": 70.0,
+   "shift": null
+  },
+  "pass1_vs_pass3": {
+   "n_compared": 680,
+   "same_plan": 680,
+   "all": {
+    "n": 680,
+    "median_q": 1.0678307228064607,
+    "p90_q": 1.2477692196815533,
+    "max_q": 4.605447328071941,
+    "median_ratio": 0.997530566352433,
+    "ratio_p10": 0.8622712034736202,
+    "ratio_p90": 1.1795772407373768,
+    "log_corr": 0.9901892016499132,
+    "spearman": 0.9856092195702877,
+    "within_template_corr": 0.9479972872390605
+   },
+   "worst_template_median_q": {
+    "template": 21,
+    "q": 1.1855698050316454
+   },
+   "longest_gap_s": 75.0,
+   "shift": null
+  },
+  "pass2_vs_pass3": {
+   "n_compared": 680,
+   "same_plan": 680,
+   "all": {
+    "n": 680,
+    "median_q": 1.0613295369615616,
+    "p90_q": 1.2519531683178877,
+    "max_q": 4.9458093793852695,
+    "median_ratio": 1.0079542920829256,
+    "ratio_p10": 0.8737644747303548,
+    "ratio_p90": 1.1843723127386903,
+    "log_corr": 0.9887400401481711,
+    "spearman": 0.9867051793695361,
+    "within_template_corr": 0.9404576231051328
+   },
+   "worst_template_median_q": {
+    "template": 13,
+    "q": 1.2127909192550848
+   },
+   "longest_gap_s": 75.0,
+   "shift": null
+  }
+ }
+}

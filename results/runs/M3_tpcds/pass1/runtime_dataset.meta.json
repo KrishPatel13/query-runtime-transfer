@@ -1,0 +1,72 @@
+[
+ {
+  "started_at": "2026-10-02T03:37:03",
+  "finished_at": "2026-10-02T04:18:32",
+  "machine": "M3_tpcds",
+  "args": {
+   "query_dir": "queries/tpcds_sf1_kept",
+   "out": "/var/tmp/pgstudy/runs/M3_tpcds/pass1/runtime_dataset.csv",
+   "plan_dir": null,
+   "database_url": "postgresql:///tpcds",
+   "warmups": 1,
+   "repeats": 3,
+   "timeout_s": 300,
+   "seed": 0,
+   "no_shuffle": false,
+   "resume": false,
+   "overwrite": false,
+   "limit": null,
+   "machine": "M3_tpcds"
+  },
+  "statement_timeout_s": 300,
+  "server": {
+   "version": "PostgreSQL 18.6 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit",
+   "jit_available": false,
+   "settings": {
+    "application_name": "psql",
+    "autovacuum_worker_slots": "16",
+    "cpu_tuple_cost": "0.01",
+    "DateStyle": "ISO, MDY",
+    "default_statistics_target": "100",
+    "default_text_search_config": "pg_catalog.english",
+    "dynamic_shared_memory_type": "posix",
+    "effective_cache_size": "1048576",
+    "jit": "on",
+    "lc_messages": "C",
+    "lc_monetary": "C",
+    "lc_numeric": "C",
+    "lc_time": "C",
+    "listen_addresses": "",
+    "log_timezone": "America/Toronto",
+    "maintenance_work_mem": "1048576",
+    "max_connections": "100",
+    "max_parallel_workers_per_gather": "2",
+    "max_wal_size": "1024",
+    "min_wal_size": "80",
+    "port": "5469",
+    "random_page_cost": "4",
+    "seq_page_cost": "1",
+    "shared_buffers": "262144",
+    "statement_timeout": "300000",
+    "TimeZone": "America/Toronto",
+    "unix_socket_directories": "/var/tmp/pgstudy/tpcds/socket",
+    "unix_socket_permissions": "0700",
+    "work_mem": "65536"
+   },
+   "database_size": "2997 MB"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-117-generic-x86_64-with-glibc2.39",
+   "python": "3.13.2",
+   "cpu_count": 64,
+   "mem_total": "1055384256 kB",
+   "cpu_model": "AMD EPYC 9754 128-Core Processor",
+   "kernel": "6.8.0-117-generic",
+   "hostname": "server-a",
+   "cpus_usable": 64,
+   "virtual_machine": true
+  },
+  "n_queries": 482,
+  "stalls_detected": 0
+ }
+]

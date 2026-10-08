@@ -1,0 +1,119 @@
+[
+ {
+  "Plan": {
+   "Node Type": "Aggregate",
+   "Strategy": "Plain",
+   "Partial Mode": "Finalize",
+   "Parallel Aware": false,
+   "Async Capable": false,
+   "Startup Cost": 117898.31,
+   "Total Cost": 117898.33,
+   "Plan Rows": 1,
+   "Plan Width": 32,
+   "Disabled": false,
+   "Plans": [
+    {
+     "Node Type": "Gather",
+     "Parent Relationship": "Outer",
+     "Parallel Aware": false,
+     "Async Capable": false,
+     "Startup Cost": 117898.08,
+     "Total Cost": 117898.29,
+     "Plan Rows": 2,
+     "Plan Width": 64,
+     "Disabled": false,
+     "Workers Planned": 2,
+     "Single Copy": false,
+     "Plans": [
+      {
+       "Node Type": "Aggregate",
+       "Strategy": "Plain",
+       "Partial Mode": "Partial",
+       "Parent Relationship": "Outer",
+       "Parallel Aware": false,
+       "Async Capable": false,
+       "Startup Cost": 116898.08,
+       "Total Cost": 116898.09,
+       "Plan Rows": 1,
+       "Plan Width": 64,
+       "Disabled": false,
+       "Plans": [
+        {
+         "Node Type": "Hash Join",
+         "Parent Relationship": "Outer",
+         "Parallel Aware": true,
+         "Async Capable": false,
+         "Join Type": "Inner",
+         "Startup Cost": 7125.04,
+         "Total Cost": 116302.21,
+         "Plan Rows": 34049,
+         "Plan Width": 33,
+         "Disabled": false,
+         "Inner Unique": true,
+         "Hash Cond": "(lineitem.l_partkey = part.p_partkey)",
+         "Plans": [
+          {
+           "Node Type": "Bitmap Heap Scan",
+           "Parent Relationship": "Outer",
+           "Parallel Aware": true,
+           "Async Capable": false,
+           "Relation Name": "lineitem",
+           "Alias": "lineitem",
+           "Startup Cost": 1122.04,
+           "Total Cost": 110209.84,
+           "Plan Rows": 34049,
+           "Plan Width": 16,
+           "Disabled": false,
+           "Recheck Cond": "((l_shipdate >= '1994-01-01'::date) AND (l_shipdate < '1994-02-01 00:00:00'::timestamp without time zone))",
+           "Plans": [
+            {
+             "Node Type": "Bitmap Index Scan",
+             "Parent Relationship": "Outer",
+             "Parallel Aware": false,
+             "Async Capable": false,
+             "Index Name": "lineitem_l_shipdate_idx",
+             "Startup Cost": 0.0,
+             "Total Cost": 1101.61,
+             "Plan Rows": 81718,
+             "Plan Width": 0,
+             "Disabled": false,
+             "Index Cond": "((l_shipdate >= '1994-01-01'::date) AND (l_shipdate < '1994-02-01 00:00:00'::timestamp without time zone))"
+            }
+           ]
+          },
+          {
+           "Node Type": "Hash",
+           "Parent Relationship": "Inner",
+           "Parallel Aware": true,
+           "Async Capable": false,
+           "Startup Cost": 4961.33,
+           "Total Cost": 4961.33,
+           "Plan Rows": 83333,
+           "Plan Width": 25,
+           "Disabled": false,
+           "Plans": [
+            {
+             "Node Type": "Seq Scan",
+             "Parent Relationship": "Outer",
+             "Parallel Aware": true,
+             "Async Capable": false,
+             "Relation Name": "part",
+             "Alias": "part",
+             "Startup Cost": 0.0,
+             "Total Cost": 4961.33,
+             "Plan Rows": 83333,
+             "Plan Width": 25,
+             "Disabled": false
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

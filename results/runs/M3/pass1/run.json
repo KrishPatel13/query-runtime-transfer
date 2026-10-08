@@ -1,0 +1,13 @@
+{
+ "pass": 1,
+ "seed": 0,
+ "attempt": 1,
+ "machine": "M3",
+ "clocksource": "kvm-clock",
+ "clock_rate": [
+  {
+   "rate": 1.0,
+   "wall_s": 2068.7
+  }
+ ]
+}

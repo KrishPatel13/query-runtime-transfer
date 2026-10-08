@@ -1,0 +1,13 @@
+# PostgreSQL in /var/tmp/pgstudy/pgdata pinned to CPU 63 of 64 on server-a (2026-10-02T05:41:21-04:00)
+# command: taskset -c 63 pg_ctl start -w -l /var/tmp/pgstudy/postgres-M4.log
+postmaster 249474: 63
+child 249499 (postgres: io worker 2): 63
+child 249500 (postgres: io worker 0): 63
+child 249501 (postgres: io worker 1): 63
+child 249502 (postgres: checkpointer ): 63
+child 249503 (postgres: background writer ): 63
+child 249505 (postgres: walwriter ): 63
+child 249506 (postgres: autovacuum launcher ): 63
+child 249507 (postgres: logical replication launcher ): 63
+parallel worker 249581: 63
+parallel worker 249582: 63

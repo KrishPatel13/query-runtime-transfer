@@ -1,0 +1,16 @@
+{
+ "machines": [
+  "M1",
+  "M3"
+ ],
+ "pass": 1,
+ "shared": 680,
+ "same_plan": 680,
+ "only_in_a": [],
+ "only_in_b": [],
+ "mismatches": [],
+ "server": {
+  "version": null,
+  "settings": {}
+ }
+}

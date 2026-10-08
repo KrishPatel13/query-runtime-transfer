@@ -1,0 +1,28 @@
+{
+ "pass": 1,
+ "seed": 0,
+ "attempt": 1,
+ "machine": "M5_tpcds",
+ "clocksource": "hyperv_clocksource_tsc_page",
+ "clock_rate": [
+  {
+   "rate": 1.000047,
+   "wall_s": 2052.6
+  }
+ ],
+ "power": [
+  {
+   "ended_at": "2026-10-02T08:40:21-04:00",
+   "lines": 67,
+   "on_battery": 0,
+   "saver_on": 0,
+   "charge_min": 84,
+   "max_gap_s": 32.0,
+   "gaps": 0,
+   "host_cpu": {
+    "median": 15,
+    "max": 80
+   }
+  }
+ ]
+}

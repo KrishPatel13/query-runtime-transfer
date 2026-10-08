@@ -1,0 +1,13 @@
+name,strategy,method,tpch,tpcds
+No adaptation,random,none,1.8349667644220702,1.9631521727882464
+Speed factor,random,speed,1.37401139886578,1.4465018587531677
+Ridge correction,random,ridge,1.2369164507797816,1.3756431285162665
+Target only,random,target,1.5087653185262357,1.7960501363087944
+Pooled refit,random,pooled,1.3595948928696615,1.3597156587258512
+Forest on the errors,random,forest-resid,1.2220443109676449,1.2814040655797643
+Template lookup (no model),round-robin,lookup,1.2361699211987525,1.2401321083074246
+Template offsets,round-robin,template-raw,1.115593178663044,1.1882096960617912
+1-NN,round-robin,1-nn,1.104082899456825,1.1944100539260043
+Primary,round-robin,lowdim+template,1.1025309047082363,1.1873036085439268
+Oracle (whole target pool),random,oracle,1.0515228659812235,1.2638715592291316
+No move: primary,round-robin,lowdim+template (control),1.0789084221245002,1.1825495681656

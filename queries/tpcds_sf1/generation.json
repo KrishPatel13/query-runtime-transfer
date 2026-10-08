@@ -1,0 +1,1169 @@
+{
+ "generated_at": "2026-10-01T04:42:29",
+ "kit": {
+  "url": "https://github.com/gregrahn/tpcds-kit.git",
+  "commit": "5a3a81796992b725c2a8b216767e142609966752",
+  "dsqgen": "qgen2 Population Generator (Version 2.10.0)"
+ },
+ "dialect": "postgres.tpl",
+ "scale": "1",
+ "per_template_requested": 5,
+ "base_seed": 680,
+ "templates": 99,
+ "query_files": 512,
+ "two_statement_templates": [
+  14,
+  23,
+  24,
+  39
+ ],
+ "fewer_than_per_template": {
+  "2": 4
+ },
+ "rewrites": {
+  "interval": [
+   5,
+   12,
+   16,
+   20,
+   21,
+   32,
+   37,
+   40,
+   77,
+   80,
+   82,
+   92,
+   94,
+   95,
+   98
+  ],
+  "order_by_alias": [
+   36,
+   70,
+   86
+  ],
+  "split": [
+   14,
+   23,
+   24,
+   39
+  ]
+ },
+ "by_template": {
+  "1": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "2": {
+   "queries": 4,
+   "statements": 1,
+   "files": 4,
+   "files_per_part": [
+    4
+   ],
+   "tries": 200,
+   "rewrites": []
+  },
+  "3": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "4": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "5": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 6,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "6": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "7": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "8": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "9": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "10": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "11": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 7,
+   "rewrites": []
+  },
+  "12": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "13": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "14": {
+   "queries": 5,
+   "statements": 2,
+   "files": 8,
+   "files_per_part": [
+    3,
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "split"
+   ]
+  },
+  "15": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 8,
+   "rewrites": []
+  },
+  "16": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "17": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 15,
+   "rewrites": []
+  },
+  "18": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "19": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "20": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "21": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "22": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "23": {
+   "queries": 5,
+   "statements": 2,
+   "files": 10,
+   "files_per_part": [
+    5,
+    5
+   ],
+   "tries": 6,
+   "rewrites": [
+    "split"
+   ]
+  },
+  "24": {
+   "queries": 5,
+   "statements": 2,
+   "files": 10,
+   "files_per_part": [
+    5,
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "split"
+   ]
+  },
+  "25": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 7,
+   "rewrites": []
+  },
+  "26": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "27": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "28": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "29": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 6,
+   "rewrites": []
+  },
+  "30": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "31": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "32": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "33": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "34": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "35": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "36": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 12,
+   "rewrites": [
+    "order_by_alias"
+   ]
+  },
+  "37": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "38": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 7,
+   "rewrites": []
+  },
+  "39": {
+   "queries": 5,
+   "statements": 2,
+   "files": 10,
+   "files_per_part": [
+    5,
+    5
+   ],
+   "tries": 7,
+   "rewrites": [
+    "split"
+   ]
+  },
+  "40": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "41": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "42": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 8,
+   "rewrites": []
+  },
+  "43": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 12,
+   "rewrites": []
+  },
+  "44": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "45": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "46": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "47": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "48": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "49": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "50": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "51": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "52": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 6,
+   "rewrites": []
+  },
+  "53": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "54": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "55": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "56": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "57": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "58": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "59": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "60": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "61": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "62": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "63": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "64": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "65": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "66": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "67": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "68": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "69": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "70": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "order_by_alias"
+   ]
+  },
+  "71": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "72": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "73": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 6,
+   "rewrites": []
+  },
+  "74": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "75": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "76": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "77": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "78": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "79": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "80": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "81": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "82": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "83": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "84": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "85": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "86": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "order_by_alias"
+   ]
+  },
+  "87": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 7,
+   "rewrites": []
+  },
+  "88": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 7,
+   "rewrites": []
+  },
+  "89": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "90": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "91": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "92": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "93": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "94": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "95": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "96": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "97": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  },
+  "98": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": [
+    "interval"
+   ]
+  },
+  "99": {
+   "queries": 5,
+   "statements": 1,
+   "files": 5,
+   "files_per_part": [
+    5
+   ],
+   "tries": 5,
+   "rewrites": []
+  }
+ },
+ "explain_check": {
+  "checked_at": "2026-10-01T04:42:36",
+  "server_version": "PostgreSQL 18.6 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit",
+  "database_size": "2997 MB",
+  "queries": 512,
+  "accepted": 512,
+  "errors": {}
+ },
+ "families": {
+  "families": 81,
+  "multi_template_families": {
+   "3": [
+    3,
+    42,
+    52
+   ],
+   "7": [
+    7,
+    26
+   ],
+   "10": [
+    10,
+    69
+   ],
+   "12": [
+    12,
+    20,
+    98
+   ],
+   "13": [
+    13,
+    48
+   ],
+   "25": [
+    25,
+    29
+   ],
+   "32": [
+    32,
+    92
+   ],
+   "33": [
+    33,
+    56,
+    60
+   ],
+   "34": [
+    34,
+    73
+   ],
+   "37": [
+    37,
+    82
+   ],
+   "38": [
+    38,
+    87
+   ],
+   "46": [
+    46,
+    68
+   ],
+   "47": [
+    47,
+    57
+   ],
+   "53": [
+    53,
+    63
+   ],
+   "62": [
+    62,
+    99
+   ]
+  }
+ }
+}

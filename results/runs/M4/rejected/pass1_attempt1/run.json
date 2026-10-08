@@ -1,0 +1,17 @@
+{
+ "pass": 1,
+ "seed": 0,
+ "attempt": 1,
+ "machine": "M4",
+ "clocksource": "kvm-clock",
+ "clock_rate": [
+  {
+   "rate": 1.0,
+   "wall_s": 4685.6
+  }
+ ],
+ "rejected": {
+  "at": "2026-10-02T08:18:16-04:00",
+  "reason": "level shift of 0.81x after query 520 of 680 (at 2026-10-02T06:46:54), found against pass 2"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "machine": "M3_tpcds",
+ "query_dir": "queries/tpcds_sf1_kept",
+ "passes_planned": 3,
+ "updated_at": "2026-10-02T05:40:25-04:00",
+ "host": {
+  "platform": "Linux-6.8.0-117-generic-x86_64-with-glibc2.39",
+  "python": "3.13.2",
+  "cpu_count": 64,
+  "mem_total": "1055384256 kB",
+  "cpu_model": "AMD EPYC 9754 128-Core Processor",
+  "kernel": "6.8.0-117-generic",
+  "hostname": "server-a",
+  "cpus_usable": 64,
+  "virtual_machine": true
+ },
+ "passes": [
+  {
+   "dir": "pass1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T03:37:03",
+   "finished_at": "2026-10-02T04:18:32",
+   "rows": 482,
+   "status_counts": {
+    "ok": 482
+   },
+   "load1": {
+    "median": 16.84,
+    "max": 17.78
+   },
+   "power": [],
+   "check": null,
+   "rejected": null
+  },
+  {
+   "dir": "pass2",
+   "pass": 2,
+   "seed": 1,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T04:18:32",
+   "finished_at": "2026-10-02T04:59:53",
+   "rows": 482,
+   "status_counts": {
+    "ok": 482
+   },
+   "load1": {
+    "median": 16.68,
+    "max": 17.96
+   },
+   "power": [],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass2",
+    "n_compared": 482,
+    "same_plan": 482,
+    "median_q": 1.044393089126273,
+    "p90_q": 1.18342709749167,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.0638686842417121,
+     "reference": 0.010629457850326207
+    },
+    "identity": {
+     "reference": "2026-10-02T03:37:03/2026-10-02T04:18:32",
+     "pass": "2026-10-02T04:18:32/2026-10-02T04:59:53"
+    }
+   },
+   "rejected": null
+  },
+  {
+   "dir": "pass3",
+   "pass": 3,
+   "seed": 2,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T04:59:53",
+   "finished_at": "2026-10-02T05:40:24",
+   "rows": 482,
+   "status_counts": {
+    "ok": 482
+   },
+   "load1": {
+    "median": 17.025,
+    "max": 20.68
+   },
+   "power": [],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass3",
+    "n_compared": 482,
+    "same_plan": 482,
+    "median_q": 1.0484177958302903,
+    "p90_q": 1.1824360077997405,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.016543243044279676,
+     "reference": 0.020105686865268035
+    },
+    "identity": {
+     "reference": "2026-10-02T03:37:03/2026-10-02T04:18:32",
+     "pass": "2026-10-02T04:59:53/2026-10-02T05:40:24"
+    }
+   },
+   "rejected": null
+  }
+ ],
+ "rejected": []
+}

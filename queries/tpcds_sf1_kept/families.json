@@ -1,0 +1,249 @@
+{
+ "rule": "templates are linked when the token similarity (difflib ratio, literals masked) of their first queries is at least 0.85; a family is a connected component of linked templates, named by its smallest template",
+ "threshold": 0.85,
+ "templates": 99,
+ "families": 81,
+ "multi_template_families": {
+  "3": [
+   3,
+   42,
+   52
+  ],
+  "7": [
+   7,
+   26
+  ],
+  "10": [
+   10,
+   69
+  ],
+  "12": [
+   12,
+   20,
+   98
+  ],
+  "13": [
+   13,
+   48
+  ],
+  "25": [
+   25,
+   29
+  ],
+  "32": [
+   32,
+   92
+  ],
+  "33": [
+   33,
+   56,
+   60
+  ],
+  "34": [
+   34,
+   73
+  ],
+  "37": [
+   37,
+   82
+  ],
+  "38": [
+   38,
+   87
+  ],
+  "46": [
+   46,
+   68
+  ],
+  "47": [
+   47,
+   57
+  ],
+  "53": [
+   53,
+   63
+  ],
+  "62": [
+   62,
+   99
+  ]
+ },
+ "pairs_from": 0.7,
+ "pairs": [
+  {
+   "a": 37,
+   "b": 82,
+   "similarity": 0.9767
+  },
+  {
+   "a": 56,
+   "b": 60,
+   "similarity": 0.9536
+  },
+  {
+   "a": 53,
+   "b": 63,
+   "similarity": 0.9471
+  },
+  {
+   "a": 12,
+   "b": 20,
+   "similarity": 0.9455
+  },
+  {
+   "a": 38,
+   "b": 87,
+   "similarity": 0.9449
+  },
+  {
+   "a": 12,
+   "b": 98,
+   "similarity": 0.9358
+  },
+  {
+   "a": 20,
+   "b": 98,
+   "similarity": 0.9358
+  },
+  {
+   "a": 33,
+   "b": 60,
+   "similarity": 0.9348
+  },
+  {
+   "a": 3,
+   "b": 52,
+   "similarity": 0.9286
+  },
+  {
+   "a": 34,
+   "b": 73,
+   "similarity": 0.9054
+  },
+  {
+   "a": 33,
+   "b": 56,
+   "similarity": 0.8983
+  },
+  {
+   "a": 7,
+   "b": 26,
+   "similarity": 0.8966
+  },
+  {
+   "a": 47,
+   "b": 57,
+   "similarity": 0.8904
+  },
+  {
+   "a": 10,
+   "b": 69,
+   "similarity": 0.8873
+  },
+  {
+   "a": 13,
+   "b": 48,
+   "similarity": 0.8871
+  },
+  {
+   "a": 25,
+   "b": 29,
+   "similarity": 0.879
+  },
+  {
+   "a": 62,
+   "b": 99,
+   "similarity": 0.8713
+  },
+  {
+   "a": 32,
+   "b": 92,
+   "similarity": 0.8621
+  },
+  {
+   "a": 46,
+   "b": 68,
+   "similarity": 0.8596
+  },
+  {
+   "a": 42,
+   "b": 52,
+   "similarity": 0.8556
+  },
+  {
+   "a": 30,
+   "b": 81,
+   "similarity": 0.8146
+  },
+  {
+   "a": 11,
+   "b": 74,
+   "similarity": 0.8068
+  },
+  {
+   "a": 3,
+   "b": 42,
+   "similarity": 0.8046
+  },
+  {
+   "a": 36,
+   "b": 86,
+   "similarity": 0.7943
+  },
+  {
+   "a": 15,
+   "b": 45,
+   "similarity": 0.7656
+  },
+  {
+   "a": 46,
+   "b": 79,
+   "similarity": 0.7619
+  },
+  {
+   "a": 2,
+   "b": 59,
+   "similarity": 0.7587
+  },
+  {
+   "a": 4,
+   "b": 11,
+   "similarity": 0.7463
+  },
+  {
+   "a": 21,
+   "b": 40,
+   "similarity": 0.7427
+  },
+  {
+   "a": 52,
+   "b": 55,
+   "similarity": 0.7338
+  },
+  {
+   "a": 10,
+   "b": 35,
+   "similarity": 0.731
+  },
+  {
+   "a": 35,
+   "b": 69,
+   "similarity": 0.7305
+  },
+  {
+   "a": 7,
+   "b": 27,
+   "similarity": 0.7282
+  },
+  {
+   "a": 16,
+   "b": 94,
+   "similarity": 0.7176
+  },
+  {
+   "a": 94,
+   "b": 95,
+   "similarity": 0.7071
+  }
+ ]
+}

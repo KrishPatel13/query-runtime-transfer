@@ -1,0 +1,202 @@
+{
+ "machine": "M1",
+ "query_dir": "queries/tpch_sf1_v2",
+ "passes_planned": 3,
+ "updated_at": "2026-09-30T23:18:54-04:00",
+ "host": {
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "cpu_count": 22,
+  "mem_total": "16117920 kB",
+  "cpu_model": "Intel(R) Core(TM) Ultra 7 155H",
+  "kernel": "6.18.33.2-microsoft-standard-WSL2",
+  "hostname": "laptop",
+  "cpus_usable": 22,
+  "virtual_machine": true
+ },
+ "passes": [
+  {
+   "dir": "pass1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 2,
+   "finished": true,
+   "started_at": "2026-09-30T22:57:56",
+   "finished_at": "2026-09-30T23:18:42",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 3.08,
+    "max": 5.21
+   },
+   "power": [
+    {
+     "ended_at": "2026-09-30T23:18:42-04:00",
+     "lines": 41,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 77,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 30,
+      "max": 100
+     }
+    }
+   ],
+   "check": null,
+   "rejected": null
+  },
+  {
+   "dir": "pass2",
+   "pass": 2,
+   "seed": 1,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-09-30T22:14:15",
+   "finished_at": "2026-09-30T22:35:43",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 2.85,
+    "max": 3.61
+   },
+   "power": [
+    {
+     "ended_at": "2026-09-30T22:35:43-04:00",
+     "lines": 41,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 81,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 33,
+      "max": 74
+     }
+    }
+   ],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass2",
+    "n_compared": 680,
+    "same_plan": 680,
+    "median_q": 1.067258352495051,
+    "p90_q": 1.2318407572138113,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.010699764580472615,
+     "reference": 0.09680876204574695
+    },
+    "identity": {
+     "reference": "2026-09-30T22:57:56/2026-09-30T23:18:42",
+     "pass": "2026-09-30T22:14:15/2026-09-30T22:35:43"
+    }
+   },
+   "rejected": null
+  },
+  {
+   "dir": "pass3",
+   "pass": 3,
+   "seed": 2,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-09-30T22:35:54",
+   "finished_at": "2026-09-30T22:55:09",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 2.85,
+    "max": 3.63
+   },
+   "power": [
+    {
+     "ended_at": "2026-09-30T22:55:10-04:00",
+     "lines": 37,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 79,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 25,
+      "max": 53
+     }
+    }
+   ],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass3",
+    "n_compared": 680,
+    "same_plan": 680,
+    "median_q": 1.0575932806321662,
+    "p90_q": 1.1978313212648555,
+    "shift": null,
+    "shift_in_reference_order": {
+     "after_query_number": 30,
+     "of": 680,
+     "at": "2026-09-30T22:59:16",
+     "level_change": 1.1086941424232952,
+     "median_ratio_before": 0.877196923120662,
+     "median_ratio_after": 0.9725430904156156,
+     "explained": 0.13254218791256878
+    },
+    "split_explained": {
+     "pass": 0.005563451895916338,
+     "reference": 0.13254218791256878
+    },
+    "identity": {
+     "reference": "2026-09-30T22:57:56/2026-09-30T23:18:42",
+     "pass": "2026-09-30T22:35:54/2026-09-30T22:55:09"
+    }
+   },
+   "rejected": null
+  }
+ ],
+ "rejected": [
+  {
+   "dir": "rejected/pass1_attempt1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-09-30T21:50:51",
+   "finished_at": "2026-09-30T22:14:14",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 2.94,
+    "max": 5.46
+   },
+   "power": [
+    {
+     "ended_at": "2026-09-30T22:14:15-04:00",
+     "lines": 46,
+     "on_battery": 0,
+     "saver_on": 0,
+     "charge_min": 86,
+     "max_gap_s": 32.0,
+     "gaps": 0,
+     "host_cpu": {
+      "median": 43.5,
+      "max": 100
+     }
+    }
+   ],
+   "check": null,
+   "rejected": {
+    "at": "2026-09-30T22:57:46-04:00",
+    "reason": "level 12% slower than pass 3 (median ratio pass3/pass1 0.880, pass2/pass1 0.953) with no shift inside it; the power log shows other programs using the CPU during it (Windows CPU median 43.5%, max 100%, against 25% and 53% in pass 3)"
+   }
+  }
+ ]
+}

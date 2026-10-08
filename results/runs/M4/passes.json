@@ -1,0 +1,138 @@
+{
+ "machine": "M4",
+ "query_dir": "queries/tpch_sf1_v2",
+ "passes_planned": 3,
+ "updated_at": "2026-10-02T10:51:00-04:00",
+ "host": {
+  "platform": "Linux-6.8.0-117-generic-x86_64-with-glibc2.39",
+  "python": "3.13.2",
+  "cpu_count": 64,
+  "mem_total": "1055384256 kB",
+  "cpu_model": "AMD EPYC 9754 128-Core Processor",
+  "kernel": "6.8.0-117-generic",
+  "hostname": "server-a",
+  "cpus_usable": 64,
+  "virtual_machine": true
+ },
+ "passes": [
+  {
+   "dir": "pass1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 2,
+   "finished": true,
+   "started_at": "2026-10-02T08:18:16",
+   "finished_at": "2026-10-02T09:33:01",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 17.52,
+    "max": 42.41
+   },
+   "power": [],
+   "check": null,
+   "rejected": null
+  },
+  {
+   "dir": "pass2",
+   "pass": 2,
+   "seed": 1,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T07:04:30",
+   "finished_at": "2026-10-02T08:18:16",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 17.6,
+    "max": 42.3
+   },
+   "power": [],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass2",
+    "n_compared": 680,
+    "same_plan": 680,
+    "median_q": 1.0311155467841004,
+    "p90_q": 1.2145140663734546,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.08863209040841624,
+     "reference": 0.16498221921818712
+    },
+    "identity": {
+     "reference": "2026-10-02T08:18:16/2026-10-02T09:33:01",
+     "pass": "2026-10-02T07:04:30/2026-10-02T08:18:16"
+    }
+   },
+   "rejected": null
+  },
+  {
+   "dir": "pass3",
+   "pass": 3,
+   "seed": 2,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T09:33:01",
+   "finished_at": "2026-10-02T10:50:59",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 17.26,
+    "max": 18.51
+   },
+   "power": [],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass3",
+    "n_compared": 680,
+    "same_plan": 680,
+    "median_q": 1.0778567866844084,
+    "p90_q": 1.1735426270502218,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.1417380572666278,
+     "reference": 0.25890099172364356
+    },
+    "identity": {
+     "reference": "2026-10-02T08:18:16/2026-10-02T09:33:01",
+     "pass": "2026-10-02T09:33:01/2026-10-02T10:50:59"
+    }
+   },
+   "rejected": null
+  }
+ ],
+ "rejected": [
+  {
+   "dir": "rejected/pass1_attempt1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T05:46:24",
+   "finished_at": "2026-10-02T07:04:30",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 17.595,
+    "max": 18.84
+   },
+   "power": [],
+   "check": null,
+   "rejected": {
+    "at": "2026-10-02T08:18:16-04:00",
+    "reason": "level shift of 0.81x after query 520 of 680 (at 2026-10-02T06:46:54), found against pass 2"
+   }
+  }
+ ]
+}

@@ -1,0 +1,601 @@
+order,batch,machine,start,after_switch,size,method,median_q,n_train
+0,0,M1,0,-204,11,Never update,1.04747,0
+0,0,M1,0,-204,11,Refit on all so far,1.04747,0
+0,0,M1,0,-204,11,Refit on the last 50,1.04747,0
+0,1,M1,11,-193,11,Never update,1.05149,0
+0,1,M1,11,-193,11,Refit on all so far,1.06031,11
+0,1,M1,11,-193,11,Refit on the last 50,1.06031,11
+0,2,M1,22,-182,11,Never update,1.04698,0
+0,2,M1,22,-182,11,Refit on all so far,1.03536,22
+0,2,M1,22,-182,11,Refit on the last 50,1.03536,22
+0,3,M1,33,-171,11,Never update,1.06898,0
+0,3,M1,33,-171,11,Refit on all so far,1.0426,33
+0,3,M1,33,-171,11,Refit on the last 50,1.0426,33
+0,4,M1,44,-160,10,Never update,1.03033,0
+0,4,M1,44,-160,10,Refit on all so far,1.04893,44
+0,4,M1,44,-160,10,Refit on the last 50,1.04893,44
+0,5,M1,54,-150,10,Never update,1.02528,0
+0,5,M1,54,-150,10,Refit on all so far,1.04574,54
+0,5,M1,54,-150,10,Refit on the last 50,1.05161,50
+0,6,M1,64,-140,10,Never update,1.06548,0
+0,6,M1,64,-140,10,Refit on all so far,1.08338,64
+0,6,M1,64,-140,10,Refit on the last 50,1.08445,50
+0,7,M1,74,-130,10,Never update,1.07989,0
+0,7,M1,74,-130,10,Refit on all so far,1.09294,74
+0,7,M1,74,-130,10,Refit on the last 50,1.09212,50
+0,8,M1,84,-120,10,Never update,1.03212,0
+0,8,M1,84,-120,10,Refit on all so far,1.03816,84
+0,8,M1,84,-120,10,Refit on the last 50,1.03214,50
+0,9,M1,94,-110,10,Never update,1.03427,0
+0,9,M1,94,-110,10,Refit on all so far,1.0267,94
+0,9,M1,94,-110,10,Refit on the last 50,1.04136,50
+0,10,M1,104,-100,10,Never update,1.02448,0
+0,10,M1,104,-100,10,Refit on all so far,1.02174,104
+0,10,M1,104,-100,10,Refit on the last 50,1.03385,50
+0,11,M1,114,-90,10,Never update,1.06699,0
+0,11,M1,114,-90,10,Refit on all so far,1.05688,114
+0,11,M1,114,-90,10,Refit on the last 50,1.11704,50
+0,12,M1,124,-80,10,Never update,1.02834,0
+0,12,M1,124,-80,10,Refit on all so far,1.03116,124
+0,12,M1,124,-80,10,Refit on the last 50,1.02751,50
+0,13,M1,134,-70,10,Never update,1.04293,0
+0,13,M1,134,-70,10,Refit on all so far,1.04477,134
+0,13,M1,134,-70,10,Refit on the last 50,1.04375,50
+0,14,M1,144,-60,10,Never update,1.02826,0
+0,14,M1,144,-60,10,Refit on all so far,1.02588,144
+0,14,M1,144,-60,10,Refit on the last 50,1.02619,50
+0,15,M1,154,-50,10,Never update,1.03256,0
+0,15,M1,154,-50,10,Refit on all so far,1.03258,154
+0,15,M1,154,-50,10,Refit on the last 50,1.03256,50
+0,16,M1,164,-40,10,Never update,1.04401,0
+0,16,M1,164,-40,10,Refit on all so far,1.044,164
+0,16,M1,164,-40,10,Refit on the last 50,1.07083,50
+0,17,M1,174,-30,10,Never update,1.0612,0
+0,17,M1,174,-30,10,Refit on all so far,1.055,174
+0,17,M1,174,-30,10,Refit on the last 50,1.06007,50
+0,18,M1,184,-20,10,Never update,1.04735,0
+0,18,M1,184,-20,10,Refit on all so far,1.04734,184
+0,18,M1,184,-20,10,Refit on the last 50,1.04736,50
+0,19,M1,194,-10,10,Never update,1.03742,0
+0,19,M1,194,-10,10,Refit on all so far,1.03742,194
+0,19,M1,194,-10,10,Refit on the last 50,1.03742,50
+0,20,M2,204,0,11,Never update,2.70149,0
+0,20,M2,204,0,11,Refit on all so far,2.69102,204
+0,20,M2,204,0,11,Refit on the last 50,2.70425,50
+0,21,M2,215,11,11,Never update,2.5951,0
+0,21,M2,215,11,11,Refit on all so far,2.46366,215
+0,21,M2,215,11,11,Refit on the last 50,2.08293,50
+0,22,M2,226,22,11,Never update,2.82735,0
+0,22,M2,226,22,11,Refit on all so far,2.58999,226
+0,22,M2,226,22,11,Refit on the last 50,1.15444,50
+0,23,M2,237,33,11,Never update,2.39585,0
+0,23,M2,237,33,11,Refit on all so far,2.0955,237
+0,23,M2,237,33,11,Refit on the last 50,1.22095,50
+0,24,M2,248,44,10,Never update,2.75811,0
+0,24,M2,248,44,10,Refit on all so far,2.35532,248
+0,24,M2,248,44,10,Refit on the last 50,1.08853,50
+0,25,M2,258,54,10,Never update,2.40679,0
+0,25,M2,258,54,10,Refit on all so far,1.98975,258
+0,25,M2,258,54,10,Refit on the last 50,1.06291,50
+0,26,M2,268,64,10,Never update,2.40366,0
+0,26,M2,268,64,10,Refit on all so far,1.96213,268
+0,26,M2,268,64,10,Refit on the last 50,1.09878,50
+0,27,M2,278,74,10,Never update,1.51233,0
+0,27,M2,278,74,10,Refit on all so far,1.21189,278
+0,27,M2,278,74,10,Refit on the last 50,1.24328,50
+0,28,M2,288,84,10,Never update,1.64825,0
+0,28,M2,288,84,10,Refit on all so far,1.41683,288
+0,28,M2,288,84,10,Refit on the last 50,1.079,50
+0,29,M2,298,94,10,Never update,2.33671,0
+0,29,M2,298,94,10,Refit on all so far,1.79844,298
+0,29,M2,298,94,10,Refit on the last 50,1.06367,50
+0,30,M2,308,104,10,Never update,1.86036,0
+0,30,M2,308,104,10,Refit on all so far,1.58614,308
+0,30,M2,308,104,10,Refit on the last 50,1.0462,50
+0,31,M2,318,114,10,Never update,2.31301,0
+0,31,M2,318,114,10,Refit on all so far,1.73684,318
+0,31,M2,318,114,10,Refit on the last 50,1.1361,50
+0,32,M2,328,124,10,Never update,2.01495,0
+0,32,M2,328,124,10,Refit on all so far,1.49921,328
+0,32,M2,328,124,10,Refit on the last 50,1.12381,50
+0,33,M2,338,134,10,Never update,1.97321,0
+0,33,M2,338,134,10,Refit on all so far,1.53252,338
+0,33,M2,338,134,10,Refit on the last 50,1.12358,50
+0,34,M2,348,144,10,Never update,2.81294,0
+0,34,M2,348,144,10,Refit on all so far,1.94125,348
+0,34,M2,348,144,10,Refit on the last 50,1.12119,50
+0,35,M2,358,154,10,Never update,2.41358,0
+0,35,M2,358,154,10,Refit on all so far,1.64647,358
+0,35,M2,358,154,10,Refit on the last 50,1.10799,50
+0,36,M2,368,164,10,Never update,2.81791,0
+0,36,M2,368,164,10,Refit on all so far,2.06169,368
+0,36,M2,368,164,10,Refit on the last 50,1.12694,50
+0,37,M2,378,174,10,Never update,2.55821,0
+0,37,M2,378,174,10,Refit on all so far,1.70688,378
+0,37,M2,378,174,10,Refit on the last 50,1.17938,50
+0,38,M2,388,184,10,Never update,3.12201,0
+0,38,M2,388,184,10,Refit on all so far,1.97993,388
+0,38,M2,388,184,10,Refit on the last 50,1.12198,50
+0,39,M2,398,194,10,Never update,2.42688,0
+0,39,M2,398,194,10,Refit on all so far,1.69575,398
+0,39,M2,398,194,10,Refit on the last 50,1.18714,50
+1,0,M1,0,-204,11,Never update,1.05655,0
+1,0,M1,0,-204,11,Refit on all so far,1.05655,0
+1,0,M1,0,-204,11,Refit on the last 50,1.05655,0
+1,1,M1,11,-193,11,Never update,1.02377,0
+1,1,M1,11,-193,11,Refit on all so far,1.06166,11
+1,1,M1,11,-193,11,Refit on the last 50,1.06166,11
+1,2,M1,22,-182,11,Never update,1.04921,0
+1,2,M1,22,-182,11,Refit on all so far,1.05011,22
+1,2,M1,22,-182,11,Refit on the last 50,1.05011,22
+1,3,M1,33,-171,11,Never update,1.02865,0
+1,3,M1,33,-171,11,Refit on all so far,1.04092,33
+1,3,M1,33,-171,11,Refit on the last 50,1.04092,33
+1,4,M1,44,-160,10,Never update,1.05794,0
+1,4,M1,44,-160,10,Refit on all so far,1.04986,44
+1,4,M1,44,-160,10,Refit on the last 50,1.04986,44
+1,5,M1,54,-150,10,Never update,1.05914,0
+1,5,M1,54,-150,10,Refit on all so far,1.06165,54
+1,5,M1,54,-150,10,Refit on the last 50,1.06225,50
+1,6,M1,64,-140,10,Never update,1.05481,0
+1,6,M1,64,-140,10,Refit on all so far,1.06188,64
+1,6,M1,64,-140,10,Refit on the last 50,1.04333,50
+1,7,M1,74,-130,10,Never update,1.04311,0
+1,7,M1,74,-130,10,Refit on all so far,1.03474,74
+1,7,M1,74,-130,10,Refit on the last 50,1.06125,50
+1,8,M1,84,-120,10,Never update,1.05202,0
+1,8,M1,84,-120,10,Refit on all so far,1.04637,84
+1,8,M1,84,-120,10,Refit on the last 50,1.0476,50
+1,9,M1,94,-110,10,Never update,1.02943,0
+1,9,M1,94,-110,10,Refit on all so far,1.02934,94
+1,9,M1,94,-110,10,Refit on the last 50,1.02933,50
+1,10,M1,104,-100,10,Never update,1.03236,0
+1,10,M1,104,-100,10,Refit on all so far,1.03367,104
+1,10,M1,104,-100,10,Refit on the last 50,1.02368,50
+1,11,M1,114,-90,10,Never update,1.04124,0
+1,11,M1,114,-90,10,Refit on all so far,1.04182,114
+1,11,M1,114,-90,10,Refit on the last 50,1.03607,50
+1,12,M1,124,-80,10,Never update,1.05557,0
+1,12,M1,124,-80,10,Refit on all so far,1.05597,124
+1,12,M1,124,-80,10,Refit on the last 50,1.05566,50
+1,13,M1,134,-70,10,Never update,1.02879,0
+1,13,M1,134,-70,10,Refit on all so far,1.02468,134
+1,13,M1,134,-70,10,Refit on the last 50,1.01497,50
+1,14,M1,144,-60,10,Never update,1.08775,0
+1,14,M1,144,-60,10,Refit on all so far,1.09547,144
+1,14,M1,144,-60,10,Refit on the last 50,1.12006,50
+1,15,M1,154,-50,10,Never update,1.01844,0
+1,15,M1,154,-50,10,Refit on all so far,1.01856,154
+1,15,M1,154,-50,10,Refit on the last 50,1.02964,50
+1,16,M1,164,-40,10,Never update,1.05973,0
+1,16,M1,164,-40,10,Refit on all so far,1.05972,164
+1,16,M1,164,-40,10,Refit on the last 50,1.06637,50
+1,17,M1,174,-30,10,Never update,1.04866,0
+1,17,M1,174,-30,10,Refit on all so far,1.0528,174
+1,17,M1,174,-30,10,Refit on the last 50,1.05272,50
+1,18,M1,184,-20,10,Never update,1.04485,0
+1,18,M1,184,-20,10,Refit on all so far,1.04875,184
+1,18,M1,184,-20,10,Refit on the last 50,1.04479,50
+1,19,M1,194,-10,10,Never update,1.02868,0
+1,19,M1,194,-10,10,Refit on all so far,1.02481,194
+1,19,M1,194,-10,10,Refit on the last 50,1.02869,50
+1,20,M2,204,0,11,Never update,2.0445,0
+1,20,M2,204,0,11,Refit on all so far,2.0366,204
+1,20,M2,204,0,11,Refit on the last 50,2.09962,50
+1,21,M2,215,11,11,Never update,1.88447,0
+1,21,M2,215,11,11,Refit on all so far,1.81322,215
+1,21,M2,215,11,11,Refit on the last 50,1.6396,50
+1,22,M2,226,22,11,Never update,2.58728,0
+1,22,M2,226,22,11,Refit on all so far,2.43197,226
+1,22,M2,226,22,11,Refit on the last 50,1.98617,50
+1,23,M2,237,33,11,Never update,2.17614,0
+1,23,M2,237,33,11,Refit on all so far,1.96805,237
+1,23,M2,237,33,11,Refit on the last 50,1.68039,50
+1,24,M2,248,44,10,Never update,2.81136,0
+1,24,M2,248,44,10,Refit on all so far,2.46633,248
+1,24,M2,248,44,10,Refit on the last 50,1.31717,50
+1,25,M2,258,54,10,Never update,2.48128,0
+1,25,M2,258,54,10,Refit on all so far,2.11208,258
+1,25,M2,258,54,10,Refit on the last 50,1.11841,50
+1,26,M2,268,64,10,Never update,2.46942,0
+1,26,M2,268,64,10,Refit on all so far,2.07256,268
+1,26,M2,268,64,10,Refit on the last 50,1.10922,50
+1,27,M2,278,74,10,Never update,2.24715,0
+1,27,M2,278,74,10,Refit on all so far,1.7981,278
+1,27,M2,278,74,10,Refit on the last 50,1.10385,50
+1,28,M2,288,84,10,Never update,2.52963,0
+1,28,M2,288,84,10,Refit on all so far,2.00337,288
+1,28,M2,288,84,10,Refit on the last 50,1.15098,50
+1,29,M2,298,94,10,Never update,1.79086,0
+1,29,M2,298,94,10,Refit on all so far,1.52336,298
+1,29,M2,298,94,10,Refit on the last 50,1.12578,50
+1,30,M2,308,104,10,Never update,2.27467,0
+1,30,M2,308,104,10,Refit on all so far,1.77749,308
+1,30,M2,308,104,10,Refit on the last 50,1.1732,50
+1,31,M2,318,114,10,Never update,2.62508,0
+1,31,M2,318,114,10,Refit on all so far,1.99947,318
+1,31,M2,318,114,10,Refit on the last 50,1.10106,50
+1,32,M2,328,124,10,Never update,2.7574,0
+1,32,M2,328,124,10,Refit on all so far,1.9373,328
+1,32,M2,328,124,10,Refit on the last 50,1.15934,50
+1,33,M2,338,134,10,Never update,1.86488,0
+1,33,M2,338,134,10,Refit on all so far,1.38443,338
+1,33,M2,338,134,10,Refit on the last 50,1.12,50
+1,34,M2,348,144,10,Never update,2.67008,0
+1,34,M2,348,144,10,Refit on all so far,1.87365,348
+1,34,M2,348,144,10,Refit on the last 50,1.06817,50
+1,35,M2,358,154,10,Never update,1.88296,0
+1,35,M2,358,154,10,Refit on all so far,1.47422,358
+1,35,M2,358,154,10,Refit on the last 50,1.10253,50
+1,36,M2,368,164,10,Never update,2.69293,0
+1,36,M2,368,164,10,Refit on all so far,1.89736,368
+1,36,M2,368,164,10,Refit on the last 50,1.08029,50
+1,37,M2,378,174,10,Never update,2.52014,0
+1,37,M2,378,174,10,Refit on all so far,1.6441,378
+1,37,M2,378,174,10,Refit on the last 50,1.09264,50
+1,38,M2,388,184,10,Never update,2.87977,0
+1,38,M2,388,184,10,Refit on all so far,1.87206,388
+1,38,M2,388,184,10,Refit on the last 50,1.05138,50
+1,39,M2,398,194,10,Never update,2.20131,0
+1,39,M2,398,194,10,Refit on all so far,1.42827,398
+1,39,M2,398,194,10,Refit on the last 50,1.11352,50
+2,0,M1,0,-204,11,Never update,1.0278,0
+2,0,M1,0,-204,11,Refit on all so far,1.0278,0
+2,0,M1,0,-204,11,Refit on the last 50,1.0278,0
+2,1,M1,11,-193,11,Never update,1.02791,0
+2,1,M1,11,-193,11,Refit on all so far,1.05209,11
+2,1,M1,11,-193,11,Refit on the last 50,1.05209,11
+2,2,M1,22,-182,11,Never update,1.0576,0
+2,2,M1,22,-182,11,Refit on all so far,1.05929,22
+2,2,M1,22,-182,11,Refit on the last 50,1.05929,22
+2,3,M1,33,-171,11,Never update,1.04747,0
+2,3,M1,33,-171,11,Refit on all so far,1.0488,33
+2,3,M1,33,-171,11,Refit on the last 50,1.0488,33
+2,4,M1,44,-160,10,Never update,1.06149,0
+2,4,M1,44,-160,10,Refit on all so far,1.05948,44
+2,4,M1,44,-160,10,Refit on the last 50,1.05948,44
+2,5,M1,54,-150,10,Never update,1.02156,0
+2,5,M1,54,-150,10,Refit on all so far,1.04366,54
+2,5,M1,54,-150,10,Refit on the last 50,1.03717,50
+2,6,M1,64,-140,10,Never update,1.03591,0
+2,6,M1,64,-140,10,Refit on all so far,1.04561,64
+2,6,M1,64,-140,10,Refit on the last 50,1.05304,50
+2,7,M1,74,-130,10,Never update,1.05736,0
+2,7,M1,74,-130,10,Refit on all so far,1.05868,74
+2,7,M1,74,-130,10,Refit on the last 50,1.0564,50
+2,8,M1,84,-120,10,Never update,1.04561,0
+2,8,M1,84,-120,10,Refit on all so far,1.04424,84
+2,8,M1,84,-120,10,Refit on the last 50,1.03108,50
+2,9,M1,94,-110,10,Never update,1.0412,0
+2,9,M1,94,-110,10,Refit on all so far,1.03995,94
+2,9,M1,94,-110,10,Refit on the last 50,1.03695,50
+2,10,M1,104,-100,10,Never update,1.07938,0
+2,10,M1,104,-100,10,Refit on all so far,1.07643,104
+2,10,M1,104,-100,10,Refit on the last 50,1.06896,50
+2,11,M1,114,-90,10,Never update,1.04857,0
+2,11,M1,114,-90,10,Refit on all so far,1.0433,114
+2,11,M1,114,-90,10,Refit on the last 50,1.03612,50
+2,12,M1,124,-80,10,Never update,1.02026,0
+2,12,M1,124,-80,10,Refit on all so far,1.01584,124
+2,12,M1,124,-80,10,Refit on the last 50,1.02025,50
+2,13,M1,134,-70,10,Never update,1.04525,0
+2,13,M1,134,-70,10,Refit on all so far,1.05368,134
+2,13,M1,134,-70,10,Refit on the last 50,1.04932,50
+2,14,M1,144,-60,10,Never update,1.03588,0
+2,14,M1,144,-60,10,Refit on all so far,1.02645,144
+2,14,M1,144,-60,10,Refit on the last 50,1.02649,50
+2,15,M1,154,-50,10,Never update,1.03322,0
+2,15,M1,154,-50,10,Refit on all so far,1.03136,154
+2,15,M1,154,-50,10,Refit on the last 50,1.03325,50
+2,16,M1,164,-40,10,Never update,1.06846,0
+2,16,M1,164,-40,10,Refit on all so far,1.07608,164
+2,16,M1,164,-40,10,Refit on the last 50,1.08341,50
+2,17,M1,174,-30,10,Never update,1.05176,0
+2,17,M1,174,-30,10,Refit on all so far,1.05182,174
+2,17,M1,174,-30,10,Refit on the last 50,1.05171,50
+2,18,M1,184,-20,10,Never update,1.07091,0
+2,18,M1,184,-20,10,Refit on all so far,1.07084,184
+2,18,M1,184,-20,10,Refit on the last 50,1.07265,50
+2,19,M1,194,-10,10,Never update,1.01936,0
+2,19,M1,194,-10,10,Refit on all so far,1.01939,194
+2,19,M1,194,-10,10,Refit on the last 50,1.02744,50
+2,20,M2,204,0,11,Never update,2.23948,0
+2,20,M2,204,0,11,Refit on all so far,2.23076,204
+2,20,M2,204,0,11,Refit on the last 50,2.25759,50
+2,21,M2,215,11,11,Never update,2.76179,0
+2,21,M2,215,11,11,Refit on all so far,2.70915,215
+2,21,M2,215,11,11,Refit on the last 50,2.39345,50
+2,22,M2,226,22,11,Never update,2.11726,0
+2,22,M2,226,22,11,Refit on all so far,1.95274,226
+2,22,M2,226,22,11,Refit on the last 50,1.50073,50
+2,23,M2,237,33,11,Never update,2.63345,0
+2,23,M2,237,33,11,Refit on all so far,2.34084,237
+2,23,M2,237,33,11,Refit on the last 50,1.48797,50
+2,24,M2,248,44,10,Never update,2.73295,0
+2,24,M2,248,44,10,Refit on all so far,2.40567,248
+2,24,M2,248,44,10,Refit on the last 50,1.42818,50
+2,25,M2,258,54,10,Never update,1.89186,0
+2,25,M2,258,54,10,Refit on all so far,1.59052,258
+2,25,M2,258,54,10,Refit on the last 50,1.08171,50
+2,26,M2,268,64,10,Never update,1.48933,0
+2,26,M2,268,64,10,Refit on all so far,1.31747,268
+2,26,M2,268,64,10,Refit on the last 50,1.13163,50
+2,27,M2,278,74,10,Never update,3.0102,0
+2,27,M2,278,74,10,Refit on all so far,2.29799,278
+2,27,M2,278,74,10,Refit on the last 50,1.09089,50
+2,28,M2,288,84,10,Never update,2.4589,0
+2,28,M2,288,84,10,Refit on all so far,1.9143,288
+2,28,M2,288,84,10,Refit on the last 50,1.10553,50
+2,29,M2,298,94,10,Never update,2.45916,0
+2,29,M2,298,94,10,Refit on all so far,2.01355,298
+2,29,M2,298,94,10,Refit on the last 50,1.25531,50
+2,30,M2,308,104,10,Never update,1.28223,0
+2,30,M2,308,104,10,Refit on all so far,1.1207,308
+2,30,M2,308,104,10,Refit on the last 50,1.06391,50
+2,31,M2,318,114,10,Never update,2.56981,0
+2,31,M2,318,114,10,Refit on all so far,1.9706,318
+2,31,M2,318,114,10,Refit on the last 50,1.22256,50
+2,32,M2,328,124,10,Never update,2.55932,0
+2,32,M2,328,124,10,Refit on all so far,1.90369,328
+2,32,M2,328,124,10,Refit on the last 50,1.16748,50
+2,33,M2,338,134,10,Never update,2.42911,0
+2,33,M2,338,134,10,Refit on all so far,1.7767,338
+2,33,M2,338,134,10,Refit on the last 50,1.13007,50
+2,34,M2,348,144,10,Never update,2.19151,0
+2,34,M2,348,144,10,Refit on all so far,1.49712,348
+2,34,M2,348,144,10,Refit on the last 50,1.2331,50
+2,35,M2,358,154,10,Never update,2.46273,0
+2,35,M2,358,154,10,Refit on all so far,1.78192,358
+2,35,M2,358,154,10,Refit on the last 50,1.07003,50
+2,36,M2,368,164,10,Never update,2.7525,0
+2,36,M2,368,164,10,Refit on all so far,1.90653,368
+2,36,M2,368,164,10,Refit on the last 50,1.28485,50
+2,37,M2,378,174,10,Never update,2.69146,0
+2,37,M2,378,174,10,Refit on all so far,1.83403,378
+2,37,M2,378,174,10,Refit on the last 50,1.05458,50
+2,38,M2,388,184,10,Never update,2.40666,0
+2,38,M2,388,184,10,Refit on all so far,1.63504,388
+2,38,M2,388,184,10,Refit on the last 50,1.04561,50
+2,39,M2,398,194,10,Never update,2.18704,0
+2,39,M2,398,194,10,Refit on all so far,1.48232,398
+2,39,M2,398,194,10,Refit on the last 50,1.05938,50
+3,0,M1,0,-204,11,Never update,1.06705,0
+3,0,M1,0,-204,11,Refit on all so far,1.06705,0
+3,0,M1,0,-204,11,Refit on the last 50,1.06705,0
+3,1,M1,11,-193,11,Never update,1.02791,0
+3,1,M1,11,-193,11,Refit on all so far,1.01874,11
+3,1,M1,11,-193,11,Refit on the last 50,1.01874,11
+3,2,M1,22,-182,11,Never update,1.03164,0
+3,2,M1,22,-182,11,Refit on all so far,1.02514,22
+3,2,M1,22,-182,11,Refit on the last 50,1.02514,22
+3,3,M1,33,-171,11,Never update,1.03063,0
+3,3,M1,33,-171,11,Refit on all so far,1.02117,33
+3,3,M1,33,-171,11,Refit on the last 50,1.02117,33
+3,4,M1,44,-160,10,Never update,1.05432,0
+3,4,M1,44,-160,10,Refit on all so far,1.05703,44
+3,4,M1,44,-160,10,Refit on the last 50,1.05703,44
+3,5,M1,54,-150,10,Never update,1.01846,0
+3,5,M1,54,-150,10,Refit on all so far,1.02357,54
+3,5,M1,54,-150,10,Refit on the last 50,1.02717,50
+3,6,M1,64,-140,10,Never update,1.03852,0
+3,6,M1,64,-140,10,Refit on all so far,1.02739,64
+3,6,M1,64,-140,10,Refit on the last 50,1.02742,50
+3,7,M1,74,-130,10,Never update,1.06813,0
+3,7,M1,74,-130,10,Refit on all so far,1.07375,74
+3,7,M1,74,-130,10,Refit on the last 50,1.0686,50
+3,8,M1,84,-120,10,Never update,1.07733,0
+3,8,M1,84,-120,10,Refit on all so far,1.08419,84
+3,8,M1,84,-120,10,Refit on the last 50,1.0839,50
+3,9,M1,94,-110,10,Never update,1.05071,0
+3,9,M1,94,-110,10,Refit on all so far,1.05791,94
+3,9,M1,94,-110,10,Refit on the last 50,1.04496,50
+3,10,M1,104,-100,10,Never update,1.0815,0
+3,10,M1,104,-100,10,Refit on all so far,1.08152,104
+3,10,M1,104,-100,10,Refit on the last 50,1.08975,50
+3,11,M1,114,-90,10,Never update,1.03337,0
+3,11,M1,114,-90,10,Refit on all so far,1.03641,114
+3,11,M1,114,-90,10,Refit on the last 50,1.02407,50
+3,12,M1,124,-80,10,Never update,1.04198,0
+3,12,M1,124,-80,10,Refit on all so far,1.04461,124
+3,12,M1,124,-80,10,Refit on the last 50,1.03777,50
+3,13,M1,134,-70,10,Never update,1.03146,0
+3,13,M1,134,-70,10,Refit on all so far,1.03143,134
+3,13,M1,134,-70,10,Refit on the last 50,1.02996,50
+3,14,M1,144,-60,10,Never update,1.04908,0
+3,14,M1,144,-60,10,Refit on all so far,1.045,144
+3,14,M1,144,-60,10,Refit on the last 50,1.05088,50
+3,15,M1,154,-50,10,Never update,1.02959,0
+3,15,M1,154,-50,10,Refit on all so far,1.03485,154
+3,15,M1,154,-50,10,Refit on the last 50,1.03311,50
+3,16,M1,164,-40,10,Never update,1.03763,0
+3,16,M1,164,-40,10,Refit on all so far,1.03765,164
+3,16,M1,164,-40,10,Refit on the last 50,1.03764,50
+3,17,M1,174,-30,10,Never update,1.03548,0
+3,17,M1,174,-30,10,Refit on all so far,1.03473,174
+3,17,M1,174,-30,10,Refit on the last 50,1.03033,50
+3,18,M1,184,-20,10,Never update,1.04177,0
+3,18,M1,184,-20,10,Refit on all so far,1.04038,184
+3,18,M1,184,-20,10,Refit on the last 50,1.05595,50
+3,19,M1,194,-10,10,Never update,1.06002,0
+3,19,M1,194,-10,10,Refit on all so far,1.06005,194
+3,19,M1,194,-10,10,Refit on the last 50,1.07668,50
+3,20,M2,204,0,11,Never update,2.48838,0
+3,20,M2,204,0,11,Refit on all so far,2.47907,204
+3,20,M2,204,0,11,Refit on the last 50,2.48744,50
+3,21,M2,215,11,11,Never update,2.53308,0
+3,21,M2,215,11,11,Refit on all so far,2.41415,215
+3,21,M2,215,11,11,Refit on the last 50,2.0781,50
+3,22,M2,226,22,11,Never update,2.32544,0
+3,22,M2,226,22,11,Refit on all so far,2.11383,226
+3,22,M2,226,22,11,Refit on the last 50,1.54367,50
+3,23,M2,237,33,11,Never update,2.62959,0
+3,23,M2,237,33,11,Refit on all so far,2.30378,237
+3,23,M2,237,33,11,Refit on the last 50,1.32322,50
+3,24,M2,248,44,10,Never update,1.52175,0
+3,24,M2,248,44,10,Refit on all so far,1.29249,248
+3,24,M2,248,44,10,Refit on the last 50,1.21083,50
+3,25,M2,258,54,10,Never update,2.73233,0
+3,25,M2,258,54,10,Refit on all so far,2.30001,258
+3,25,M2,258,54,10,Refit on the last 50,1.06851,50
+3,26,M2,268,64,10,Never update,2.18983,0
+3,26,M2,268,64,10,Refit on all so far,1.77917,268
+3,26,M2,268,64,10,Refit on the last 50,1.17047,50
+3,27,M2,278,74,10,Never update,2.6219,0
+3,27,M2,278,74,10,Refit on all so far,2.05194,278
+3,27,M2,278,74,10,Refit on the last 50,1.09552,50
+3,28,M2,288,84,10,Never update,2.27111,0
+3,28,M2,288,84,10,Refit on all so far,1.76268,288
+3,28,M2,288,84,10,Refit on the last 50,1.07655,50
+3,29,M2,298,94,10,Never update,2.37816,0
+3,29,M2,298,94,10,Refit on all so far,1.85584,298
+3,29,M2,298,94,10,Refit on the last 50,1.16862,50
+3,30,M2,308,104,10,Never update,2.76663,0
+3,30,M2,308,104,10,Refit on all so far,2.0469,308
+3,30,M2,308,104,10,Refit on the last 50,1.07049,50
+3,31,M2,318,114,10,Never update,1.89431,0
+3,31,M2,318,114,10,Refit on all so far,1.46334,318
+3,31,M2,318,114,10,Refit on the last 50,1.0314,50
+3,32,M2,328,124,10,Never update,2.21901,0
+3,32,M2,328,124,10,Refit on all so far,1.54488,328
+3,32,M2,328,124,10,Refit on the last 50,1.09893,50
+3,33,M2,338,134,10,Never update,2.5608,0
+3,33,M2,338,134,10,Refit on all so far,1.85225,338
+3,33,M2,338,134,10,Refit on the last 50,1.19741,50
+3,34,M2,348,144,10,Never update,2.16204,0
+3,34,M2,348,144,10,Refit on all so far,1.55137,348
+3,34,M2,348,144,10,Refit on the last 50,1.11213,50
+3,35,M2,358,154,10,Never update,2.40318,0
+3,35,M2,358,154,10,Refit on all so far,1.70135,358
+3,35,M2,358,154,10,Refit on the last 50,1.1675,50
+3,36,M2,368,164,10,Never update,2.41358,0
+3,36,M2,368,164,10,Refit on all so far,1.64838,368
+3,36,M2,368,164,10,Refit on the last 50,1.16813,50
+3,37,M2,378,174,10,Never update,1.81583,0
+3,37,M2,378,174,10,Refit on all so far,1.41483,378
+3,37,M2,378,174,10,Refit on the last 50,1.0757,50
+3,38,M2,388,184,10,Never update,2.09777,0
+3,38,M2,388,184,10,Refit on all so far,1.50474,388
+3,38,M2,388,184,10,Refit on the last 50,1.07725,50
+3,39,M2,398,194,10,Never update,2.88815,0
+3,39,M2,398,194,10,Refit on all so far,1.8252,398
+3,39,M2,398,194,10,Refit on the last 50,1.1866,50
+4,0,M1,0,-204,11,Never update,1.04395,0
+4,0,M1,0,-204,11,Refit on all so far,1.04395,0
+4,0,M1,0,-204,11,Refit on the last 50,1.04395,0
+4,1,M1,11,-193,11,Never update,1.03674,0
+4,1,M1,11,-193,11,Refit on all so far,1.03099,11
+4,1,M1,11,-193,11,Refit on the last 50,1.03099,11
+4,2,M1,22,-182,11,Never update,1.04129,0
+4,2,M1,22,-182,11,Refit on all so far,1.04244,22
+4,2,M1,22,-182,11,Refit on the last 50,1.04244,22
+4,3,M1,33,-171,11,Never update,1.06565,0
+4,3,M1,33,-171,11,Refit on all so far,1.06742,33
+4,3,M1,33,-171,11,Refit on the last 50,1.06742,33
+4,4,M1,44,-160,10,Never update,1.04349,0
+4,4,M1,44,-160,10,Refit on all so far,1.0435,44
+4,4,M1,44,-160,10,Refit on the last 50,1.0435,44
+4,5,M1,54,-150,10,Never update,1.04075,0
+4,5,M1,54,-150,10,Refit on all so far,1.04066,54
+4,5,M1,54,-150,10,Refit on the last 50,1.04063,50
+4,6,M1,64,-140,10,Never update,1.05224,0
+4,6,M1,64,-140,10,Refit on all so far,1.0476,64
+4,6,M1,64,-140,10,Refit on the last 50,1.04658,50
+4,7,M1,74,-130,10,Never update,1.04225,0
+4,7,M1,74,-130,10,Refit on all so far,1.0333,74
+4,7,M1,74,-130,10,Refit on the last 50,1.04101,50
+4,8,M1,84,-120,10,Never update,1.04551,0
+4,8,M1,84,-120,10,Refit on all so far,1.04853,84
+4,8,M1,84,-120,10,Refit on the last 50,1.06393,50
+4,9,M1,94,-110,10,Never update,1.03003,0
+4,9,M1,94,-110,10,Refit on all so far,1.04063,94
+4,9,M1,94,-110,10,Refit on the last 50,1.05544,50
+4,10,M1,104,-100,10,Never update,1.03189,0
+4,10,M1,104,-100,10,Refit on all so far,1.03849,104
+4,10,M1,104,-100,10,Refit on the last 50,1.04289,50
+4,11,M1,114,-90,10,Never update,1.02566,0
+4,11,M1,114,-90,10,Refit on all so far,1.03669,114
+4,11,M1,114,-90,10,Refit on the last 50,1.04915,50
+4,12,M1,124,-80,10,Never update,1.07397,0
+4,12,M1,124,-80,10,Refit on all so far,1.07884,124
+4,12,M1,124,-80,10,Refit on the last 50,1.08248,50
+4,13,M1,134,-70,10,Never update,1.05911,0
+4,13,M1,134,-70,10,Refit on all so far,1.05316,134
+4,13,M1,134,-70,10,Refit on the last 50,1.06745,50
+4,14,M1,144,-60,10,Never update,1.06458,0
+4,14,M1,144,-60,10,Refit on all so far,1.05356,144
+4,14,M1,144,-60,10,Refit on the last 50,1.05243,50
+4,15,M1,154,-50,10,Never update,1.02816,0
+4,15,M1,154,-50,10,Refit on all so far,1.02675,154
+4,15,M1,154,-50,10,Refit on the last 50,1.03993,50
+4,16,M1,164,-40,10,Never update,1.05465,0
+4,16,M1,164,-40,10,Refit on all so far,1.03679,164
+4,16,M1,164,-40,10,Refit on the last 50,1.03995,50
+4,17,M1,174,-30,10,Never update,1.04201,0
+4,17,M1,174,-30,10,Refit on all so far,1.05442,174
+4,17,M1,174,-30,10,Refit on the last 50,1.03892,50
+4,18,M1,184,-20,10,Never update,1.0347,0
+4,18,M1,184,-20,10,Refit on all so far,1.10701,184
+4,18,M1,184,-20,10,Refit on the last 50,1.07111,50
+4,19,M1,194,-10,10,Never update,1.03485,0
+4,19,M1,194,-10,10,Refit on all so far,1.03076,194
+4,19,M1,194,-10,10,Refit on the last 50,1.03779,50
+4,20,M2,204,0,11,Never update,1.99089,0
+4,20,M2,204,0,11,Refit on all so far,1.98316,204
+4,20,M2,204,0,11,Refit on the last 50,2.0041,50
+4,21,M2,215,11,11,Never update,2.48446,0
+4,21,M2,215,11,11,Refit on all so far,2.40293,215
+4,21,M2,215,11,11,Refit on the last 50,2.24265,50
+4,22,M2,226,22,11,Never update,2.46724,0
+4,22,M2,226,22,11,Refit on all so far,2.29045,226
+4,22,M2,226,22,11,Refit on the last 50,1.8121,50
+4,23,M2,237,33,11,Never update,2.30522,0
+4,23,M2,237,33,11,Refit on all so far,2.07244,237
+4,23,M2,237,33,11,Refit on the last 50,1.54909,50
+4,24,M2,248,44,10,Never update,2.63357,0
+4,24,M2,248,44,10,Refit on all so far,2.26614,248
+4,24,M2,248,44,10,Refit on the last 50,1.20087,50
+4,25,M2,258,54,10,Never update,2.59559,0
+4,25,M2,258,54,10,Refit on all so far,2.14192,258
+4,25,M2,258,54,10,Refit on the last 50,1.09113,50
+4,26,M2,268,64,10,Never update,2.51832,0
+4,26,M2,268,64,10,Refit on all so far,2.05367,268
+4,26,M2,268,64,10,Refit on the last 50,1.195,50
+4,27,M2,278,74,10,Never update,2.55364,0
+4,27,M2,278,74,10,Refit on all so far,2.07086,278
+4,27,M2,278,74,10,Refit on the last 50,1.10655,50
+4,28,M2,288,84,10,Never update,1.21458,0
+4,28,M2,288,84,10,Refit on all so far,1.07532,288
+4,28,M2,288,84,10,Refit on the last 50,1.04106,50
+4,29,M2,298,94,10,Never update,2.57907,0
+4,29,M2,298,94,10,Refit on all so far,2.04003,298
+4,29,M2,298,94,10,Refit on the last 50,1.07455,50
+4,30,M2,308,104,10,Never update,2.33593,0
+4,30,M2,308,104,10,Refit on all so far,1.81015,308
+4,30,M2,308,104,10,Refit on the last 50,1.1363,50
+4,31,M2,318,114,10,Never update,2.76577,0
+4,31,M2,318,114,10,Refit on all so far,2.1147,318
+4,31,M2,318,114,10,Refit on the last 50,1.22451,50
+4,32,M2,328,124,10,Never update,2.89727,0
+4,32,M2,328,124,10,Refit on all so far,2.08841,328
+4,32,M2,328,124,10,Refit on the last 50,1.15203,50
+4,33,M2,338,134,10,Never update,2.7449,0
+4,33,M2,338,134,10,Refit on all so far,1.97593,338
+4,33,M2,338,134,10,Refit on the last 50,1.12516,50
+4,34,M2,348,144,10,Never update,2.40973,0
+4,34,M2,348,144,10,Refit on all so far,1.75262,348
+4,34,M2,348,144,10,Refit on the last 50,1.04738,50
+4,35,M2,358,154,10,Never update,2.55821,0
+4,35,M2,358,154,10,Refit on all so far,1.83895,358
+4,35,M2,358,154,10,Refit on the last 50,1.09687,50
+4,36,M2,368,164,10,Never update,2.23437,0
+4,36,M2,368,164,10,Refit on all so far,1.56439,368
+4,36,M2,368,164,10,Refit on the last 50,1.10425,50
+4,37,M2,378,174,10,Never update,2.52676,0
+4,37,M2,378,174,10,Refit on all so far,1.753,378
+4,37,M2,378,174,10,Refit on the last 50,1.11704,50
+4,38,M2,388,184,10,Never update,2.44137,0
+4,38,M2,388,184,10,Refit on all so far,1.57498,388
+4,38,M2,388,184,10,Refit on the last 50,1.08009,50
+4,39,M2,398,194,10,Never update,2.38053,0
+4,39,M2,398,194,10,Refit on all so far,1.5561,398
+4,39,M2,398,194,10,Refit on the last 50,1.19305,50

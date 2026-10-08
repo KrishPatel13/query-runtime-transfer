@@ -1,0 +1,13 @@
+# M2 (tpcds): PostgreSQL pinned to CPU 19 of 22 (2026-10-02T03:37:57-04:00)
+# command: taskset -c 19 pg_ctl start -w -l ~/cs680-pilot/postgres-tpcds.log
+postmaster 262450: 19
+child 262451 (postgres: io worker 0): 19
+child 262452 (postgres: io worker 1): 19
+child 262453 (postgres: io worker 2): 19
+child 262454 (postgres: checkpointer ): 19
+child 262455 (postgres: background writer ): 19
+child 262457 (postgres: walwriter ): 19
+child 262458 (postgres: autovacuum launcher ): 19
+child 262459 (postgres: logical replication launcher ): 19
+parallel worker 262524: 19
+parallel worker 262525: 19

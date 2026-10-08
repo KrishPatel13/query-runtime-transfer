@@ -1,0 +1,32 @@
+{
+ "pass": 1,
+ "seed": 0,
+ "attempt": 1,
+ "machine": "M1",
+ "clocksource": "hyperv_clocksource_tsc_page",
+ "clock_rate": [
+  {
+   "rate": 1.000064,
+   "wall_s": 1405.3
+  }
+ ],
+ "power": [
+  {
+   "ended_at": "2026-09-30T22:14:15-04:00",
+   "lines": 46,
+   "on_battery": 0,
+   "saver_on": 0,
+   "charge_min": 86,
+   "max_gap_s": 32.0,
+   "gaps": 0,
+   "host_cpu": {
+    "median": 43.5,
+    "max": 100
+   }
+  }
+ ],
+ "rejected": {
+  "at": "2026-09-30T22:57:46-04:00",
+  "reason": "level 12% slower than pass 3 (median ratio pass3/pass1 0.880, pass2/pass1 0.953) with no shift inside it; the power log shows other programs using the CPU during it (Windows CPU median 43.5%, max 100%, against 25% and 53% in pass 3)"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "pass": 1,
+ "seed": 0,
+ "attempt": 2,
+ "machine": "M1",
+ "clocksource": "hyperv_clocksource_tsc_page",
+ "clock_rate": [
+  {
+   "rate": 1.000044,
+   "wall_s": 1248.2
+  }
+ ],
+ "power": [
+  {
+   "ended_at": "2026-09-30T23:18:42-04:00",
+   "lines": 41,
+   "on_battery": 0,
+   "saver_on": 0,
+   "charge_min": 77,
+   "max_gap_s": 32.0,
+   "gaps": 0,
+   "host_cpu": {
+    "median": 30,
+    "max": 100
+   }
+  }
+ ]
+}

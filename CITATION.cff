@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or these measurements, please cite them as below."
+title: "Moving query runtime models to new hardware: code and measurements"
+type: software
+authors:
+  - family-names: Patel
+    given-names: Krish
+    affiliation: University of Waterloo
+    orcid: "https://orcid.org/0009-0006-3064-0086"
+repository-code: "https://github.com/KrishPatel13/query-runtime-transfer"
+license: MIT
+keywords:
+  - query runtime prediction
+  - PostgreSQL
+  - TPC-H
+  - TPC-DS
+  - domain adaptation

@@ -1,0 +1,12 @@
+# M6_tpcds: PostgreSQL pinned to CPUs 62,63 of 64 on server-a (2026-10-02T18:10:47-04:00)
+postmaster 245513: 62,63
+child 245514 (postgres: io worker 2): 62,63
+child 245515 (postgres: io worker 0): 62,63
+child 245516 (postgres: io worker 1): 62,63
+child 245517 (postgres: checkpointer ): 62,63
+child 245518 (postgres: background writer ): 62,63
+child 245520 (postgres: walwriter ): 62,63
+child 245521 (postgres: autovacuum launcher ): 62,63
+child 245522 (postgres: logical replication launcher ): 62,63
+parallel worker 245587: 62,63
+parallel worker 245588: 62,63

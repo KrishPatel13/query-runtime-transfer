@@ -1,0 +1,114 @@
+{
+ "machine": "M6",
+ "query_dir": "queries/tpch_sf1_v2",
+ "passes_planned": 3,
+ "updated_at": "2026-10-02T18:10:46-04:00",
+ "host": {
+  "platform": "Linux-6.8.0-117-generic-x86_64-with-glibc2.39",
+  "python": "3.13.2",
+  "cpu_count": 64,
+  "mem_total": "1055384256 kB",
+  "cpu_model": "AMD EPYC 9754 128-Core Processor",
+  "kernel": "6.8.0-117-generic",
+  "hostname": "server-a",
+  "cpus_usable": 64,
+  "virtual_machine": true
+ },
+ "passes": [
+  {
+   "dir": "pass1",
+   "pass": 1,
+   "seed": 0,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T15:56:32",
+   "finished_at": "2026-10-02T16:40:01",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 18.08,
+    "max": 55.83
+   },
+   "power": [],
+   "check": null,
+   "rejected": null
+  },
+  {
+   "dir": "pass2",
+   "pass": 2,
+   "seed": 1,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T16:40:01",
+   "finished_at": "2026-10-02T17:26:35",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 17.855,
+    "max": 54.94
+   },
+   "power": [],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass2",
+    "n_compared": 680,
+    "same_plan": 680,
+    "median_q": 1.0935294050327466,
+    "p90_q": 1.2300960032406532,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.07110898444563307,
+     "reference": 0.12848000689540306
+    },
+    "identity": {
+     "reference": "2026-10-02T15:56:32/2026-10-02T16:40:01",
+     "pass": "2026-10-02T16:40:01/2026-10-02T17:26:35"
+    }
+   },
+   "rejected": null
+  },
+  {
+   "dir": "pass3",
+   "pass": 3,
+   "seed": 2,
+   "attempt": 1,
+   "finished": true,
+   "started_at": "2026-10-02T17:26:35",
+   "finished_at": "2026-10-02T18:10:46",
+   "rows": 680,
+   "status_counts": {
+    "ok": 680
+   },
+   "load1": {
+    "median": 18.39,
+    "max": 21.3
+   },
+   "power": [],
+   "check": {
+    "reference": "pass1",
+    "pass": "pass3",
+    "n_compared": 680,
+    "same_plan": 680,
+    "median_q": 1.055359308019353,
+    "p90_q": 1.1695363690720681,
+    "shift": null,
+    "shift_in_reference_order": null,
+    "split_explained": {
+     "pass": 0.22116588141615112,
+     "reference": 0.14071973062894516
+    },
+    "identity": {
+     "reference": "2026-10-02T15:56:32/2026-10-02T16:40:01",
+     "pass": "2026-10-02T17:26:35/2026-10-02T18:10:46"
+    }
+   },
+   "rejected": null
+  }
+ ],
+ "rejected": []
+}
