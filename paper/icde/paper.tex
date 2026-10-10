@@ -36,7 +36,7 @@
 
 \begin{document}
 
-\title{[Experiment, Analysis, and Benchmark]\\One Query per Template: Moving Query Runtime Models to New Hardware}
+\title{[Experiment, Analysis, and Benchmark]\\When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware}
 
 \author{\IEEEauthorblockN{Krish Patel}
 \IEEEauthorblockA{University of Waterloo, Waterloo, Canada\\
@@ -45,8 +45,8 @@ kmp.patel@uwaterloo.ca\quad ORCID 0009-0006-3064-0086}}
 \maketitle
 
 \begin{abstract}
-A model that predicts query runtimes is trained on measurements from one
-machine. When the database moves to other hardware, its plans stay the same
+A learned cost model that predicts query runtimes is trained on
+measurements from one machine. When the database moves to other hardware, its plans stay the same
 but their runtimes change, each by its own factor. We ask how to adapt such
 a model from $k$ queries measured on the new machine: which queries to run,
 how to use their runtimes, and how many are enough. On PostgreSQL we timed
@@ -81,7 +81,7 @@ query performance prediction, learned cost models, hardware change, model adapta
 \section{Introduction}
 \label{sec:intro}
 Predicting how long a query will run before it runs serves admission
-control, scheduling and provisioning. Learned
+control, scheduling and provisioning. Learned cost
 models predict runtimes from plan features far better than raw optimizer
 costs when they are trained on the system they predict
 \cite{ganapathi2009,akdere2012,marcus2019,sun2020}. A runtime, however, is
@@ -197,7 +197,7 @@ $\omega^2=(SS_b-(T-1)\,MS_w)/(SS_t+MS_w)$, where $SS_b$ and $SS_t$ are the
 numerator and denominator of \eqref{eq:share}, $T$ is the number of
 templates and $MS_w$ the mean square within templates.
 
-\textbf{Error measure.} Accuracy is the Q-error
+\textbf{Error measure.} We measure accuracy by the Q-error
 $Q(y,\hat y)=\max(y/\hat y,\hat y/y)$ \cite{moerkotte2009}. A test
 template's error is the median Q-error of its test queries. A method's
 error is the geometric mean of these template errors, so that every

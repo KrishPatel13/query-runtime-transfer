@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or these measurements, please cite them as below."
-title: "Moving query runtime models to new hardware: code and measurements"
+title: "Adapting learned cost models to new hardware: code and measurements"
 type: software
 authors:
   - family-names: Patel
@@ -11,7 +11,9 @@ repository-code: "https://github.com/KrishPatel13/query-runtime-transfer"
 license: MIT
 keywords:
   - query runtime prediction
+  - learned cost models
   - PostgreSQL
   - TPC-H
   - TPC-DS
+  - Join Order Benchmark
   - domain adaptation
