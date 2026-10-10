@@ -33,7 +33,7 @@ WORKLOAD_NAME = {"tpch": "TPC-H", "tpcds": "TPC-DS"}
 CHANGE_NAME = {"processors": "processors", "hardware": "hardware", "both": "both", "memory": "buffer pool",
                "mixed": "mixed", "processors (2)": "two processors"}
 METHOD_LABEL = {"none": "No adaptation", "speed": "Speed factor", "two-factor": "Two-factor",
-                "affine": "Affine", "affine+parallel": "Affine+parallel", "lowdim+template": "Low-dim + template",
+                "affine": "Affine", "affine+parallel": "Affine+parallel", "lowdim+template": "Template correction",
                 "template": "Template (EB)", "template-raw": "Template", "1-nn": "1-NN",
                 "ridge": "Ridge correction", "ridge+template": "Ridge + template (EB)",
                 "ridge+template-raw": "Ridge + template", "forest-resid": "Forest on residuals",
@@ -318,7 +318,7 @@ def table_shift_paper(rows: list[dict], out: Path) -> None:
              "& & \\multicolumn{2}{c}{Slowdown} & \\multicolumn{3}{c}{Template share} & "
              "\\multicolumn{4}{c}{$R^2$ of the log slowdown on} \\\\",
              "\\cmidrule(lr){3-4}\\cmidrule(lr){5-7}\\cmidrule(l){8-11}",
-             "Pair & Change & serial & parallel & shift & $\\epsilon^2$ & noise & parallel & size & both & "
+             "Pair & Change & serial & parallel & shift & $\\omega^2$ & noise & parallel & size & both & "
              "features (new) \\\\",
              "\\midrule"]
     for w in ("tpch", "tpcds"):

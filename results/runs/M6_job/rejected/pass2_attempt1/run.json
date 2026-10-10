@@ -1,0 +1,43 @@
+{
+ "pass": 2,
+ "seed": 1,
+ "attempt": 1,
+ "machine": "M6_job",
+ "clocksource": "kvm-clock",
+ "clock_rate": [
+  {
+   "rate": 1.000001,
+   "wall_s": 754.0
+  }
+ ],
+ "check": {
+  "reference": "pass1",
+  "pass": "pass2",
+  "n_compared": 113,
+  "same_plan": 113,
+  "median_q": 1.0558308056690633,
+  "p90_q": 1.1787538998879366,
+  "shift": {
+   "after_query_number": 30,
+   "of": 113,
+   "at": "2026-10-09T13:14:19",
+   "level_change": 0.9088079025936825,
+   "median_ratio_before": 1.0883220222610825,
+   "median_ratio_after": 0.9890756543976095,
+   "explained": 0.13194318972618602
+  },
+  "shift_in_reference_order": null,
+  "split_explained": {
+   "pass": 0.13194318972618602,
+   "reference": 0.0706364910685009
+  },
+  "identity": {
+   "reference": "2026-10-09T12:58:31/2026-10-09T13:11:22",
+   "pass": "2026-10-09T13:11:22/2026-10-09T13:23:56"
+  }
+ },
+ "rejected": {
+  "at": "2026-10-09T13:23:56-04:00",
+  "reason": "level shift of 0.91x after query 30 of 113 (at 2026-10-09T13:14:19)"
+ }
+}

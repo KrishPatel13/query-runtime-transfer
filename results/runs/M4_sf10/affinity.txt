@@ -1,0 +1,12 @@
+# M4_sf10: PostgreSQL pinned to CPUs 63 of 64 on server-a (2026-10-09T13:49:11-04:00)
+postmaster 56308: 63
+child 56309 (postgres: io worker 2): 63
+child 56310 (postgres: io worker 0): 63
+child 56311 (postgres: io worker 1): 63
+child 56312 (postgres: checkpointer ): 63
+child 56313 (postgres: background writer ): 63
+child 56315 (postgres: walwriter ): 63
+child 56316 (postgres: autovacuum launcher ): 63
+child 56317 (postgres: logical replication launcher ): 63
+parallel worker 56382: 63
+parallel worker 56383: 63

@@ -21,10 +21,11 @@ left empty, and so is pass<i>_ms for each pass that did not finish with
 status ok. No query is dropped silently: a query of the query directory that
 a pass never reached is "missing" in that pass.
 
-variant is 'std' or 'wide', from the query directory's manifest.json when its
-entries have a variant, and 'std' otherwise. The query directory is
---query-dir, or else the one recorded in pass 1's meta file, looked up by its
-name under queries/ when that path does not exist on this computer.
+variant is 'std' or 'wide' in TPC-H and the query's letter in JOB, from the
+query directory's manifest.json when its entries have a variant, and 'std'
+otherwise. The query directory is --query-dir, or else the one recorded in
+pass 1's meta file, looked up by its name under queries/ when that path does
+not exist on this computer.
 
 Noise floor. For one query and two passes, the Q-error between the two pass
 labels is max(a / b, b / a). noise.json reports its median and 90th
@@ -52,7 +53,7 @@ from passcheck import compare, macro_prefix, read_meta, read_plan, shape
 
 HERE = Path(__file__).resolve().parents[1]
 PASS_RE = re.compile(r"pass(\d+)")
-VARIANTS = ("std", "wide")
+VARIANT_RE = re.compile(r"std|wide|[a-z]")   # TPC-H's two kinds, or a JOB query's letter
 
 
 def find_passes(machine_dir: Path) -> list[tuple[int, Path]]:
@@ -139,8 +140,8 @@ def build_labels(passes: list[tuple[int, Path]], frames: dict[int, pd.DataFrame]
         if template is None:
             template = template_from_id(qid)
         variant = entry.get("variant", "std")
-        if variant not in VARIANTS:
-            raise SystemExit(f"{qid}: variant {variant!r} in manifest.json is not one of {VARIANTS}")
+        if not VARIANT_RE.fullmatch(str(variant)):
+            raise SystemExit(f"{qid}: variant {variant!r} in manifest.json is not 'std', 'wide' or one letter")
 
         issues.sort(key=lambda t: t[0])
         status = "; ".join(f"pass{i} {text}" for i, text in issues) or "ok"

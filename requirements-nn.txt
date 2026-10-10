@@ -1,0 +1,11 @@
+# The environment of src/nn_model.py and src/paper_nn.py, as on the analysis server (Python 3.12).
+# The numpy, pandas, scikit-learn and scipy versions are those of the main environment.
+# Install with: pip install -r requirements-nn.txt --extra-index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+matplotlib==3.11.2
+pytest==9.1.1
+torch==2.14.1+cpu

@@ -1,0 +1,12 @@
+{
+ "keep_s": 60.0,
+ "screen": "runtime_dataset.csv",
+ "queries": 113,
+ "kept": 113,
+ "templates": 33,
+ "pool": 78,
+ "test": 35,
+ "dropped_templates_single_query": [],
+ "dropped": [],
+ "split_rule": "per template, numpy default_rng(0) over templates in order: round(0.3 n) test, at least one, the rest pool"
+}

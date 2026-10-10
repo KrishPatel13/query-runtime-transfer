@@ -1,0 +1,29 @@
+60 pair jobs on 16 processes
+[Parallel(n_jobs=16)]: Using backend LokyBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done  42 out of  60 | elapsed: 32.1min remaining: 13.8min
+[Parallel(n_jobs=16)]: Done  55 out of  60 | elapsed: 38.8min remaining:  3.5min
+[Parallel(n_jobs=16)]: Done  60 out of  60 | elapsed: 41.2min finished
+wrote /var/tmp/pgstudy/nn_dev in 2541.6 s
+	Command being timed: "/var/tmp/pgstudy/venv-nn/bin/python src/paper_nn.py run --out /var/tmp/pgstudy/nn_dev --jobs 16 --reference results/paper/final/summary.json.gz"
+	User time (seconds): 72138.97
+	System time (seconds): 532.99
+	Percent of CPU this job got: 2850%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 42:29.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 723624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 2273911
+	Voluntary context switches: 270673
+	Involuntary context switches: 91970
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 45912
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,2170 @@
+[
+ {
+  "query_id": "q01_002",
+  "template": 1,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 2077473963,
+   "delta": 61
+  }
+ },
+ {
+  "query_id": "q01_003",
+  "template": 1,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 2012591760,
+   "delta": 93
+  }
+ },
+ {
+  "query_id": "q01_011",
+  "template": 1,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 719398147,
+   "delta": 63
+  }
+ },
+ {
+  "query_id": "q01_013",
+  "template": 1,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 146947728,
+   "delta": 66
+  }
+ },
+ {
+  "query_id": "q01_019",
+  "template": 1,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 711420457,
+   "delta": 81
+  }
+ },
+ {
+  "query_id": "q01_w01",
+  "template": 1,
+  "variant": "wide",
+  "parameters": {
+   "delta": 1051
+  }
+ },
+ {
+  "query_id": "q01_w02",
+  "template": 1,
+  "variant": "wide",
+  "parameters": {
+   "delta": 2130
+  }
+ },
+ {
+  "query_id": "q01_w04",
+  "template": 1,
+  "variant": "wide",
+  "parameters": {
+   "delta": 2206
+  }
+ },
+ {
+  "query_id": "q01_w08",
+  "template": 1,
+  "variant": "wide",
+  "parameters": {
+   "delta": 901
+  }
+ },
+ {
+  "query_id": "q01_w11",
+  "template": 1,
+  "variant": "wide",
+  "parameters": {
+   "delta": 206
+  }
+ },
+ {
+  "query_id": "q02_001",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1942638624
+  }
+ },
+ {
+  "query_id": "q02_003",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 2026782157
+  }
+ },
+ {
+  "query_id": "q02_005",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1720438699
+  }
+ },
+ {
+  "query_id": "q02_006",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 514308901
+  }
+ },
+ {
+  "query_id": "q02_007",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1418979227
+  }
+ },
+ {
+  "query_id": "q02_012",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 712660965
+  }
+ },
+ {
+  "query_id": "q02_014",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1897933022
+  }
+ },
+ {
+  "query_id": "q02_016",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1543884405
+  }
+ },
+ {
+  "query_id": "q02_017",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1262584849
+  }
+ },
+ {
+  "query_id": "q02_018",
+  "template": 2,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 425975106
+  }
+ },
+ {
+  "query_id": "q03_001",
+  "template": 3,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 186625700,
+   "segment": "MACHINERY",
+   "date": "1995-03-20"
+  }
+ },
+ {
+  "query_id": "q03_002",
+  "template": 3,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 383144199,
+   "segment": "FURNITURE",
+   "date": "1995-03-14"
+  }
+ },
+ {
+  "query_id": "q03_009",
+  "template": 3,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1404068441,
+   "segment": "HOUSEHOLD",
+   "date": "1995-03-14"
+  }
+ },
+ {
+  "query_id": "q03_013",
+  "template": 3,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1316084418,
+   "segment": "MACHINERY",
+   "date": "1995-03-18"
+  }
+ },
+ {
+  "query_id": "q03_016",
+  "template": 3,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1241091107,
+   "segment": "MACHINERY",
+   "date": "1995-03-15"
+  }
+ },
+ {
+  "query_id": "q03_018",
+  "template": 3,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 746392054,
+   "segment": "AUTOMOBILE",
+   "date": "1995-03-20"
+  }
+ },
+ {
+  "query_id": "q03_w01",
+  "template": 3,
+  "variant": "wide",
+  "parameters": {
+   "segment": "HOUSEHOLD",
+   "date": "1997-12-04"
+  }
+ },
+ {
+  "query_id": "q03_w06",
+  "template": 3,
+  "variant": "wide",
+  "parameters": {
+   "segment": "BUILDING",
+   "date": "1993-09-23"
+  }
+ },
+ {
+  "query_id": "q03_w18",
+  "template": 3,
+  "variant": "wide",
+  "parameters": {
+   "segment": "FURNITURE",
+   "date": "1995-03-05"
+  }
+ },
+ {
+  "query_id": "q03_w20",
+  "template": 3,
+  "variant": "wide",
+  "parameters": {
+   "segment": "FURNITURE",
+   "date": "1997-01-18"
+  }
+ },
+ {
+  "query_id": "q04_015",
+  "template": 4,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1321729018,
+   "start": "1995-07-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q04_w01",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1994-10-13",
+   "window": 48,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w05",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1997-05-16",
+   "window": 58,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w07",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1997-05-24",
+   "window": 434,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w12",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1994-08-27",
+   "window": 44,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w13",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1996-04-12",
+   "window": 16,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w14",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1993-08-08",
+   "window": 265,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w15",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1997-01-19",
+   "window": 23,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w16",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1995-12-09",
+   "window": 721,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q04_w18",
+  "template": 4,
+  "variant": "wide",
+  "parameters": {
+   "start": "1997-03-23",
+   "window": 196,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q05_002",
+  "template": 5,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1650982008,
+   "region": "AFRICA",
+   "start": "1997-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q05_014",
+  "template": 5,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 933400380,
+   "region": "EUROPE",
+   "start": "1996-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q05_016",
+  "template": 5,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 497275077,
+   "region": "AMERICA",
+   "start": "1993-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q05_017",
+  "template": 5,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1588744692,
+   "region": "AFRICA",
+   "start": "1994-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q05_018",
+  "template": 5,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1410147227,
+   "region": "ASIA",
+   "start": "1993-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q05_w01",
+  "template": 5,
+  "variant": "wide",
+  "parameters": {
+   "region": "AFRICA",
+   "start": "1996-05-15",
+   "window": 157,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q05_w04",
+  "template": 5,
+  "variant": "wide",
+  "parameters": {
+   "region": "AMERICA",
+   "start": "1994-08-12",
+   "window": 84,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q05_w13",
+  "template": 5,
+  "variant": "wide",
+  "parameters": {
+   "region": "ASIA",
+   "start": "1992-07-14",
+   "window": 1426,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q05_w14",
+  "template": 5,
+  "variant": "wide",
+  "parameters": {
+   "region": "AFRICA",
+   "start": "1992-12-14",
+   "window": 152,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q05_w18",
+  "template": 5,
+  "variant": "wide",
+  "parameters": {
+   "region": "AFRICA",
+   "start": "1995-11-04",
+   "window": 29,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q06_004",
+  "template": 6,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1583459136,
+   "start": "1994-01-01",
+   "window": 1,
+   "unit": "year",
+   "discount": 0.02,
+   "discount_band": 0.01,
+   "quantity": 25
+  }
+ },
+ {
+  "query_id": "q06_006",
+  "template": 6,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1109219128,
+   "start": "1993-01-01",
+   "window": 1,
+   "unit": "year",
+   "discount": 0.04,
+   "discount_band": 0.01,
+   "quantity": 25
+  }
+ },
+ {
+  "query_id": "q06_010",
+  "template": 6,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1056545698,
+   "start": "1997-01-01",
+   "window": 1,
+   "unit": "year",
+   "discount": 0.03,
+   "discount_band": 0.01,
+   "quantity": 24
+  }
+ },
+ {
+  "query_id": "q06_011",
+  "template": 6,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 506888578,
+   "start": "1996-01-01",
+   "window": 1,
+   "unit": "year",
+   "discount": 0.09,
+   "discount_band": 0.01,
+   "quantity": 24
+  }
+ },
+ {
+  "query_id": "q06_012",
+  "template": 6,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 115870063,
+   "start": "1996-01-01",
+   "window": 1,
+   "unit": "year",
+   "discount": 0.06,
+   "discount_band": 0.01,
+   "quantity": 24
+  }
+ },
+ {
+  "query_id": "q06_w04",
+  "template": 6,
+  "variant": "wide",
+  "parameters": {
+   "start": "1993-11-03",
+   "window": 616,
+   "unit": "day",
+   "discount": 0.02,
+   "discount_band": 0.0,
+   "quantity": 18
+  }
+ },
+ {
+  "query_id": "q06_w06",
+  "template": 6,
+  "variant": "wide",
+  "parameters": {
+   "start": "1993-11-01",
+   "window": 451,
+   "unit": "day",
+   "discount": 0.02,
+   "discount_band": 0.05,
+   "quantity": 8
+  }
+ },
+ {
+  "query_id": "q06_w09",
+  "template": 6,
+  "variant": "wide",
+  "parameters": {
+   "start": "1995-10-05",
+   "window": 11,
+   "unit": "day",
+   "discount": 0.09,
+   "discount_band": 0.03,
+   "quantity": 19
+  }
+ },
+ {
+  "query_id": "q06_w11",
+  "template": 6,
+  "variant": "wide",
+  "parameters": {
+   "start": "1996-10-30",
+   "window": 35,
+   "unit": "day",
+   "discount": 0.1,
+   "discount_band": 0.02,
+   "quantity": 49
+  }
+ },
+ {
+  "query_id": "q06_w13",
+  "template": 6,
+  "variant": "wide",
+  "parameters": {
+   "start": "1994-11-10",
+   "window": 442,
+   "unit": "day",
+   "discount": 0.06,
+   "discount_band": 0.02,
+   "quantity": 38
+  }
+ },
+ {
+  "query_id": "q07_002",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1588207193
+  }
+ },
+ {
+  "query_id": "q07_004",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1137657867
+  }
+ },
+ {
+  "query_id": "q07_006",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 893885669
+  }
+ },
+ {
+  "query_id": "q07_011",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 626254801
+  }
+ },
+ {
+  "query_id": "q07_012",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1257440142
+  }
+ },
+ {
+  "query_id": "q07_014",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1886810503
+  }
+ },
+ {
+  "query_id": "q07_015",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1982848986
+  }
+ },
+ {
+  "query_id": "q07_018",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 343229764
+  }
+ },
+ {
+  "query_id": "q07_019",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1229598923
+  }
+ },
+ {
+  "query_id": "q07_020",
+  "template": 7,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1652299687
+  }
+ },
+ {
+  "query_id": "q08_004",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 394381275
+  }
+ },
+ {
+  "query_id": "q08_005",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 960353274
+  }
+ },
+ {
+  "query_id": "q08_007",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 832645721
+  }
+ },
+ {
+  "query_id": "q08_008",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 92683358
+  }
+ },
+ {
+  "query_id": "q08_009",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1381031886
+  }
+ },
+ {
+  "query_id": "q08_010",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1101576078
+  }
+ },
+ {
+  "query_id": "q08_014",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1150794602
+  }
+ },
+ {
+  "query_id": "q08_017",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 38295918
+  }
+ },
+ {
+  "query_id": "q08_019",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1927266478
+  }
+ },
+ {
+  "query_id": "q08_020",
+  "template": 8,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 962751690
+  }
+ },
+ {
+  "query_id": "q09_001",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1942450375
+  }
+ },
+ {
+  "query_id": "q09_003",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1770872415
+  }
+ },
+ {
+  "query_id": "q09_005",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1964233850
+  }
+ },
+ {
+  "query_id": "q09_006",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1833009334
+  }
+ },
+ {
+  "query_id": "q09_007",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 520021731
+  }
+ },
+ {
+  "query_id": "q09_009",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 117472521
+  }
+ },
+ {
+  "query_id": "q09_010",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1555565724
+  }
+ },
+ {
+  "query_id": "q09_012",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1547046240
+  }
+ },
+ {
+  "query_id": "q09_013",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1318889311
+  }
+ },
+ {
+  "query_id": "q09_017",
+  "template": 9,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 446087487
+  }
+ },
+ {
+  "query_id": "q10_003",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1807634293,
+   "start": "1994-06-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_005",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 345981323,
+   "start": "1993-05-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_006",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 528749995,
+   "start": "1994-03-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_011",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 451134263,
+   "start": "1993-04-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_014",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 929869066,
+   "start": "1994-04-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_017",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 673601747,
+   "start": "1993-11-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_018",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 503555389,
+   "start": "1994-09-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_020",
+  "template": 10,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1837789307,
+   "start": "1993-07-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q10_w06",
+  "template": 10,
+  "variant": "wide",
+  "parameters": {
+   "start": "1994-10-07",
+   "window": 30,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q10_w12",
+  "template": 10,
+  "variant": "wide",
+  "parameters": {
+   "start": "1998-02-06",
+   "window": 34,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q11_002",
+  "template": 11,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 576134727,
+   "nation": "CHINA",
+   "fraction": 1e-05
+  }
+ },
+ {
+  "query_id": "q11_005",
+  "template": 11,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 849231748,
+   "nation": "KENYA",
+   "fraction": 1e-05
+  }
+ },
+ {
+  "query_id": "q11_006",
+  "template": 11,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1857163444,
+   "nation": "IRAN",
+   "fraction": 1e-05
+  }
+ },
+ {
+  "query_id": "q11_017",
+  "template": 11,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 888226901,
+   "nation": "JAPAN",
+   "fraction": 1e-05
+  }
+ },
+ {
+  "query_id": "q11_w04",
+  "template": 11,
+  "variant": "wide",
+  "parameters": {
+   "nation": "CANADA",
+   "fraction": 1.4416e-06
+  }
+ },
+ {
+  "query_id": "q11_w12",
+  "template": 11,
+  "variant": "wide",
+  "parameters": {
+   "nation": "MOZAMBIQUE",
+   "fraction": 1.977e-07
+  }
+ },
+ {
+  "query_id": "q11_w13",
+  "template": 11,
+  "variant": "wide",
+  "parameters": {
+   "nation": "VIETNAM",
+   "fraction": 2.864e-07
+  }
+ },
+ {
+  "query_id": "q11_w15",
+  "template": 11,
+  "variant": "wide",
+  "parameters": {
+   "nation": "ETHIOPIA",
+   "fraction": 3.842e-07
+  }
+ },
+ {
+  "query_id": "q11_w17",
+  "template": 11,
+  "variant": "wide",
+  "parameters": {
+   "nation": "VIETNAM",
+   "fraction": 7.4459e-06
+  }
+ },
+ {
+  "query_id": "q11_w20",
+  "template": 11,
+  "variant": "wide",
+  "parameters": {
+   "nation": "CANADA",
+   "fraction": 7.2737e-06
+  }
+ },
+ {
+  "query_id": "q12_010",
+  "template": 12,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 467877701,
+   "shipmode1": "FOB",
+   "shipmode2": "MAIL",
+   "start": "1997-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q12_011",
+  "template": 12,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 760599606,
+   "shipmode1": "FOB",
+   "shipmode2": "MAIL",
+   "start": "1995-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q12_014",
+  "template": 12,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 16719440,
+   "shipmode1": "AIR",
+   "shipmode2": "RAIL",
+   "start": "1995-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q12_017",
+  "template": 12,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 601542723,
+   "shipmode1": "REG AIR",
+   "shipmode2": "TRUCK",
+   "start": "1995-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q12_019",
+  "template": 12,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 997001028,
+   "shipmode1": "RAIL",
+   "shipmode2": "FOB",
+   "start": "1993-01-01",
+   "window": 1,
+   "unit": "year"
+  }
+ },
+ {
+  "query_id": "q12_w05",
+  "template": 12,
+  "variant": "wide",
+  "parameters": {
+   "shipmode1": "REG AIR",
+   "shipmode2": "AIR",
+   "start": "1994-09-11",
+   "window": 1142,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q12_w08",
+  "template": 12,
+  "variant": "wide",
+  "parameters": {
+   "shipmode1": "MAIL",
+   "shipmode2": "REG AIR",
+   "start": "1997-12-23",
+   "window": 8,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q12_w16",
+  "template": 12,
+  "variant": "wide",
+  "parameters": {
+   "shipmode1": "FOB",
+   "shipmode2": "TRUCK",
+   "start": "1993-09-03",
+   "window": 15,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q12_w17",
+  "template": 12,
+  "variant": "wide",
+  "parameters": {
+   "shipmode1": "RAIL",
+   "shipmode2": "REG AIR",
+   "start": "1993-11-13",
+   "window": 41,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q12_w20",
+  "template": 12,
+  "variant": "wide",
+  "parameters": {
+   "shipmode1": "AIR",
+   "shipmode2": "MAIL",
+   "start": "1996-03-16",
+   "window": 515,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q13_001",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1079961459
+  }
+ },
+ {
+  "query_id": "q13_002",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1974409154
+  }
+ },
+ {
+  "query_id": "q13_003",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 26932044
+  }
+ },
+ {
+  "query_id": "q13_006",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1022999542
+  }
+ },
+ {
+  "query_id": "q13_008",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1727771118
+  }
+ },
+ {
+  "query_id": "q13_009",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1782158167
+  }
+ },
+ {
+  "query_id": "q13_010",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 2034180556
+  }
+ },
+ {
+  "query_id": "q13_011",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1607007148
+  }
+ },
+ {
+  "query_id": "q13_015",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 136251076
+  }
+ },
+ {
+  "query_id": "q13_016",
+  "template": 13,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1943361878
+  }
+ },
+ {
+  "query_id": "q14_002",
+  "template": 14,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1406777868,
+   "start": "1997-11-01",
+   "window": 1,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q14_009",
+  "template": 14,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1947807662,
+   "start": "1994-10-01",
+   "window": 1,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q14_012",
+  "template": 14,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 2049645151,
+   "start": "1993-03-01",
+   "window": 1,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q14_017",
+  "template": 14,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 42520888,
+   "start": "1993-12-01",
+   "window": 1,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q14_018",
+  "template": 14,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1386420955,
+   "start": "1993-07-01",
+   "window": 1,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q14_w03",
+  "template": 14,
+  "variant": "wide",
+  "parameters": {
+   "start": "1997-06-03",
+   "window": 146,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q14_w05",
+  "template": 14,
+  "variant": "wide",
+  "parameters": {
+   "start": "1992-01-16",
+   "window": 71,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q14_w09",
+  "template": 14,
+  "variant": "wide",
+  "parameters": {
+   "start": "1994-01-04",
+   "window": 415,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q14_w14",
+  "template": 14,
+  "variant": "wide",
+  "parameters": {
+   "start": "1992-05-03",
+   "window": 1421,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q14_w18",
+  "template": 14,
+  "variant": "wide",
+  "parameters": {
+   "start": "1994-09-22",
+   "window": 849,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q15_004",
+  "template": 15,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 480593321,
+   "start": "1993-03-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q15_005",
+  "template": 15,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 350495517,
+   "start": "1993-07-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q15_006",
+  "template": 15,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1387610179,
+   "start": "1993-06-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q15_010",
+  "template": 15,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 909286601,
+   "start": "1994-09-01",
+   "window": 3,
+   "unit": "month"
+  }
+ },
+ {
+  "query_id": "q15_w03",
+  "template": 15,
+  "variant": "wide",
+  "parameters": {
+   "start": "1993-05-12",
+   "window": 999,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q15_w09",
+  "template": 15,
+  "variant": "wide",
+  "parameters": {
+   "start": "1995-04-08",
+   "window": 139,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q15_w10",
+  "template": 15,
+  "variant": "wide",
+  "parameters": {
+   "start": "1998-01-15",
+   "window": 9,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q15_w13",
+  "template": 15,
+  "variant": "wide",
+  "parameters": {
+   "start": "1993-10-14",
+   "window": 992,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q15_w15",
+  "template": 15,
+  "variant": "wide",
+  "parameters": {
+   "start": "1993-02-23",
+   "window": 414,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q15_w19",
+  "template": 15,
+  "variant": "wide",
+  "parameters": {
+   "start": "1992-08-21",
+   "window": 1289,
+   "unit": "day"
+  }
+ },
+ {
+  "query_id": "q16_001",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1861781687
+  }
+ },
+ {
+  "query_id": "q16_006",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 211744191
+  }
+ },
+ {
+  "query_id": "q16_007",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1511200068
+  }
+ },
+ {
+  "query_id": "q16_008",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 966475428
+  }
+ },
+ {
+  "query_id": "q16_014",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 147990946
+  }
+ },
+ {
+  "query_id": "q16_015",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1366121565
+  }
+ },
+ {
+  "query_id": "q16_016",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1874328924
+  }
+ },
+ {
+  "query_id": "q16_018",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 514253766
+  }
+ },
+ {
+  "query_id": "q16_019",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1173884162
+  }
+ },
+ {
+  "query_id": "q16_020",
+  "template": 16,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 496968104
+  }
+ },
+ {
+  "query_id": "q17_001",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 635147688
+  }
+ },
+ {
+  "query_id": "q17_003",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1787330372
+  }
+ },
+ {
+  "query_id": "q17_005",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1144243456
+  }
+ },
+ {
+  "query_id": "q17_009",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 815219066
+  }
+ },
+ {
+  "query_id": "q17_010",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1398582979
+  }
+ },
+ {
+  "query_id": "q17_013",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 366534646
+  }
+ },
+ {
+  "query_id": "q17_014",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 413787612
+  }
+ },
+ {
+  "query_id": "q17_016",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1504294361
+  }
+ },
+ {
+  "query_id": "q17_018",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 825402001
+  }
+ },
+ {
+  "query_id": "q17_019",
+  "template": 17,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1951727049
+  }
+ },
+ {
+  "query_id": "q18_001",
+  "template": 18,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 779709197,
+   "quantity": 312
+  }
+ },
+ {
+  "query_id": "q18_004",
+  "template": 18,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 846029903,
+   "quantity": 315
+  }
+ },
+ {
+  "query_id": "q18_w02",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 81
+  }
+ },
+ {
+  "query_id": "q18_w03",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 201
+  }
+ },
+ {
+  "query_id": "q18_w06",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 244
+  }
+ },
+ {
+  "query_id": "q18_w07",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 99
+  }
+ },
+ {
+  "query_id": "q18_w13",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 188
+  }
+ },
+ {
+  "query_id": "q18_w14",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 165
+  }
+ },
+ {
+  "query_id": "q18_w16",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 219
+  }
+ },
+ {
+  "query_id": "q18_w18",
+  "template": 18,
+  "variant": "wide",
+  "parameters": {
+   "quantity": 152
+  }
+ },
+ {
+  "query_id": "q19_002",
+  "template": 19,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1009689368,
+   "brand1": "Brand#34",
+   "quantity1": 5,
+   "quantity_band": 10,
+   "size1": 5,
+   "brand2": "Brand#52",
+   "quantity2": 14,
+   "size2": 10,
+   "brand3": "Brand#25",
+   "quantity3": 28,
+   "size3": 15
+  }
+ },
+ {
+  "query_id": "q19_003",
+  "template": 19,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1659140427,
+   "brand1": "Brand#35",
+   "quantity1": 1,
+   "quantity_band": 10,
+   "size1": 5,
+   "brand2": "Brand#24",
+   "quantity2": 11,
+   "size2": 10,
+   "brand3": "Brand#11",
+   "quantity3": 23,
+   "size3": 15
+  }
+ },
+ {
+  "query_id": "q19_011",
+  "template": 19,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1075490680,
+   "brand1": "Brand#33",
+   "quantity1": 4,
+   "quantity_band": 10,
+   "size1": 5,
+   "brand2": "Brand#31",
+   "quantity2": 19,
+   "size2": 10,
+   "brand3": "Brand#33",
+   "quantity3": 24,
+   "size3": 15
+  }
+ },
+ {
+  "query_id": "q19_017",
+  "template": 19,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 817265847,
+   "brand1": "Brand#53",
+   "quantity1": 8,
+   "quantity_band": 10,
+   "size1": 5,
+   "brand2": "Brand#35",
+   "quantity2": 13,
+   "size2": 10,
+   "brand3": "Brand#53",
+   "quantity3": 26,
+   "size3": 15
+  }
+ },
+ {
+  "query_id": "q19_w01",
+  "template": 19,
+  "variant": "wide",
+  "parameters": {
+   "brand1": "Brand#53",
+   "brand2": "Brand#24",
+   "brand3": "Brand#31",
+   "quantity1": 26,
+   "quantity2": 44,
+   "quantity3": 26,
+   "quantity_band": 38,
+   "size1": 3,
+   "size2": 11,
+   "size3": 5
+  }
+ },
+ {
+  "query_id": "q19_w06",
+  "template": 19,
+  "variant": "wide",
+  "parameters": {
+   "brand1": "Brand#15",
+   "brand2": "Brand#34",
+   "brand3": "Brand#55",
+   "quantity1": 39,
+   "quantity2": 32,
+   "quantity3": 41,
+   "quantity_band": 8,
+   "size1": 3,
+   "size2": 4,
+   "size3": 2
+  }
+ },
+ {
+  "query_id": "q19_w08",
+  "template": 19,
+  "variant": "wide",
+  "parameters": {
+   "brand1": "Brand#41",
+   "brand2": "Brand#35",
+   "brand3": "Brand#23",
+   "quantity1": 13,
+   "quantity2": 11,
+   "quantity3": 43,
+   "quantity_band": 20,
+   "size1": 3,
+   "size2": 26,
+   "size3": 2
+  }
+ },
+ {
+  "query_id": "q19_w12",
+  "template": 19,
+  "variant": "wide",
+  "parameters": {
+   "brand1": "Brand#23",
+   "brand2": "Brand#23",
+   "brand3": "Brand#25",
+   "quantity1": 49,
+   "quantity2": 20,
+   "quantity3": 48,
+   "quantity_band": 23,
+   "size1": 10,
+   "size2": 5,
+   "size3": 1
+  }
+ },
+ {
+  "query_id": "q19_w13",
+  "template": 19,
+  "variant": "wide",
+  "parameters": {
+   "brand1": "Brand#31",
+   "brand2": "Brand#55",
+   "brand3": "Brand#23",
+   "quantity1": 44,
+   "quantity2": 39,
+   "quantity3": 49,
+   "quantity_band": 1,
+   "size1": 7,
+   "size2": 34,
+   "size3": 1
+  }
+ },
+ {
+  "query_id": "q19_w15",
+  "template": 19,
+  "variant": "wide",
+  "parameters": {
+   "brand1": "Brand#24",
+   "brand2": "Brand#41",
+   "brand3": "Brand#31",
+   "quantity1": 47,
+   "quantity2": 44,
+   "quantity3": 49,
+   "quantity_band": 29,
+   "size1": 2,
+   "size2": 9,
+   "size3": 5
+  }
+ },
+ {
+  "query_id": "q20_007",
+  "template": 20,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1405700984,
+   "prefix": "blush",
+   "start": "1995-01-01",
+   "window": 1,
+   "unit": "year",
+   "nation": "IRAN"
+  }
+ },
+ {
+  "query_id": "q20_010",
+  "template": 20,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1456075140,
+   "prefix": "plum",
+   "start": "1994-01-01",
+   "window": 1,
+   "unit": "year",
+   "nation": "PERU"
+  }
+ },
+ {
+  "query_id": "q20_013",
+  "template": 20,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1163893930,
+   "prefix": "maroon",
+   "start": "1994-01-01",
+   "window": 1,
+   "unit": "year",
+   "nation": "JORDAN"
+  }
+ },
+ {
+  "query_id": "q20_019",
+  "template": 20,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1740091631,
+   "prefix": "cream",
+   "start": "1993-01-01",
+   "window": 1,
+   "unit": "year",
+   "nation": "BRAZIL"
+  }
+ },
+ {
+  "query_id": "q20_w03",
+  "template": 20,
+  "variant": "wide",
+  "parameters": {
+   "prefix": "cornflower fros",
+   "start": "1992-06-02",
+   "window": 25,
+   "unit": "day",
+   "nation": "JAPAN"
+  }
+ },
+ {
+  "query_id": "q20_w05",
+  "template": 20,
+  "variant": "wide",
+  "parameters": {
+   "prefix": "sandy slat",
+   "start": "1995-10-03",
+   "window": 24,
+   "unit": "day",
+   "nation": "RUSSIA"
+  }
+ },
+ {
+  "query_id": "q20_w11",
+  "template": 20,
+  "variant": "wide",
+  "parameters": {
+   "prefix": "pink mi",
+   "start": "1992-03-22",
+   "window": 563,
+   "unit": "day",
+   "nation": "IRAN"
+  }
+ },
+ {
+  "query_id": "q20_w14",
+  "template": 20,
+  "variant": "wide",
+  "parameters": {
+   "prefix": "ma",
+   "start": "1992-02-21",
+   "window": 1348,
+   "unit": "day",
+   "nation": "EGYPT"
+  }
+ },
+ {
+  "query_id": "q20_w18",
+  "template": 20,
+  "variant": "wide",
+  "parameters": {
+   "prefix": "d",
+   "start": "1993-08-30",
+   "window": 183,
+   "unit": "day",
+   "nation": "ALGERIA"
+  }
+ },
+ {
+  "query_id": "q20_w20",
+  "template": 20,
+  "variant": "wide",
+  "parameters": {
+   "prefix": "p",
+   "start": "1992-05-10",
+   "window": 13,
+   "unit": "day",
+   "nation": "CANADA"
+  }
+ },
+ {
+  "query_id": "q21_002",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 713378201
+  }
+ },
+ {
+  "query_id": "q21_003",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1536116992
+  }
+ },
+ {
+  "query_id": "q21_006",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 498940838
+  }
+ },
+ {
+  "query_id": "q21_008",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 587913538
+  }
+ },
+ {
+  "query_id": "q21_010",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1106052056
+  }
+ },
+ {
+  "query_id": "q21_012",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 899760130
+  }
+ },
+ {
+  "query_id": "q21_013",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1456917046
+  }
+ },
+ {
+  "query_id": "q21_015",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 644244383
+  }
+ },
+ {
+  "query_id": "q21_017",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1644891849
+  }
+ },
+ {
+  "query_id": "q21_020",
+  "template": 21,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 227810065
+  }
+ },
+ {
+  "query_id": "q22_001",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 294824571
+  }
+ },
+ {
+  "query_id": "q22_003",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1361768941
+  }
+ },
+ {
+  "query_id": "q22_006",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1564293556
+  }
+ },
+ {
+  "query_id": "q22_010",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1452426458
+  }
+ },
+ {
+  "query_id": "q22_011",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1436369041
+  }
+ },
+ {
+  "query_id": "q22_012",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 2035107802
+  }
+ },
+ {
+  "query_id": "q22_013",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1098163374
+  }
+ },
+ {
+  "query_id": "q22_014",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 367062331
+  }
+ },
+ {
+  "query_id": "q22_015",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 1999258168
+  }
+ },
+ {
+  "query_id": "q22_016",
+  "template": 22,
+  "variant": "std",
+  "parameters": {
+   "qgen_seed": 911344451
+  }
+ }
+]

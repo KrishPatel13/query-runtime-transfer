@@ -1,0 +1,906 @@
+[
+ {
+  "query_id": "q01_a",
+  "template": 1,
+  "variant": "a",
+  "parameters": {
+   "job_name": "1a"
+  }
+ },
+ {
+  "query_id": "q01_b",
+  "template": 1,
+  "variant": "b",
+  "parameters": {
+   "job_name": "1b"
+  }
+ },
+ {
+  "query_id": "q01_c",
+  "template": 1,
+  "variant": "c",
+  "parameters": {
+   "job_name": "1c"
+  }
+ },
+ {
+  "query_id": "q01_d",
+  "template": 1,
+  "variant": "d",
+  "parameters": {
+   "job_name": "1d"
+  }
+ },
+ {
+  "query_id": "q02_a",
+  "template": 2,
+  "variant": "a",
+  "parameters": {
+   "job_name": "2a"
+  }
+ },
+ {
+  "query_id": "q02_b",
+  "template": 2,
+  "variant": "b",
+  "parameters": {
+   "job_name": "2b"
+  }
+ },
+ {
+  "query_id": "q02_c",
+  "template": 2,
+  "variant": "c",
+  "parameters": {
+   "job_name": "2c"
+  }
+ },
+ {
+  "query_id": "q02_d",
+  "template": 2,
+  "variant": "d",
+  "parameters": {
+   "job_name": "2d"
+  }
+ },
+ {
+  "query_id": "q03_a",
+  "template": 3,
+  "variant": "a",
+  "parameters": {
+   "job_name": "3a"
+  }
+ },
+ {
+  "query_id": "q03_b",
+  "template": 3,
+  "variant": "b",
+  "parameters": {
+   "job_name": "3b"
+  }
+ },
+ {
+  "query_id": "q03_c",
+  "template": 3,
+  "variant": "c",
+  "parameters": {
+   "job_name": "3c"
+  }
+ },
+ {
+  "query_id": "q04_a",
+  "template": 4,
+  "variant": "a",
+  "parameters": {
+   "job_name": "4a"
+  }
+ },
+ {
+  "query_id": "q04_b",
+  "template": 4,
+  "variant": "b",
+  "parameters": {
+   "job_name": "4b"
+  }
+ },
+ {
+  "query_id": "q04_c",
+  "template": 4,
+  "variant": "c",
+  "parameters": {
+   "job_name": "4c"
+  }
+ },
+ {
+  "query_id": "q05_a",
+  "template": 5,
+  "variant": "a",
+  "parameters": {
+   "job_name": "5a"
+  }
+ },
+ {
+  "query_id": "q05_b",
+  "template": 5,
+  "variant": "b",
+  "parameters": {
+   "job_name": "5b"
+  }
+ },
+ {
+  "query_id": "q05_c",
+  "template": 5,
+  "variant": "c",
+  "parameters": {
+   "job_name": "5c"
+  }
+ },
+ {
+  "query_id": "q06_a",
+  "template": 6,
+  "variant": "a",
+  "parameters": {
+   "job_name": "6a"
+  }
+ },
+ {
+  "query_id": "q06_b",
+  "template": 6,
+  "variant": "b",
+  "parameters": {
+   "job_name": "6b"
+  }
+ },
+ {
+  "query_id": "q06_c",
+  "template": 6,
+  "variant": "c",
+  "parameters": {
+   "job_name": "6c"
+  }
+ },
+ {
+  "query_id": "q06_d",
+  "template": 6,
+  "variant": "d",
+  "parameters": {
+   "job_name": "6d"
+  }
+ },
+ {
+  "query_id": "q06_e",
+  "template": 6,
+  "variant": "e",
+  "parameters": {
+   "job_name": "6e"
+  }
+ },
+ {
+  "query_id": "q06_f",
+  "template": 6,
+  "variant": "f",
+  "parameters": {
+   "job_name": "6f"
+  }
+ },
+ {
+  "query_id": "q07_a",
+  "template": 7,
+  "variant": "a",
+  "parameters": {
+   "job_name": "7a"
+  }
+ },
+ {
+  "query_id": "q07_b",
+  "template": 7,
+  "variant": "b",
+  "parameters": {
+   "job_name": "7b"
+  }
+ },
+ {
+  "query_id": "q07_c",
+  "template": 7,
+  "variant": "c",
+  "parameters": {
+   "job_name": "7c"
+  }
+ },
+ {
+  "query_id": "q08_a",
+  "template": 8,
+  "variant": "a",
+  "parameters": {
+   "job_name": "8a"
+  }
+ },
+ {
+  "query_id": "q08_b",
+  "template": 8,
+  "variant": "b",
+  "parameters": {
+   "job_name": "8b"
+  }
+ },
+ {
+  "query_id": "q08_c",
+  "template": 8,
+  "variant": "c",
+  "parameters": {
+   "job_name": "8c"
+  }
+ },
+ {
+  "query_id": "q08_d",
+  "template": 8,
+  "variant": "d",
+  "parameters": {
+   "job_name": "8d"
+  }
+ },
+ {
+  "query_id": "q09_a",
+  "template": 9,
+  "variant": "a",
+  "parameters": {
+   "job_name": "9a"
+  }
+ },
+ {
+  "query_id": "q09_b",
+  "template": 9,
+  "variant": "b",
+  "parameters": {
+   "job_name": "9b"
+  }
+ },
+ {
+  "query_id": "q09_c",
+  "template": 9,
+  "variant": "c",
+  "parameters": {
+   "job_name": "9c"
+  }
+ },
+ {
+  "query_id": "q09_d",
+  "template": 9,
+  "variant": "d",
+  "parameters": {
+   "job_name": "9d"
+  }
+ },
+ {
+  "query_id": "q10_a",
+  "template": 10,
+  "variant": "a",
+  "parameters": {
+   "job_name": "10a"
+  }
+ },
+ {
+  "query_id": "q10_b",
+  "template": 10,
+  "variant": "b",
+  "parameters": {
+   "job_name": "10b"
+  }
+ },
+ {
+  "query_id": "q10_c",
+  "template": 10,
+  "variant": "c",
+  "parameters": {
+   "job_name": "10c"
+  }
+ },
+ {
+  "query_id": "q11_a",
+  "template": 11,
+  "variant": "a",
+  "parameters": {
+   "job_name": "11a"
+  }
+ },
+ {
+  "query_id": "q11_b",
+  "template": 11,
+  "variant": "b",
+  "parameters": {
+   "job_name": "11b"
+  }
+ },
+ {
+  "query_id": "q11_c",
+  "template": 11,
+  "variant": "c",
+  "parameters": {
+   "job_name": "11c"
+  }
+ },
+ {
+  "query_id": "q11_d",
+  "template": 11,
+  "variant": "d",
+  "parameters": {
+   "job_name": "11d"
+  }
+ },
+ {
+  "query_id": "q12_a",
+  "template": 12,
+  "variant": "a",
+  "parameters": {
+   "job_name": "12a"
+  }
+ },
+ {
+  "query_id": "q12_b",
+  "template": 12,
+  "variant": "b",
+  "parameters": {
+   "job_name": "12b"
+  }
+ },
+ {
+  "query_id": "q12_c",
+  "template": 12,
+  "variant": "c",
+  "parameters": {
+   "job_name": "12c"
+  }
+ },
+ {
+  "query_id": "q13_a",
+  "template": 13,
+  "variant": "a",
+  "parameters": {
+   "job_name": "13a"
+  }
+ },
+ {
+  "query_id": "q13_b",
+  "template": 13,
+  "variant": "b",
+  "parameters": {
+   "job_name": "13b"
+  }
+ },
+ {
+  "query_id": "q13_c",
+  "template": 13,
+  "variant": "c",
+  "parameters": {
+   "job_name": "13c"
+  }
+ },
+ {
+  "query_id": "q13_d",
+  "template": 13,
+  "variant": "d",
+  "parameters": {
+   "job_name": "13d"
+  }
+ },
+ {
+  "query_id": "q14_a",
+  "template": 14,
+  "variant": "a",
+  "parameters": {
+   "job_name": "14a"
+  }
+ },
+ {
+  "query_id": "q14_b",
+  "template": 14,
+  "variant": "b",
+  "parameters": {
+   "job_name": "14b"
+  }
+ },
+ {
+  "query_id": "q14_c",
+  "template": 14,
+  "variant": "c",
+  "parameters": {
+   "job_name": "14c"
+  }
+ },
+ {
+  "query_id": "q15_a",
+  "template": 15,
+  "variant": "a",
+  "parameters": {
+   "job_name": "15a"
+  }
+ },
+ {
+  "query_id": "q15_b",
+  "template": 15,
+  "variant": "b",
+  "parameters": {
+   "job_name": "15b"
+  }
+ },
+ {
+  "query_id": "q15_c",
+  "template": 15,
+  "variant": "c",
+  "parameters": {
+   "job_name": "15c"
+  }
+ },
+ {
+  "query_id": "q15_d",
+  "template": 15,
+  "variant": "d",
+  "parameters": {
+   "job_name": "15d"
+  }
+ },
+ {
+  "query_id": "q16_a",
+  "template": 16,
+  "variant": "a",
+  "parameters": {
+   "job_name": "16a"
+  }
+ },
+ {
+  "query_id": "q16_b",
+  "template": 16,
+  "variant": "b",
+  "parameters": {
+   "job_name": "16b"
+  }
+ },
+ {
+  "query_id": "q16_c",
+  "template": 16,
+  "variant": "c",
+  "parameters": {
+   "job_name": "16c"
+  }
+ },
+ {
+  "query_id": "q16_d",
+  "template": 16,
+  "variant": "d",
+  "parameters": {
+   "job_name": "16d"
+  }
+ },
+ {
+  "query_id": "q17_a",
+  "template": 17,
+  "variant": "a",
+  "parameters": {
+   "job_name": "17a"
+  }
+ },
+ {
+  "query_id": "q17_b",
+  "template": 17,
+  "variant": "b",
+  "parameters": {
+   "job_name": "17b"
+  }
+ },
+ {
+  "query_id": "q17_c",
+  "template": 17,
+  "variant": "c",
+  "parameters": {
+   "job_name": "17c"
+  }
+ },
+ {
+  "query_id": "q17_d",
+  "template": 17,
+  "variant": "d",
+  "parameters": {
+   "job_name": "17d"
+  }
+ },
+ {
+  "query_id": "q17_e",
+  "template": 17,
+  "variant": "e",
+  "parameters": {
+   "job_name": "17e"
+  }
+ },
+ {
+  "query_id": "q17_f",
+  "template": 17,
+  "variant": "f",
+  "parameters": {
+   "job_name": "17f"
+  }
+ },
+ {
+  "query_id": "q18_a",
+  "template": 18,
+  "variant": "a",
+  "parameters": {
+   "job_name": "18a"
+  }
+ },
+ {
+  "query_id": "q18_b",
+  "template": 18,
+  "variant": "b",
+  "parameters": {
+   "job_name": "18b"
+  }
+ },
+ {
+  "query_id": "q18_c",
+  "template": 18,
+  "variant": "c",
+  "parameters": {
+   "job_name": "18c"
+  }
+ },
+ {
+  "query_id": "q19_a",
+  "template": 19,
+  "variant": "a",
+  "parameters": {
+   "job_name": "19a"
+  }
+ },
+ {
+  "query_id": "q19_b",
+  "template": 19,
+  "variant": "b",
+  "parameters": {
+   "job_name": "19b"
+  }
+ },
+ {
+  "query_id": "q19_c",
+  "template": 19,
+  "variant": "c",
+  "parameters": {
+   "job_name": "19c"
+  }
+ },
+ {
+  "query_id": "q19_d",
+  "template": 19,
+  "variant": "d",
+  "parameters": {
+   "job_name": "19d"
+  }
+ },
+ {
+  "query_id": "q20_a",
+  "template": 20,
+  "variant": "a",
+  "parameters": {
+   "job_name": "20a"
+  }
+ },
+ {
+  "query_id": "q20_b",
+  "template": 20,
+  "variant": "b",
+  "parameters": {
+   "job_name": "20b"
+  }
+ },
+ {
+  "query_id": "q20_c",
+  "template": 20,
+  "variant": "c",
+  "parameters": {
+   "job_name": "20c"
+  }
+ },
+ {
+  "query_id": "q21_a",
+  "template": 21,
+  "variant": "a",
+  "parameters": {
+   "job_name": "21a"
+  }
+ },
+ {
+  "query_id": "q21_b",
+  "template": 21,
+  "variant": "b",
+  "parameters": {
+   "job_name": "21b"
+  }
+ },
+ {
+  "query_id": "q21_c",
+  "template": 21,
+  "variant": "c",
+  "parameters": {
+   "job_name": "21c"
+  }
+ },
+ {
+  "query_id": "q22_a",
+  "template": 22,
+  "variant": "a",
+  "parameters": {
+   "job_name": "22a"
+  }
+ },
+ {
+  "query_id": "q22_b",
+  "template": 22,
+  "variant": "b",
+  "parameters": {
+   "job_name": "22b"
+  }
+ },
+ {
+  "query_id": "q22_c",
+  "template": 22,
+  "variant": "c",
+  "parameters": {
+   "job_name": "22c"
+  }
+ },
+ {
+  "query_id": "q22_d",
+  "template": 22,
+  "variant": "d",
+  "parameters": {
+   "job_name": "22d"
+  }
+ },
+ {
+  "query_id": "q23_a",
+  "template": 23,
+  "variant": "a",
+  "parameters": {
+   "job_name": "23a"
+  }
+ },
+ {
+  "query_id": "q23_b",
+  "template": 23,
+  "variant": "b",
+  "parameters": {
+   "job_name": "23b"
+  }
+ },
+ {
+  "query_id": "q23_c",
+  "template": 23,
+  "variant": "c",
+  "parameters": {
+   "job_name": "23c"
+  }
+ },
+ {
+  "query_id": "q24_a",
+  "template": 24,
+  "variant": "a",
+  "parameters": {
+   "job_name": "24a"
+  }
+ },
+ {
+  "query_id": "q24_b",
+  "template": 24,
+  "variant": "b",
+  "parameters": {
+   "job_name": "24b"
+  }
+ },
+ {
+  "query_id": "q25_a",
+  "template": 25,
+  "variant": "a",
+  "parameters": {
+   "job_name": "25a"
+  }
+ },
+ {
+  "query_id": "q25_b",
+  "template": 25,
+  "variant": "b",
+  "parameters": {
+   "job_name": "25b"
+  }
+ },
+ {
+  "query_id": "q25_c",
+  "template": 25,
+  "variant": "c",
+  "parameters": {
+   "job_name": "25c"
+  }
+ },
+ {
+  "query_id": "q26_a",
+  "template": 26,
+  "variant": "a",
+  "parameters": {
+   "job_name": "26a"
+  }
+ },
+ {
+  "query_id": "q26_b",
+  "template": 26,
+  "variant": "b",
+  "parameters": {
+   "job_name": "26b"
+  }
+ },
+ {
+  "query_id": "q26_c",
+  "template": 26,
+  "variant": "c",
+  "parameters": {
+   "job_name": "26c"
+  }
+ },
+ {
+  "query_id": "q27_a",
+  "template": 27,
+  "variant": "a",
+  "parameters": {
+   "job_name": "27a"
+  }
+ },
+ {
+  "query_id": "q27_b",
+  "template": 27,
+  "variant": "b",
+  "parameters": {
+   "job_name": "27b"
+  }
+ },
+ {
+  "query_id": "q27_c",
+  "template": 27,
+  "variant": "c",
+  "parameters": {
+   "job_name": "27c"
+  }
+ },
+ {
+  "query_id": "q28_a",
+  "template": 28,
+  "variant": "a",
+  "parameters": {
+   "job_name": "28a"
+  }
+ },
+ {
+  "query_id": "q28_b",
+  "template": 28,
+  "variant": "b",
+  "parameters": {
+   "job_name": "28b"
+  }
+ },
+ {
+  "query_id": "q28_c",
+  "template": 28,
+  "variant": "c",
+  "parameters": {
+   "job_name": "28c"
+  }
+ },
+ {
+  "query_id": "q29_a",
+  "template": 29,
+  "variant": "a",
+  "parameters": {
+   "job_name": "29a"
+  }
+ },
+ {
+  "query_id": "q29_b",
+  "template": 29,
+  "variant": "b",
+  "parameters": {
+   "job_name": "29b"
+  }
+ },
+ {
+  "query_id": "q29_c",
+  "template": 29,
+  "variant": "c",
+  "parameters": {
+   "job_name": "29c"
+  }
+ },
+ {
+  "query_id": "q30_a",
+  "template": 30,
+  "variant": "a",
+  "parameters": {
+   "job_name": "30a"
+  }
+ },
+ {
+  "query_id": "q30_b",
+  "template": 30,
+  "variant": "b",
+  "parameters": {
+   "job_name": "30b"
+  }
+ },
+ {
+  "query_id": "q30_c",
+  "template": 30,
+  "variant": "c",
+  "parameters": {
+   "job_name": "30c"
+  }
+ },
+ {
+  "query_id": "q31_a",
+  "template": 31,
+  "variant": "a",
+  "parameters": {
+   "job_name": "31a"
+  }
+ },
+ {
+  "query_id": "q31_b",
+  "template": 31,
+  "variant": "b",
+  "parameters": {
+   "job_name": "31b"
+  }
+ },
+ {
+  "query_id": "q31_c",
+  "template": 31,
+  "variant": "c",
+  "parameters": {
+   "job_name": "31c"
+  }
+ },
+ {
+  "query_id": "q32_a",
+  "template": 32,
+  "variant": "a",
+  "parameters": {
+   "job_name": "32a"
+  }
+ },
+ {
+  "query_id": "q32_b",
+  "template": 32,
+  "variant": "b",
+  "parameters": {
+   "job_name": "32b"
+  }
+ },
+ {
+  "query_id": "q33_a",
+  "template": 33,
+  "variant": "a",
+  "parameters": {
+   "job_name": "33a"
+  }
+ },
+ {
+  "query_id": "q33_b",
+  "template": 33,
+  "variant": "b",
+  "parameters": {
+   "job_name": "33b"
+  }
+ },
+ {
+  "query_id": "q33_c",
+  "template": 33,
+  "variant": "c",
+  "parameters": {
+   "job_name": "33c"
+  }
+ }
+]

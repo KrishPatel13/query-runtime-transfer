@@ -1,0 +1,7 @@
+26 pair jobs on 16 processes
+[Parallel(n_jobs=16)]: Using backend LokyBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done   7 out of  26 | elapsed:  5.9min remaining: 16.0min
+[Parallel(n_jobs=16)]: Done  13 out of  26 | elapsed:  7.7min remaining:  7.7min
+[Parallel(n_jobs=16)]: Done  19 out of  26 | elapsed: 11.5min remaining:  4.2min
+[Parallel(n_jobs=16)]: Done  26 out of  26 | elapsed: 12.1min finished
+wrote results/paper/nn_ext in 749.8 s

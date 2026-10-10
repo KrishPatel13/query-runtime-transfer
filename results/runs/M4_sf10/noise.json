@@ -1,0 +1,92 @@
+{
+ "machine": "M4_sf10",
+ "query_dir": "queries/tpch_sf10_sub",
+ "rejected_attempts": [
+  "pass3_attempt1"
+ ],
+ "passes": [
+  1,
+  2,
+  3
+ ],
+ "n_queries": 220,
+ "n_ok": 220,
+ "status_counts": {
+  "ok": 220
+ },
+ "pass_to_pass": {
+  "pairs": 3,
+  "n": 660,
+  "median_q": 1.0656516467158619,
+  "p90_q": 1.2041381719134021,
+  "max_q": 1.6294547081683441
+ },
+ "pairs": {
+  "pass1_vs_pass2": {
+   "n_compared": 220,
+   "same_plan": 220,
+   "all": {
+    "n": 220,
+    "median_q": 1.0597974402395727,
+    "p90_q": 1.2009286557835275,
+    "max_q": 1.6294547081683441,
+    "median_ratio": 1.0113489257166783,
+    "ratio_p10": 0.9044374767858239,
+    "ratio_p90": 1.1729643670724996,
+    "log_corr": 0.996721677120779,
+    "spearman": 0.9917999808410768,
+    "within_template_corr": 0.9854041819022064
+   },
+   "worst_template_median_q": {
+    "template": 19,
+    "q": 1.1857436343413945
+   },
+   "longest_gap_s": 864.0,
+   "shift": null
+  },
+  "pass1_vs_pass3": {
+   "n_compared": 220,
+   "same_plan": 220,
+   "all": {
+    "n": 220,
+    "median_q": 1.0680755253964864,
+    "p90_q": 1.2075141813064785,
+    "max_q": 1.4711272602244976,
+    "median_ratio": 0.9660756679584356,
+    "ratio_p10": 0.8372524296152456,
+    "ratio_p90": 1.0863668238743247,
+    "log_corr": 0.9969290427247027,
+    "spearman": 0.9898998664510348,
+    "within_template_corr": 0.9869017601374006
+   },
+   "worst_template_median_q": {
+    "template": 19,
+    "q": 1.1652868821963756
+   },
+   "longest_gap_s": 802.0,
+   "shift": null
+  },
+  "pass2_vs_pass3": {
+   "n_compared": 220,
+   "same_plan": 220,
+   "all": {
+    "n": 220,
+    "median_q": 1.0698069429439454,
+    "p90_q": 1.2067079569752515,
+    "max_q": 1.5363109927008143,
+    "median_ratio": 0.9516350987957725,
+    "ratio_p10": 0.8318273502068466,
+    "ratio_p90": 1.057218861466233,
+    "log_corr": 0.9968940035308961,
+    "spearman": 0.9907755419439545,
+    "within_template_corr": 0.986766274837419
+   },
+   "worst_template_median_q": {
+    "template": 19,
+    "q": 1.1717612553587582
+   },
+   "longest_gap_s": 802.0,
+   "shift": null
+  }
+ }
+}

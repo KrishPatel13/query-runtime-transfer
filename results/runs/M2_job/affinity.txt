@@ -1,0 +1,13 @@
+# PostgreSQL in ~/cs680-pilot/job/pgdata pinned to CPU 19 of 22 on laptop (2026-10-08T20:02:56-04:00)
+# command: taskset -c 19 pg_ctl start -w -l ~/cs680-pilot/job/postgres-M2_job.log
+postmaster 6514: 19
+child 6515 (postgres: io worker 0): 19
+child 6516 (postgres: io worker 1): 19
+child 6517 (postgres: io worker 2): 19
+child 6518 (postgres: checkpointer ): 19
+child 6519 (postgres: background writer ): 19
+child 6521 (postgres: walwriter ): 19
+child 6522 (postgres: autovacuum launcher ): 19
+child 6523 (postgres: logical replication launcher ): 19
+parallel worker 6590: 19
+parallel worker 6591: 19

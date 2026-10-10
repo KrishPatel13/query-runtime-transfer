@@ -1,0 +1,23 @@
+E1 (tpch10): environments M3, M4, M6; split 154 pool and 66 test queries
+E2 (job): environments M1, M2, M3, M4, M6; split 78 pool and 35 test queries
+E1 (tpch10): 6 pairs, 6 with a processor change, kH = 100
+  H1 holds {'ok': 6, 'n': 6, 'min': 0.7618711303073376, 'max': 0.8432719739109663, 'noise_min': 0.07815624733738391, 'noise_max': 0.12228522146786876}
+  H2 fails {'vs_speed_ok': 5, 'vs_ridge_ok': 4, 'n': 6, 'n_ridge': 6, 'vs_speed_max_hi': 1.0032750802591632}
+  H3 fails {'ok': 2, 'ok_ci': 0, 'n': 6, 'gm': 1.0016006352610163}
+  H4 holds {'ok': 6, 'n': 6, 'max': 1.0756238726439984}
+  H5 holds {'ok': 6, 'ok_ci': 5, 'n': 6, 'gm': 0.9547993027778569}
+  H6 descriptive {'ok': 0, 'point': 2, 'n': 6, 'gm': 1.009805606651483}
+  H6a fails {'point': 3, 'ok_ci': 1, 'n': 6, 'gm': 0.9890487901075513}
+  H6b holds {'ok': 6, 'n': 6, 'max_hi': 1.0487411149837387}
+E2 (job): 20 pairs, 16 with a processor change, kH = 33
+  H1 fails {'ok': 18, 'n': 20, 'min': 0.48906157235052333, 'max': 0.8345043975083046, 'noise_min': 0.281056412866399, 'noise_max': 0.3344332902735756}
+  H2 fails {'vs_speed_ok': 2, 'vs_ridge_ok': 0, 'n': 20, 'n_ridge': 20, 'vs_speed_max_hi': 1.306466526999977}
+  H3 fails {'ok': 6, 'ok_ci': 0, 'n': 16, 'gm': 1.0065863247492703}
+  H4 holds {'ok': 20, 'n': 20, 'max': 1.139831532613783}
+  H5 fails {'ok': 0, 'ok_ci': 0, 'n': 20, 'gm': 1.2357171079962406}
+  H6 descriptive {'ok': 0, 'point': 0, 'n': 20, 'gm': 1.1945945003921885}
+  H6a fails {'point': 0, 'ok_ci': 0, 'n': 20, 'gm': 1.15095006986373}
+  H6b fails {'ok': 0, 'n': 20, 'max_hi': 1.5389842189471918}
+all new pairs: H6 fails {'ok': 0, 'point': 2, 'n': 26, 'n_pairs': 26, 'gm': 1.149154287609346, 'experiments': ['job', 'tpch10']}
+all new pairs: H6_head fails {'ok': 0, 'point': 2, 'n': 26, 'n_pairs': 26, 'gm': 1.150634914902423, 'experiments': ['job', 'tpch10']}
+wrote results/paper/ext

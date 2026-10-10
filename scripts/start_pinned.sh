@@ -14,6 +14,7 @@
 #   LOG_FILE    the server log (default: postgres-pinned.log next to PG_ENV)
 #   OUT         where the affinity check goes (required)
 #   TEST_QUERY  a query that gets parallel workers (default: TPC-H lineitem)
+#   TEST_DB     the database of the test query (default: PGDATABASE of PG_ENV)
 #
 # M4 (the UW server with one processor), TPC-H:
 #   PG_ENV=/var/tmp/pgstudy/pg.env OUT=/var/tmp/pgstudy/runs/M4/affinity.txt \
@@ -32,6 +33,7 @@ nproc_all=$(nproc --all)
 CPU="${CPU:-$((nproc_all - 1))}"
 LOG_FILE="${LOG_FILE:-$(dirname "$PG_ENV")/postgres-pinned.log}"
 TEST_QUERY="${TEST_QUERY:-select count(*) from lineitem where l_quantity > 0}"
+TEST_DB="${TEST_DB:-$PGDATABASE}"
 
 if pg_ctl status >/dev/null 2>&1; then
     echo "the cluster in $PGDATA is running; stop it first so that it starts pinned" >&2
@@ -53,7 +55,7 @@ mkdir -p "$(dirname "$OUT")"
     for p in $(pgrep -P "$pm"); do
         echo "child $p ($(ps -o args= -p "$p" | cut -c1-40)): $(taskset -cp "$p" | sed 's/.*: //')"
     done
-    psql -XAtq -c "set max_parallel_workers_per_gather = 2; set parallel_setup_cost = 0; set parallel_tuple_cost = 0;
+    psql -XAtq -d "$TEST_DB" -c "set max_parallel_workers_per_gather = 2; set parallel_setup_cost = 0; set parallel_tuple_cost = 0;
                    $TEST_QUERY" >/dev/null &
     q=$!
     seen=0

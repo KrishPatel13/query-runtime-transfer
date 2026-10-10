@@ -1,0 +1,87 @@
+480 tune jobs on 16 processes
+[Parallel(n_jobs=16)]: Using backend LokyBackend with 16 concurrent workers.
+[Parallel(n_jobs=16)]: Done  40 tasks      | elapsed:  1.7min
+[Parallel(n_jobs=16)]: Done 130 tasks      | elapsed:  5.6min
+[Parallel(n_jobs=16)]: Done 256 tasks      | elapsed: 11.2min
+[Parallel(n_jobs=16)]: Done 418 tasks      | elapsed: 21.3min
+[Parallel(n_jobs=16)]: Done 480 out of 480 | elapsed: 25.5min finished
+{
+ "full": {
+  "5": [
+   0.0003,
+   200,
+   1.4162082014117128
+  ],
+  "10": [
+   0.001,
+   100,
+   1.3283846714482914
+  ],
+  "25": [
+   0.001,
+   200,
+   1.226425653636808
+  ],
+  "50": [
+   0.001,
+   400,
+   1.1704888065786085
+  ],
+  "100": [
+   0.001,
+   400,
+   1.1156459190063253
+  ]
+ },
+ "head": {
+  "5": [
+   0.001,
+   200,
+   1.4015639186486606
+  ],
+  "10": [
+   0.001,
+   400,
+   1.3149342050010517
+  ],
+  "25": [
+   0.001,
+   400,
+   1.2213034969098757
+  ],
+  "50": [
+   0.001,
+   400,
+   1.1674342628833076
+  ],
+  "100": [
+   0.001,
+   400,
+   1.1133891082666212
+  ]
+ }
+}
+wrote /var/tmp/pgstudy/nn_dev/tune in 1598.0 s
+	Command being timed: "/var/tmp/pgstudy/venv-nn/bin/python src/paper_nn.py tune --out /var/tmp/pgstudy/nn_dev/tune --jobs 16"
+	User time (seconds): 48618.27
+	System time (seconds): 384.99
+	Percent of CPU this job got: 3054%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 26:44.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 563164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7815816
+	Voluntary context switches: 200862
+	Involuntary context switches: 103768
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 10920
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

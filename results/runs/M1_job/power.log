@@ -1,0 +1,52 @@
+2026-10-08T18:55:08-04:00 pass1 start ac=1 charge=95% saver=0
+2026-10-08T18:55:10-04:00 ac=1 charge=95% saver=0 cpu=7%
+2026-10-08T18:55:41-04:00 ac=1 charge=95% saver=0 cpu=6%
+2026-10-08T18:56:12-04:00 ac=1 charge=96% saver=0 cpu=21%
+2026-10-08T18:56:43-04:00 ac=1 charge=96% saver=0 cpu=1%
+2026-10-08T18:57:14-04:00 ac=1 charge=96% saver=0 cpu=15%
+2026-10-08T18:57:45-04:00 ac=1 charge=96% saver=0 cpu=40%
+2026-10-08T18:58:16-04:00 ac=1 charge=96% saver=0 cpu=10%
+2026-10-08T18:58:47-04:00 ac=1 charge=96% saver=0 cpu=21%
+2026-10-08T18:59:18-04:00 ac=1 charge=96% saver=0 cpu=10%
+2026-10-08T18:59:49-04:00 ac=1 charge=96% saver=0 cpu=18%
+2026-10-08T19:00:20-04:00 ac=1 charge=96% saver=0 cpu=3%
+2026-10-08T19:00:51-04:00 ac=1 charge=96% saver=0 cpu=5%
+2026-10-08T19:01:23-04:00 ac=1 charge=96% saver=0 cpu=9%
+2026-10-08T19:01:54-04:00 ac=1 charge=96% saver=0 cpu=7%
+2026-10-08T19:02:25-04:00 ac=1 charge=96% saver=0 cpu=7%
+2026-10-08T19:02:56-04:00 ac=1 charge=96% saver=0 cpu=10%
+2026-10-08T19:03:21-04:00 pass1 end ac=1 charge=97% saver=0
+2026-10-08T19:03:21-04:00 pass2 start ac=1 charge=97% saver=0
+2026-10-08T19:03:27-04:00 ac=1 charge=97% saver=0 cpu=35%
+2026-10-08T19:03:58-04:00 ac=1 charge=97% saver=0 cpu=15%
+2026-10-08T19:04:29-04:00 ac=1 charge=97% saver=0 cpu=1%
+2026-10-08T19:05:00-04:00 ac=1 charge=97% saver=0 cpu=22%
+2026-10-08T19:05:31-04:00 ac=1 charge=97% saver=0 cpu=2%
+2026-10-08T19:06:02-04:00 ac=1 charge=97% saver=0 cpu=12%
+2026-10-08T19:06:33-04:00 ac=1 charge=97% saver=0 cpu=5%
+2026-10-08T19:07:04-04:00 ac=1 charge=97% saver=0 cpu=6%
+2026-10-08T19:07:35-04:00 ac=1 charge=97% saver=0 cpu=5%
+2026-10-08T19:08:06-04:00 ac=1 charge=97% saver=0 cpu=11%
+2026-10-08T19:08:37-04:00 ac=1 charge=97% saver=0 cpu=1%
+2026-10-08T19:09:08-04:00 ac=1 charge=97% saver=0 cpu=10%
+2026-10-08T19:09:39-04:00 ac=1 charge=97% saver=0 cpu=1%
+2026-10-08T19:10:10-04:00 ac=1 charge=98% saver=0 cpu=10%
+2026-10-08T19:10:41-04:00 ac=1 charge=98% saver=0 cpu=2%
+2026-10-08T19:10:57-04:00 pass2 end ac=1 charge=98% saver=0
+2026-10-08T19:10:58-04:00 pass3 start ac=1 charge=98% saver=0
+2026-10-08T19:11:12-04:00 ac=1 charge=98% saver=0 cpu=17%
+2026-10-08T19:11:43-04:00 ac=1 charge=98% saver=0 cpu=20%
+2026-10-08T19:12:15-04:00 ac=1 charge=98% saver=0 cpu=9%
+2026-10-08T19:12:46-04:00 ac=1 charge=98% saver=0 cpu=18%
+2026-10-08T19:13:17-04:00 ac=1 charge=98% saver=0 cpu=12%
+2026-10-08T19:13:48-04:00 ac=1 charge=98% saver=0 cpu=57%
+2026-10-08T19:14:19-04:00 ac=1 charge=98% saver=0 cpu=15%
+2026-10-08T19:14:50-04:00 ac=1 charge=98% saver=0 cpu=13%
+2026-10-08T19:15:21-04:00 ac=1 charge=98% saver=0 cpu=19%
+2026-10-08T19:15:52-04:00 ac=1 charge=98% saver=0 cpu=25%
+2026-10-08T19:16:23-04:00 ac=1 charge=99% saver=0 cpu=1%
+2026-10-08T19:16:54-04:00 ac=1 charge=99% saver=0 cpu=3%
+2026-10-08T19:17:25-04:00 ac=1 charge=99% saver=0 cpu=5%
+2026-10-08T19:17:56-04:00 ac=1 charge=99% saver=0 cpu=3%
+2026-10-08T19:18:27-04:00 ac=1 charge=99% saver=0 cpu=6%
+2026-10-08T19:18:28-04:00 pass3 end ac=1 charge=99% saver=0

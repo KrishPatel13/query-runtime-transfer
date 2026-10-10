@@ -1,6 +1,8 @@
 Code (src/, scripts/, sql/, tests/)
 ===================================
 
+The two Join Order Benchmark files in sql/ are third-party files (below).
+
 MIT License
 
 Copyright (c) 2026 Krish Patel
@@ -27,18 +29,35 @@ SOFTWARE.
 Measurements and documents (queries/, results/, the .tex and .pdf files, *.md)
 ==============================================================================
 
+The SQL files of queries/job_all/ and queries/job_kept/ are third-party files
+(below).
+
 Copyright (c) 2026 Krish Patel
 
 Licensed under the Creative Commons Attribution 4.0 International License
 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
 
-The queries were generated with the TPC-H and TPC-DS query generators. TPC-H
-and TPC-DS are trademarks of the Transaction Processing Performance Council.
+The TPC-H and TPC-DS queries were generated with the TPC-H and TPC-DS query
+generators. TPC-H and TPC-DS are trademarks of the Transaction Processing
+Performance Council.
 
 
 Third-party files
 =================
 
-paper/acmart.cls and paper/ACM-Reference-Format.bst (the ACM article class)
-are distributed under the LaTeX Project Public License. project.sty and
-watml.sty are the course's style files and keep their authors' terms.
+The Join Order Benchmark (V. Leis, A. Gubichev, A. Mirchev, P. Boncz,
+A. Kemper and T. Neumann, "How Good Are Query Optimizers, Really?", PVLDB
+9(3), 2015): the SQL files of queries/job_all/ and queries/job_kept/ are its
+113 queries, renamed (17b.sql is q17_b.sql) and otherwise unchanged, and
+sql/job_schema.sql and sql/job_fkindexes.sql are its schema and foreign-key
+indexes, all copied by scripts/job_queries.py from
+https://github.com/gregrahn/join-order-benchmark at commit
+a39603662e023e449cb2121997a5034df9e02ebf (queries/job_all/source.json holds
+the SHA-256 of every copied file). That repository states no license; these
+files keep their authors' terms and are not covered by the licenses above.
+The IMDB data the queries run on are not part of this repository:
+scripts/load_job.sh downloads the benchmark authors' snapshot, which comes
+from IMDb and is subject to IMDb's terms of use.
+
+project.sty and watml.sty are the course's style files and keep their
+authors' terms.

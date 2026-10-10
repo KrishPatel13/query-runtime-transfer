@@ -1,0 +1,31 @@
+{
+ "pass": 3,
+ "seed": 2,
+ "attempt": 1,
+ "machine": "M3_sf10",
+ "clocksource": "kvm-clock",
+ "clock_rate": [
+  {
+   "rate": 1.0,
+   "wall_s": 10062.1
+  }
+ ],
+ "check": {
+  "reference": "pass1",
+  "pass": "pass3",
+  "n_compared": 220,
+  "same_plan": 220,
+  "median_q": 1.048962869671569,
+  "p90_q": 1.1683353447677827,
+  "shift": null,
+  "shift_in_reference_order": null,
+  "split_explained": {
+   "pass": 0.01170611117185405,
+   "reference": 0.012619780660985902
+  },
+  "identity": {
+   "reference": "2026-10-08T16:42:08/2026-10-08T19:28:50",
+   "pass": "2026-10-08T22:16:00/2026-10-09T01:03:42"
+  }
+ }
+}

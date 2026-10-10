@@ -5,7 +5,8 @@ one machine to another on TPC-H. This module extends its C2 (adaptation with
 k target queries), its harder test (templates absent from the k queries) and
 its C3 stream to
 
-  1. two workloads (TPC-H and TPC-DS) on every machine,
+  1. two workloads (TPC-H and TPC-DS) on every machine, and in a second round TPC-H at
+     scale factor 10 and the Join Order Benchmark (WORKLOADS),
   2. several source models,
   3. more adaptation methods,
   4. strategies for choosing which k target queries to measure,
@@ -56,6 +57,8 @@ strategies and methods are compared on paired sequences.
 Usage
   python src/paper_eval.py run --out results/paper/main --jobs 16
   python src/paper_eval.py run --workloads tpch --sources hybrid --out results/paper/dev --jobs 8
+  python src/paper_eval.py run --workloads tpch10 job --out results/paper/ext --jobs 16
+The default workloads are the first round's (tpch and tpcds); the second round's are named.
 """
 from __future__ import annotations
 
@@ -82,14 +85,6 @@ import train_eval as te
 HERE = ae.HERE
 LABEL = ae.LABEL
 
-# Machine names per workload: the paper's machine M1 to M4 and the run directory of its labels.
-WORKLOADS = {
-    "tpch": {"split": "queries/tpch_sf1_v2/split.csv",
-             "runs": {"M1": "M1", "M2": "M2", "M3": "M3", "M4": "M4", "M5": "M5", "M6": "M6"}},
-    "tpcds": {"split": "queries/tpcds_sf1_kept/split.csv",
-              "runs": {"M1": "M1_tpcds", "M2": "M2_tpcds", "M3": "M3_tpcds", "M4": "M4_tpcds",
-                       "M5": "M5_tpcds", "M6": "M6_tpcds"}},
-}
 # What changes between two machines: M2 and M4 are M1 and M3 with one processor, M5 is M1 with
 # PostgreSQL's default buffer pool (128MB instead of 2GB). Pairs of M5 with M2 to M4 change two
 # things at once ("mixed").
@@ -98,6 +93,38 @@ CHANGE = {frozenset({"M1", "M2"}): "processors", frozenset({"M3", "M4"}): "proce
           frozenset({"M1", "M4"}): "both", frozenset({"M2", "M3"}): "both",
           frozenset({"M1", "M5"}): "memory",
           frozenset({"M3", "M6"}): "processors (2)"}   # M6: M3 pinned to two processors (exploratory)
+# The other pairs of M6, named in the second round's workloads only: the first round calls them
+# "mixed", and its labels stay so that results/paper/final is reproduced.
+CHANGE_EXT = {frozenset({"M4", "M6"}): "processors (1 vs 2)",     # one against two processors
+              frozenset({"M1", "M6"}): "both (2)",                # laptop against the server on two
+              frozenset({"M2", "M6"}): "both (1 vs 2)"}           # laptop on one against the server on two
+# Machine names per workload: the paper's machine M1 to M6 and the run directory of its labels; the
+# workload whose shifts the transfer methods learn from ("other"); the extra change labels; the grid of
+# budgets k (KS unless a workload has its own) and the registered budget kH of H2, H5 and H6 (100
+# unless set). tpch10 and job are the second round of confirmatory tests (paper/PLAN.md, "Extension
+# for the full paper"): E1, TPC-H at scale factor 10, and E2, the Join Order Benchmark. JOB's pool
+# has 78 queries in 33 templates, so its grid stops at 50 (run_c2 would drop 100 and 200 anyway) and
+# holds kH = 33, one pool query per template.
+WORKLOADS = {
+    "tpch": {"split": "queries/tpch_sf1_v2/split.csv",
+             "runs": {"M1": "M1", "M2": "M2", "M3": "M3", "M4": "M4", "M5": "M5", "M6": "M6"},
+             "other": "tpcds"},
+    "tpcds": {"split": "queries/tpcds_sf1_kept/split.csv",
+              "runs": {"M1": "M1_tpcds", "M2": "M2_tpcds", "M3": "M3_tpcds", "M4": "M4_tpcds",
+                       "M5": "M5_tpcds", "M6": "M6_tpcds"},
+              "other": "tpch"},
+    # The second round learns its (exploratory) transfers from TPC-DS at scale factor 1. Not from TPC-H
+    # at scale factor 1: it has the same templates as tpch10, and run_hard keeps the other workload's
+    # shift models whole, so the held-out template's shift would be seen there.
+    "tpch10": {"split": "queries/tpch_sf10_sub/split.csv",
+               "runs": {"M3": "M3_sf10", "M4": "M4_sf10", "M6": "M6_sf10"},
+               "other": "tpcds", "change": CHANGE_EXT, "kh": 100},
+    "job": {"split": "queries/job_kept/split.csv",
+            "runs": {"M1": "M1_job", "M2": "M2_job", "M3": "M3_job", "M4": "M4_job", "M6": "M6_job"},
+            "other": "tpcds", "change": CHANGE_EXT, "ks": [5, 10, 25, 33, 50], "kh": 33},
+}
+# The default of run: the first round, so that the README's command reproduces results/paper/final.
+DEFAULT_WORKLOADS = ["tpch", "tpcds"]
 # The pair whose shift is the same kind of change on other hardware.
 ANALOG = {("M1", "M2"): ("M3", "M4"), ("M3", "M4"): ("M1", "M2"),
           ("M2", "M1"): ("M4", "M3"), ("M4", "M3"): ("M2", "M1"),
@@ -124,6 +151,27 @@ STRATEGIES = ["random", "round-robin", "rr-cheap", "k-center", "d-optimal", "pla
 CHEAP = [NONE, SPEED, TWO, AFFINE, AFFINE_PAR, LOWDIM_TPL, TPL, TPL_RAW, KNN, LOOKUP, RIDGE, RIDGE_TPL, RIDGE_TPL_RAW,
          ORACLE]
 COSTLY = [FOREST_RESID, POOLED, TARGET]
+# Exploratory, added on 8 October 2026 after an internal review and run only with --extra: the forest on
+# the errors given one indicator per template, a refit that knows the templates as the primary method does.
+FOREST_RESID_TPL = "forest-resid+template"
+EXTRA = [FOREST_RESID_TPL]
+
+
+def ks_of(workload: str) -> list[int]:
+    """The budgets k of a workload's C2. run_c2 leaves out every k above a pair's pool."""
+    return list(WORKLOADS[workload].get("ks", KS))
+
+
+def budget(workload: str) -> int:
+    """kH, the registered budget of H2, H5 and H6: 100, and for JOB one query per template."""
+    return int(WORKLOADS[workload].get("kh", 100))
+
+
+def change_of(workload: str, a: str, b: str) -> str:
+    """What changes from machine a to b in a workload; 'none' for the no-move control."""
+    if a == b:
+        return "none"
+    return {**CHANGE, **WORKLOADS[workload].get("change", {})}.get(frozenset({a, b}), "mixed")
 
 
 # ------------------------------------------------------------- source models
@@ -396,6 +444,13 @@ def predictions(p: ae.Pair, sel: np.ndarray, methods: list[str], fit, seed: int,
         elif m == FOREST_RESID:
             rf = ae.make_forest(seed).fit(p.X_pool[sel], e)
             out[m] = p.base_test + rf.predict(p.X_test)
+        elif m == FOREST_RESID_TPL:
+            # A test query of a template without a measured query has every indicator 0.
+            names = np.array([str(t) for t in p.templates])
+            def onehot(tt):
+                return (np.asarray(tt).astype(str)[:, None] == names[None, :]).astype(float)
+            rf = ae.make_forest(seed).fit(np.c_[p.X_pool[sel], onehot(p.pool["template"].to_numpy()[sel])], e)
+            out[m] = p.base_test + rf.predict(np.c_[p.X_test, onehot(p.test["template"].to_numpy())])
         elif m == POOLED:
             out[m] = fit_pooled(p.source_train, p.pool.iloc[sel], seed)(p.test)
         elif m == TARGET:
@@ -668,7 +723,8 @@ def describe_shift(p: ae.Pair, unit_of: dict) -> dict:
             shares.append(stats.template_share(v, src["template"].astype(str).to_numpy())[0])
     out["share_noise"] = float(np.mean(shares)) if shares else None
     # The share of variance between templates is biased upward when templates hold few queries;
-    # epsilon squared corrects for it: (SS_between - (G - 1) MS_within) / (SS_total + MS_within).
+    # omega squared corrects for it: (SS_between - (G - 1) MS_within) / (SS_total + MS_within). The key
+    # stays "epsilon2", the name the first round's summary was written with.
     tpl = sv["template"].to_numpy()
     names, inv = np.unique(tpl, return_inverse=True)
     n = np.bincount(inv).astype(float)
@@ -867,6 +923,9 @@ def pair_job(workload: str, source_name: str, a: str, b: str, labels: dict, spli
         for s in STRATEGIES[1:]:
             plan[s] = [NONE, SPEED, TWO, AFFINE, AFFINE_PAR, LOWDIM_TPL, TPL, TPL_RAW, KNN, LOOKUP, RIDGE,
                        RIDGE_TPL, RIDGE_TPL_RAW, ORACLE] + transfer
+        if cfg.get("extra"):
+            plan["random"] = plan["random"] + EXTRA
+            plan["round-robin"] = plan["round-robin"] + EXTRA
     else:
         plan["random"] = [NONE, SPEED, AFFINE_PAR, RIDGE, RIDGE_TPL, LOWDIM_TPL, ORACLE] + \
             ([TARGET] if cfg["costly"] else [])
@@ -878,7 +937,7 @@ def pair_job(workload: str, source_name: str, a: str, b: str, labels: dict, spli
         plan = {s: [NONE, SPEED, TPL_RAW, LOWDIM_TPL, KNN, LOOKUP, ORACLE] for s in ("random", "round-robin")}
     logs, cost = run_c2(p, fit, orders, ks, plan, shift_models)
     out = {"workload": workload, "source": source_name, "pair": ae.pair_name(a, b), "a": a, "b": b,
-           "change": "none" if a == b else CHANGE.get(frozenset({a, b}), "mixed"),
+           "change": change_of(workload, a, b),
            "pool": p.n_pool, "test": p.n_test,
            "templates": [str(t) for t in p.templates], "features_differ": len(p.features_differ),
            "units": len(set(unit_of[str(t)] for t in p.templates)),
@@ -906,31 +965,36 @@ def run(args) -> None:
     runs = Path(args.runs)
     data = {w: load_workload(w, runs) for w in args.workloads}
     cfg = {"orders": args.orders, "ks": KS, "costly": not args.no_costly, "hard": not args.no_hard,
-           "transfer": not args.no_transfer, "stream": not args.no_stream}
+           "transfer": not args.no_transfer, "stream": not args.no_stream, "extra": args.extra}
+    # A workload with its own grid or budget (the second round's) is listed in the summary; its pairs
+    # run with its own grid. A machine without labels is left out (load_workload).
+    own = {w: {"ks": ks_of(w), "kh": budget(w)} for w in args.workloads
+           if "ks" in WORKLOADS[w] or "kh" in WORKLOADS[w]}
     jobs = []
     for w, (labels, split) in data.items():
-        others = [x for x in WORKLOADS if x != w]
+        o = WORKLOADS[w].get("other")
         other = None
-        if others:
-            o = others[0]
+        if o is not None:
             other = data[o] if o in data else (load_workload(o, runs) if (HERE / WORKLOADS[o]["split"]).exists() else None)
+        w_cfg = {**cfg, "ks": ks_of(w)}
         machines = sorted(labels)
         for a, b in permutations(machines, 2):
             for s in args.sources:
-                jobs.append((w, s, a, b, labels, split, other))
+                jobs.append((w, s, a, b, labels, split, other, w_cfg))
         if "hybrid" in args.sources and not args.no_control:
             for m in machines:
-                jobs.append((w, "hybrid", m, m, labels, split, other))
+                jobs.append((w, "hybrid", m, m, labels, split, other, w_cfg))
     print(f"{len(jobs)} jobs on {args.jobs} processes", flush=True)
     t0 = time.time()
-    results = Parallel(n_jobs=args.jobs, verbose=5)(delayed(pair_job)(*j, cfg) for j in jobs)
+    results = Parallel(n_jobs=args.jobs, verbose=5)(delayed(pair_job)(*j) for j in jobs)
     frames = [f for r in results for f in r.pop("frames")]
     shifts = [r.pop("shift_vector") for r in results if "shift_vector" in r]
     pd.concat(frames, ignore_index=True).to_csv(out / "per_template.csv", index=False)
     if shifts:
         pd.concat(shifts, ignore_index=True).to_csv(out / "shift_vectors.csv", index=False)
     summary = {"config": {**cfg, "workloads": args.workloads, "sources": args.sources,
-                          "strategies": STRATEGIES, "hard_k": HARD_K, "hard_orders": HARD_ORDERS},
+                          "strategies": STRATEGIES, "hard_k": HARD_K, "hard_orders": HARD_ORDERS,
+                          **({"by_workload": own} if own else {})},
                "seconds": round(time.time() - t0, 1), "jobs": results}
     (out / "summary.json").write_text(json.dumps(summary, indent=1, default=float) + "\n", encoding="utf-8")
     print(f"wrote {out} in {summary['seconds']} s", flush=True)
@@ -942,7 +1006,7 @@ def main() -> None:
     r = sub.add_parser("run")
     r.add_argument("--runs", default=str(HERE / "results" / "runs"))
     r.add_argument("--out", default=str(HERE / "results" / "paper" / "main"))
-    r.add_argument("--workloads", nargs="+", default=list(WORKLOADS), choices=list(WORKLOADS))
+    r.add_argument("--workloads", nargs="+", default=list(DEFAULT_WORKLOADS), choices=list(WORKLOADS))
     r.add_argument("--sources", nargs="+", default=list(SOURCES), choices=list(SOURCES))
     r.add_argument("--orders", type=int, default=ORDERS)
     r.add_argument("--jobs", type=int, default=4)
@@ -951,6 +1015,7 @@ def main() -> None:
     r.add_argument("--no-transfer", action="store_true")
     r.add_argument("--no-stream", action="store_true")
     r.add_argument("--no-control", action="store_true", help="skip the no-move controls (a machine as its own source)")
+    r.add_argument("--extra", action="store_true", help="also run the exploratory methods of EXTRA (hybrid source)")
     args = ap.parse_args()
     if args.cmd == "run":
         run(args)

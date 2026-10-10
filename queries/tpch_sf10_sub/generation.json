@@ -1,0 +1,56 @@
+{
+ "source": "queries/tpch_sf1_v2",
+ "scale_factor": 10,
+ "seed": 0,
+ "per_template": {
+  "pool": 7,
+  "test": 3
+ },
+ "rule": "one numpy default_rng(0), templates in increasing order, pool then test, choice without replacement from the sorted query ids of the set",
+ "q11_fraction": "divided by the scale factor and written with ten decimals",
+ "q11_fractions": {
+  "q11_002": {
+   "sf1": "0.0001000000",
+   "sf10": "0.0000100000"
+  },
+  "q11_005": {
+   "sf1": "0.0001000000",
+   "sf10": "0.0000100000"
+  },
+  "q11_006": {
+   "sf1": "0.0001000000",
+   "sf10": "0.0000100000"
+  },
+  "q11_017": {
+   "sf1": "0.0001000000",
+   "sf10": "0.0000100000"
+  },
+  "q11_w04": {
+   "sf1": "0.0000144156",
+   "sf10": "0.0000014416"
+  },
+  "q11_w12": {
+   "sf1": "0.0000019771",
+   "sf10": "0.0000001977"
+  },
+  "q11_w13": {
+   "sf1": "0.0000028635",
+   "sf10": "0.0000002864"
+  },
+  "q11_w15": {
+   "sf1": "0.0000038415",
+   "sf10": "0.0000003842"
+  },
+  "q11_w17": {
+   "sf1": "0.0000744585",
+   "sf10": "0.0000074459"
+  },
+  "q11_w20": {
+   "sf1": "0.0000727374",
+   "sf10": "0.0000072737"
+  }
+ },
+ "queries": 220,
+ "pool": 154,
+ "test": 66
+}
