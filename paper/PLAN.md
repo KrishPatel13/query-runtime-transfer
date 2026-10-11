@@ -454,3 +454,9 @@ See the log at the end of this file.
   queries) and SF10 at one query per template (1.16 against 1.30 for the
   speed factor). The paper no longer says the features or the pool size
   explain JOB.
+- 2026-10-10 20:00: E3 is not run for the ICDE submission (Krish's
+  decision, weighing a modest gain against the setup). It stays registered:
+  if it runs later, for the PVLDB version, it is evaluated as registered,
+  and any further environment (such as the laptop under native Linux pinned
+  to a performance or an efficiency core) is registered here before it is
+  measured. No measurement of E3 exists.
