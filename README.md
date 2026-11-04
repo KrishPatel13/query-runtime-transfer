@@ -87,6 +87,7 @@ over the 30 ordered pairs of environments of each benchmark:
 | `tests/` | unit tests (`python -m pytest tests`) |
 | `STUDY.md` | the run book of the course study: every step, its command, and the decisions taken during the measurements |
 | `paper/PLAN.md` | the paper's study plan, with both rounds' hypotheses and their timestamped amendments |
+| `paper/registration/` | the six commits the paper cites as its registration record, which belong to the private development repository: their hashes, times and changes, and the plan's text at each |
 
 ## The environments
 
