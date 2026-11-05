@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code or these measurements, please cite them as below."
+message: "If you use this code or these measurements, please cite the paper given under preferred-citation."
 title: "Adapting learned cost models to new hardware: code and measurements"
 type: software
 authors:
@@ -17,3 +17,16 @@ keywords:
   - TPC-DS
   - Join Order Benchmark
   - domain adaptation
+preferred-citation:
+  type: article
+  title: "When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware"
+  authors:
+    - family-names: Patel
+      given-names: Krish
+      affiliation: University of Waterloo
+      orcid: "https://orcid.org/0009-0006-3064-0086"
+  journal: "arXiv preprint arXiv:2611.05892"
+  year: 2026
+  month: 11
+  doi: "10.48550/arXiv.2611.05892"
+  url: "https://arxiv.org/abs/2611.05892"

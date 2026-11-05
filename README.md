@@ -15,6 +15,9 @@ Two documents are built from this repository:
 | Course project report (CS 680, University of Waterloo, Fall 2026): *Adapting Small Query Runtime Models to New Machines and Unseen Query Templates* | [`final_report.pdf`](final_report.pdf) | `latexmk -pdf final_report.tex` |
 | Paper: *[Experiment, Analysis, and Benchmark] When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware* | [`paper/icde/paper.pdf`](paper/icde/paper.pdf) | `cd paper/icde && latexmk -pdf paper.tex` |
 
+A preprint of the paper is on arXiv:
+[arXiv:2611.05892](https://arxiv.org/abs/2611.05892).
+
 Every number, table and figure in both documents is a LaTeX macro or file
 written by the scripts below from the saved measurements; nothing is typed in
 by hand.
@@ -225,4 +228,22 @@ benchmark results and are not comparable with published ones.
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff).
+The paper is on arXiv as
+[arXiv:2611.05892](https://arxiv.org/abs/2611.05892). If you use this code
+or these measurements, please cite it:
+
+```bibtex
+@misc{patel2026onequery,
+  author        = {Krish Patel},
+  title         = {When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware},
+  year          = {2026},
+  eprint        = {2611.05892},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.DB},
+  doi           = {10.48550/arXiv.2611.05892},
+  url           = {https://arxiv.org/abs/2611.05892}
+}
+```
+
+[`CITATION.cff`](CITATION.cff) holds the same reference, which GitHub's
+"Cite this repository" button shows.
